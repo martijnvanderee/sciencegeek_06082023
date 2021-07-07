@@ -171,6 +171,7 @@ export const randomPost = async (numberOfPost: number = 1): Promise<PostData[]> 
 
   const randomPostNumbers = await getRandomPostNumbers(PostPathDateOnderwerp, numberOfPost)
 
+
   const DatePathOnderwerp = await randomPostNumbers.map((num: number) => PostPathDateOnderwerp[num])
 
   return Promise.all(
@@ -289,7 +290,7 @@ const getRandomPostNumbers = (posts: any[], amountOfPosts: number): number[] => 
   const numberOfTotalPosts = getNumberOfPosts(posts)
 
   const array1 = Array.from(Array(amountOfPosts).keys())
-
+  console.log("array", array1)
   const array: any = []
   array1.map(() => { return array.push(recurse(numberOfTotalPosts, array)) })
 
@@ -302,13 +303,14 @@ export const getRandomPostBySubject = async (amountOfPosts: number, subject: str
 
   const postPathDate = await getPostPathAndDate()
 
-
   const postsBySubject = getPostBySubject(postPathDate, subject)
 
-
+  console.log("here", postsBySubject)
   const randomPostNumbers = getRandomPostNumbers(postsBySubject, amountOfPosts)
   //get randompaths
   const postPath = getRandomPaths(randomPostNumbers, postsBySubject)
+
+
 
   //get posts
   const posts = await getPost(postPath)
