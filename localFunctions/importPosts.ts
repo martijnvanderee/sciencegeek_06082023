@@ -290,8 +290,19 @@ const getRandomPostNumbers = (posts: any[], amountOfPosts: number): number[] => 
   const numberOfTotalPosts = getNumberOfPosts(posts)
 
   const array1 = Array.from(Array(amountOfPosts).keys())
+
   console.log("array", array1)
+
+
+  const array2: any = array1
+
   const array: any = []
+
+  getRandomInt(array2)
+
+
+
+
   array1.map(() => { return array.push(recurse(numberOfTotalPosts, array)) })
 
   return array

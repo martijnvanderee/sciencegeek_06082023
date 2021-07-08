@@ -1,6 +1,6 @@
 const lunr = require('lunr');
 const posts = require('./data.json');
-const postsIndexedForSearch = lunr.Index.load(require('./index.json'));
+
 
 const numberOfResults = 5
 
@@ -8,11 +8,15 @@ const handler = async (event: any) => {
   try {
     const inputUser: string = event.queryStringParameters.search;
     if (!inputUser) throw ('Missing term query parameter');
+    console.log(inputUser, "inputUser")
+    const postsIndexedForSearch = lunr.Index.load(require('./index.json'));
 
     const formattedSearch = formatSearch(postsIndexedForSearch, inputUser, numberOfResults)
 
     const test = postsIndexedForSearch.search(inputUser)
 
+
+    console.log(test, "test")
     test.forEach((r: any) => {
       r.title = posts[r.ref].title;
       r.image = posts[r.ref].image;
@@ -21,10 +25,7 @@ const handler = async (event: any) => {
       r.date = posts[r.ref].date;
     });
 
-
-
-
-
+    console.log(test, "test")
 
     return {
       statusCode: 200,

@@ -35,9 +35,7 @@ export const SearchPage = () => {
 
 
   const env = process.env.NODE_ENV
-  const url = query && `https://monique1.netlify.app.netlify/functions/getSearch/?search=${query}`
-
-  // const url = query && env === "development" ? `${process.env.LOCALHOST}.netlify/functions/getSearch/?search=${query}` : `${process.env.LIVE_URL}.netlify/functions/getSearch/?search=${query}`
+  const url = query && `http://localhost:8888/.netlify/functions/getSearch/?search=${query}`
 
   const { response, error }: any = useFetch(url);
 
@@ -72,8 +70,10 @@ export const SearchPage = () => {
           <FormInput type={"text"} onChange={debounce(handleChange, 1000)} />
         </div>
 
-        {fakeData && <div className="mt-8">{fakeData.posts.map((post: any, index: any) => {
-          return (<PostItem post={post} photo={fakeData.photos[index].headerData} />)
+
+        {data && <div className="mt-8">{response.data.map((post: any, index: any) => {
+          return (<PostItem1
+            slug={post.slug} image={post.image} title={post.title} date={post.date} onderwerp={post.onderwerp} />)
         })} </div>}
 
       </div>
@@ -83,5 +83,3 @@ export const SearchPage = () => {
 
 
 //<PostItem post={post} photo={fakeData.photos[index].headerData} />
-
-//<PostItem1 slug={post.slug} image={post.image} title={post.title} date={post.date} onderwerp={post.onderwerp} />
