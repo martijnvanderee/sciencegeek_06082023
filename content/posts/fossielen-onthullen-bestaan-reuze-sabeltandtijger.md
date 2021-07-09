@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Fossielen onthullen bestaan reuze sabeltandtijger
 date: 2021-06-11T15:01:17.188Z
-headerPhoto: map-image-img-skelet-schedel-dood-jpg-onderschrift-skelet-schedel-dood
+headerPhoto: map-onderschrift-schedel-sabeltandtijger-uitgestorven-image-img-schedel-sabeltandtijger-uitgestorven-jpg
 onderwerp: nature
 auteur: Monique Siemsen
 tags:
