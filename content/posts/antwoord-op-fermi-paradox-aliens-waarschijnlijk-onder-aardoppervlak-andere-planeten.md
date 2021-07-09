@@ -1,6 +1,7 @@
 ---
 templateKey: post.template
 title: Antwoord op Fermi-paradox?
+Subtitle: Aliens waarschijnlijk onder aardoppervlak andere planeten!
 date: 2021-06-11T15:31:14.914Z
 headerPhoto: map-onderschrift-aliens-bevinden-zich-waarschijnlijk-op-planeten-die-ook-over-ondergronds-water-beschikken-bron-pixabay-com-image1-image-img-alien-rugzakje-landschap-jpg
 onderwerp: space
