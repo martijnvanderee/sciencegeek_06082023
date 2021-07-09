@@ -291,7 +291,7 @@ const getRandomPostNumbers = (posts: any[], amountOfPosts: number): number[] => 
 
   const array1 = Array.from(Array(amountOfPosts).keys())
 
-  console.log("array", array1)
+
 
 
   const array2: any = array1
@@ -316,7 +316,7 @@ export const getRandomPostBySubject = async (amountOfPosts: number, subject: str
 
   const postsBySubject = getPostBySubject(postPathDate, subject)
 
-  console.log("here", postsBySubject)
+
   const randomPostNumbers = getRandomPostNumbers(postsBySubject, amountOfPosts)
   //get randompaths
   const postPath = getRandomPaths(randomPostNumbers, postsBySubject)

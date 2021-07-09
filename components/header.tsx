@@ -26,11 +26,17 @@ export const Header = () => {
           <div className="hidden md:block"></div>
 
           <Link href="/">
-            <a className="my-auto md:text-center hidden sm:block md:flex md:mx-auto">
-              <div className="my-auto "> <h1 className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
-                <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div></div>
+            <a className="relative my-auto md:text-center hidden sm:block md:flex md:mx-auto">
 
-              <div className="h-20 hidden md:block ">
+
+              <div className="my-auto md:text-center">
+                <div className="my-auto md:text-center"> <h1 className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
+
+                  <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div></div>
+              </div>
+
+
+              <div className="absolute -top-6 -right-16 h-32 hidden md:inline-block ">
                 <img
                   className="h-full cursor-pointer "
                   alt="logo science geek"
@@ -43,12 +49,12 @@ export const Header = () => {
 
           <Link href="/">
             <a className="my-auto sm:hidden">
-              <h1 className="text-4xl text-white md:text-5xl  font-black ">S<strong className="text-yellow">G</strong></h1>
+              <h1 className="text-2xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
               <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div>
             </a>
           </Link>
           <Link href="/" passHref>
-            <a className="h-20 left-20 sm:left-64 sm:h-24 sm:h-16 sm:-top-2 absolute m-auto md:hidden">
+            <a className="h-20 left-44 sm:left-64 sm:h-24 sm:h-16 sm:-top-2 absolute m-auto md:hidden">
               <img
                 className="h-full cursor-pointer "
                 alt="logo science geek"

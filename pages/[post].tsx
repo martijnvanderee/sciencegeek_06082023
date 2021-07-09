@@ -33,7 +33,62 @@ function getPosition(string: any, subString: any, index: any) {
   return string.split(subString, index).join(subString).length;
 }
 
+
+function getPosition1(string: any, subString: any, index: any) {
+  return string.split(subString, index)
+}
+
 const splitAt = (index: any) => (x: any) => [x.slice(0, index), x.slice(index)]
+
+
+const test = (str: any, subString: string, index: number) => {
+  const test = str.split(subString)
+  let number
+
+  const test1 = test.map(test1func)
+
+  const test2 = test2func(test1, index)
+
+  const test3 = test.join(subString)
+  const test4 = test3.split(subString, test2).join(subString).length;
+
+
+
+
+
+
+}
+
+const test1func = (arr: any) => {
+  return arr.substring(0, 8) !== "<strong>";
+}
+
+
+const test2func = (arr: any, ind: number) => {
+  if (arr.length === 0) return -1
+  let num = -1
+
+  for (const [i, v] of arr.entries()) {
+    if (i < ind) {
+      num = -1
+      continue;
+    }
+    if (v && arr[i - 1]) {
+      num = i
+      break;
+    }
+    if (v) {
+      num = i
+      continue;
+    }
+    else
+      num = -1
+  }
+  return num
+}
+
+
+
 
 
 
@@ -44,16 +99,29 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
   const tags = modifyTags(attributes.tags)
 
+
+
   const index = getPosition(html, "</p>", 3) + 4
+
+
+
+  const res = test(html, "<p>", 3)
+
+  const restest1 = splitAt(res)(html)[0]
+  const resttest2 = splitAt(res)(html)[1]
+
+
+
 
   const firstHtml = splitAt(index)(html)[0]
   const secondHtml = splitAt(index)(html)[1]
+
+
 
   return (
     <Layout title={attributes.title}>
       <div className="md:max-w-6xl  md:mx-auto">
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
-
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
               src={image}
@@ -61,28 +129,20 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
               className="absolute inset-0 w-full h-full  object-cover"
             />
           </div>
-          <p className="z-10 text-grey text-small text-sm text-center">bron: {dataPhotos.bron}</p>
+          <p className="z-10  text-grey text-small text-sm md:w-8/12 m-auto ">bron: {dataPhotos.bron}</p>
         </div>
 
 
         <div className="p-4 md:mb-4">
 
-          <h2 className="text-3xl font-bold text-black mb-6 md:text-center mt-4 md:mt-8 md:text-4xl">{attributes.title}</h2>
+          <div className=" mb-6 mt-4 md:mt-8 md:max-w-xl md:mx-auto">
 
-          <div className="flex mb-2 md:justify-center md:mb-4">
+            <h2 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{attributes.title}</h2>
 
-            <div className="flex">
-
-              <IconContext.Provider value={{ color: "#707070", size: "1.5em", }}>
-                <div>
-                  <BiTimeFive className="mr-1" />
-                </div>
-              </IconContext.Provider>
-
-
-              <time className="text text-grey m-auto">{date}</time>
-            </div>
+            {attributes.Subtitle && <h3 className=" italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{attributes.Subtitle}</h3>}
           </div>
+
+
 
 
 
@@ -93,7 +153,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
 
 
-          <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto mb-20">
+          <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto mb-24">
 
             <div className="relative w-full h-full md:w-8/12 m-auto">
               <img
@@ -102,8 +162,13 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
                 className="absolute inset-0 w-full h-full  object-cover"
               />
             </div>
-            <p className="z-10 text-grey text-small text-sm text-center">{middlePhoto.onderschrift}</p>
-            <p className="z-10 text-grey text-small text-sm text-center">bron: {middlePhoto.bron}</p>
+
+            <div className="md:w-8/12 m-auto mb-4">
+              <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
+              <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
+            </div>
+
+
 
 
           </div>

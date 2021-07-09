@@ -25,7 +25,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post, photo }) => {
             />
           </div>
           <div className="relative px-2">
-            <span className="text-sm text-yellow">
+            <span className="text-sm text-yellow md:text-purple">
               {post.attributes.onderwerp}
             </span>
 
