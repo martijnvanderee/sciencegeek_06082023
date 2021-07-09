@@ -1,6 +1,7 @@
 ---
 templateKey: post.template
 title: "Klimaatverandering modern probleem? "
+Subtitle: Europa warmt al zeker meer dan 2000 jaar op
 date: 2021-06-11T14:49:43.960Z
 headerPhoto: map-onderschrift-droogte-landschap-gele-bloem-image-img-boom-bladeren-groen-jpg
 onderwerp: nature
