@@ -11,8 +11,6 @@ tags:
 photo's:
   - map-bron-pixabay-com-onderschrift-grot-water-blauw-image-img-grot-water-blauw-jpeg
 ---
-**Aliens waarschijnlijk onder aardoppervlak andere planeten!**
-
 We moeten niet naar tekenen van leven zoeken aan de oppervlakten van planeten, maar onder de oppervlakten en wel tot tientallen kilometers diep. De kans dat intelligent leven zich ondergronds bevindt, is namelijk vele malen groter dan dat het zichtbaar aan de oppervlakte rondscharrelt.
 
 **Redelijk veel planeten met ondergronds water**
@@ -36,8 +34,6 @@ De wetenschappers van het Southwest Research Institute noemen de aanwezigheid va
 **Eventuele ondergrondse aliens moeilijk op te sporen**
 
 Al die bescherming is leuk en aardig voor buitenaards leven, maar het bemoeilijkt tevens onze zoektocht naar tekenen van dit leven aanzienlijk. Dezelfde factoren die het leven van deze wezens mogelijk maken en beschermen, houden hen ook verborgen voor menselijke zoekapparatuur. Hiermee is een oplossing geboden voor de Fermi-paradox, te weten: als intelligent leven op andere planeten zo goed mogelijk is, hoe kan het dan dat we dit leven niet kunnen vinden? Door tientallen kilometers rots bijvoorbeeld dus. En dáár zijn voorlopig nog geen oplossingen voor in de praktijk te brengen.
-
-
 
 *Gepubliceerd op 18.03.2021*
 
