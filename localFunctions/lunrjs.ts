@@ -1,7 +1,6 @@
 import lunr from "lunr"
 
-
-import React, { useEffect } from "react"
+import React from "react"
 
 import axios from 'axios'
 
@@ -54,13 +53,6 @@ const createIndex = (posts: titles[]) => {
 
     const datas = posts
 
-
-    // documents.forEach(
-    //   function (data) {
-    //     this.add(data)
-    //   }, this)
-
-
     datas.map((data: any) => {
       this.add(data)
     })
@@ -79,15 +71,14 @@ export const getSearchData = async () => {
   return { index, posts1: posts }
 }
 
-
-
-
 export const useFetch = (url: any) => {
   const [response, setResponse] = React.useState(null);
   const [error, setError] = React.useState(null);
   React.useEffect(() => {
     const fetchData = async () => {
+
       try {
+
         const res: any = await axios.get(url)
 
         setResponse(res)

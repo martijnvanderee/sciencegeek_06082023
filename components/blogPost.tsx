@@ -3,7 +3,6 @@ import Link from "next/link";
 import { formatDate } from "../localFunctions/formatdate"
 
 export const BlogPost = ({ blogPost }: any) => {
-
   const urlLink = blogPost.slug
 
   return (

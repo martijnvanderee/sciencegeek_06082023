@@ -1,5 +1,5 @@
 
-import React, { FunctionComponent } from 'react'
+import React, { FunctionComponent, useEffect } from 'react'
 import { useIsMenuOpen } from '../state/isMenuOpen'
 
 import { CgClose } from 'react-icons/cg';
@@ -9,28 +9,35 @@ import { navNames, navLinks } from "../public/variables"
 import { useRouter } from 'next/router'
 import Link from "next/link";
 
+//hooks
+import { useKeyPress } from "../hooks/useKeyPress"
 
 export const MenuSlider = () => {
   const { state, dispatch } = useIsMenuOpen()
 
+  const isEnterPressed = useKeyPress({
+    key: "Escape",
+  })
 
+  useEffect(() => {
+    if (isEnterPressed) {
+      dispatch({ type: "close" })
+    }
+  }, [isEnterPressed])
 
   const switchClass = state.isMenuOpen ? "w-96 right-0" : "w-96 -right-96"
 
   return (
     <div className={`fixed right-0 top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}>
 
-      <div className={``}>
-        <IconContext.Provider value={{ color: "", className: "", size: "1.5em", }}>
-          <button className="float-right mr-4 mt-4" onClick={() => dispatch({ type: 'close' })}><CgClose /></button>
+      <div className={`relative`}>
 
+        <IconContext.Provider value={{ color: "", className: "", size: "2em", }}>
+          <button className="absolute right-4 top-4" onClick={() => dispatch({ type: 'close' })}><CgClose /></button>
         </IconContext.Provider>
-
-
-
         {/* <Zoeken /> */}
 
-        <div className="mt-4">
+        <div className="pt-12">
           {navNames.map((navName, index) => {
             const path: string = useRouter().asPath
             const isRoute: boolean = path === navLinks[index]
@@ -40,18 +47,12 @@ export const MenuSlider = () => {
           <Link href="/over-sciencegeek">
             <a onClick={() => dispatch({ type: 'close' })} className={` relative`} >
               <div className={`ml-4 text-2xl py-4 border-b border-almostWhite  `}>Over ScienceGeek</div>
-
-
             </a>
           </Link>
+
         </div>
-
-
-
       </div>
     </div>
-
-
   );
 };
 
@@ -95,7 +96,7 @@ const Zoeken: FunctionComponent<ButtonProps> = () => {
       <button className="bg-purple text-white text-xl
        font-bold py-1 px-2 rounded ml-1" type="submit">
         Zoek
-</button>
+      </button>
 
     </div>
   )

@@ -2,11 +2,9 @@
 import Nav from './nav';
 import Link from "next/link";
 import { FaSearch, FaBars } from 'react-icons/fa';
-import { IconContext } from "react-icons";
 
 import { useIsMenuOpen } from '../state/isMenuOpen'
 import { useIsSearchMenuOpen } from '../state/isSearchMenuOpen'
-
 
 export const Header = () => {
   const { dispatch, state } = useIsMenuOpen()
@@ -17,7 +15,16 @@ export const Header = () => {
   const SearchmenuAction = isSearchMenuOpen ? "close" : "open"
 
 
+  const handleClickSearch = () => {
+    dispatchMenu({ type: SearchmenuAction })
+    dispatch({ type: "close" })
+  }
 
+  const handleClickMenu = () => {
+
+    dispatch({ type: menuAction })
+    dispatchMenu({ type: "close" })
+  }
   return (
     <header className="sticky top-0 z-20 bg-purple">
       <div className="mx-auto">
@@ -25,17 +32,15 @@ export const Header = () => {
 
           <div className="hidden md:block"></div>
 
+          {/* logo naam small*/}
           <Link href="/">
             <a className="relative my-auto md:text-center hidden sm:block md:flex md:mx-auto">
-
-
               <div className="my-auto md:text-center">
                 <div className="my-auto md:text-center"> <h1 className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
-
                   <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div></div>
               </div>
 
-
+              {/* logo */}
               <div className="absolute -top-6 -right-16 h-32 hidden md:inline-block ">
                 <img
                   className="h-full cursor-pointer "
@@ -47,6 +52,7 @@ export const Header = () => {
             </a>
           </Link>
 
+          {/* logo naam big*/}
           <Link href="/">
             <a className="my-auto sm:hidden">
               <h1 className="text-2xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
@@ -64,36 +70,34 @@ export const Header = () => {
           </Link>
 
 
-
           <div className="flex my-auto justify-end">
-            {/* <div className="text-white underline underline-yellow">blijf up to date</div>
-            <div className="text-white">stel vragen</div> */}
-            <div className="flex my-auto cursor-pointer" onClick={() => dispatchMenu({ type: SearchmenuAction })}>
-              <IconContext.Provider value={{ color: "white", className: "mr-4 md:hidden", size: "2em", }}>
-                <div className="flex items-center justify-content">
-                  <FaSearch />
-                </div>
-              </IconContext.Provider>
-              <IconContext.Provider value={{ color: "white", className: "mr-1 hidden md:block", size: "2.5em", }}>
-                <div className="flex items-center justify-content">
-                  <FaSearch />
-                </div>
-              </IconContext.Provider>
+            <div className="flex my-auto cursor-pointer" onClick={handleClickSearch}>
+
+              {/* search icon small */}
+              <div className="flex items-center justify-content mr-4 md:hidden">
+                <FaSearch size="2em" color="white" />
+              </div>
+
+              {/* bar icon small */}
+              <div className="flex items-center justify-content mr-1 hidden md:block">
+                <FaSearch color="white" size="2.5em" />
+              </div>
+
               <div className="text-white my-auto text-lg md:text mr-4 hidden md:block">Zoeken</div>
             </div>
 
-            <div className="flex my-auto cursor-pointer " onClick={() => dispatch({ type: menuAction })}>
-              <IconContext.Provider value={{ color: "white", className: "mr-1 md:hidden", size: "2em" }}>
-                <div className="flex items-center justify-content">
-                  <FaBars />
-                </div>
-              </IconContext.Provider>
+            <div className="flex my-auto cursor-pointer " onClick={handleClickMenu}>
 
-              <IconContext.Provider value={{ color: "white", className: "mr-1 hidden md:block", size: "2.5em" }}>
-                <div className="flex items-center justify-content">
-                  <FaBars />
-                </div>
-              </IconContext.Provider>
+              {/* search icon big */}
+              <div className="flex items-center justify-content mr-1 md:hidden">
+                <FaBars color="white" size="2em" />
+              </div>
+
+              {/* bar icon big */}
+              <div className="flex items-center justify-content mr-1 hidden md:block">
+                <FaBars color="white" size="2.5em" />
+              </div>
+
               <div className="text-white text-lg my-auto md:text">Menu</div>
             </div>
 
@@ -101,6 +105,7 @@ export const Header = () => {
         </div>
       </div >
       <Nav />
-    </header >)
+    </header >
+  )
 }
 

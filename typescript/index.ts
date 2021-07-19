@@ -16,6 +16,24 @@ export interface PostData {
   }
   html: string
   slug: string
+  photos?: any
+}
+
+
+export interface PostMeta {
+  FileNames: string[];
+  amountOfPosts: number;
+  postPerSubject: { [key: string]: string[] }
+  amountOfPostPerSubject: { [key: string]: number }
+  subjectNames: string[]
+  postMeta: {
+    [key: string]: {
+      headerPhoto: string
+      photos: string[]
+      date: Date
+    }
+  }
+
 }
 
 export interface DataPhotos {

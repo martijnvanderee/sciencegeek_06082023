@@ -2,3 +2,4 @@ export const navNames = ["Home", "History", "Nature", "Human", "Quirky", "Space"
 export const navLinks = ["/", "/history", "/nature", "/human", "/quirky", "/space", "/tech"]
 export const numberOfPostsOnPage = 6
 export const amountOfPostFrontPage = 10
+export const amountOfRandomPostFrontPage = 6

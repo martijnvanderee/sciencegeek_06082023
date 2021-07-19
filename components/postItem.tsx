@@ -7,10 +7,9 @@ import { formatDate } from "../localFunctions/formatdate"
 
 type postProps = {
   post: PostData,
-  photo: DataPhotos
 }
 
-export const PostItem: FunctionComponent<postProps> = ({ post, photo }) => {
+export const PostItem: FunctionComponent<postProps> = ({ post }) => {
   const date: string = formatDate(post.attributes.date)
   const url = post.slug
   return (
@@ -19,7 +18,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post, photo }) => {
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
             <img
-              src={`${photo.image}/?nf_resize=fit&w=700`}
+              src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
               alt="title van artikel"
               className="absolute inset-0 w-full h-full object-cover"
             />
@@ -37,7 +36,6 @@ export const PostItem: FunctionComponent<postProps> = ({ post, photo }) => {
         </div>
       </div>
     </Link>
-
   )
 }
 
@@ -79,5 +77,34 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
       </div>
     </Link>
 
+  )
+}
+
+type postProps2 = {
+  post: PostData
+}
+
+export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
+  const url = post.slug
+  return (
+    <Link href={`/${url}`} as={`/${url}`}>
+      <div className="m-4 cursor-pointer">
+        <div className="relative h-64">
+          <img
+            src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
+            alt={post.attributes.title}
+            className="absolute inset-0 w-full h-full object-cover"
+          />
+        </div>
+        <div className="relative h-36 p-2 ">
+          <div>
+            <div className="text-yellow font-medium mb-2">{post.attributes.onderwerp}</div>
+            <div className="text-black font-semibold text-2xl">{post.attributes.title}</div>
+          </div>
+          <div className="absolute w-12 bg-yellow h-0.5 bottom-0 right-0"></div>
+          <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
+        </div>
+      </div>
+    </Link>
   )
 }

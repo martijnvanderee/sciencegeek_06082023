@@ -25,7 +25,7 @@ ons nieuws verifieerbaar en betrouwbaar.</p>
         <h3 className="text-xl mb-4 font-bold">Contact met ScienceGeek</h3>
 
         <p className="text-xl mb-4">Heb je ook wetenschappelijk nieuws dat je graag wilt delen of ben je net gepromoveerd?
-        Dan horen we heel graag van je. Stuur een persbericht naar redactie@sciencegeek.nl met je gecontactgegevens en beeldmateriaal. Dan nemen we binnen 24 uur contact met je op.</p>
+        Dan horen we heel graag van je. Stuur een persbericht naar redactie@sciencegeek.nl met je contactgegevens en beeldmateriaal. Dan nemen we binnen 24 uur contact met je op.</p>
 
         <p className="text-xl mb-4">We wensen je een interessante en leuke dag toe!</p>
         <br />

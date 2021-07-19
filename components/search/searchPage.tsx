@@ -26,7 +26,9 @@ export const SearchPage = () => {
   })
 
   useEffect(() => {
-    if (isEnterPressed) dispatchMenu({ type: "close" })
+    if (isEnterPressed) {
+      dispatchMenu({ type: "close" })
+    }
   }, [isEnterPressed])
 
   const switchClass = state.isSearchMenuOpen ? "visible" : "hidden"
@@ -35,12 +37,15 @@ export const SearchPage = () => {
 
 
   const env = process.env.NODE_ENV
-  const url = query && `https://monique1.netlify.app/.netlify/functions/getSearch/?search=${query}`
 
+  const url = query && `http:localhost:8888/.netlify/functions/getSearch/?search=${query}`
+
+
+  //http:localhost:8888
+  //https://monique1.netlify.app
   const { response, error }: any = useFetch(url);
 
   let data = response?.data;
-
 
 
   const handleChange = (e: string) => {
@@ -82,4 +87,3 @@ export const SearchPage = () => {
 }
 
 
-//<PostItem post={post} photo={fakeData.photos[index].headerData} />
