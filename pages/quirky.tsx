@@ -28,7 +28,7 @@ const Quirky: FunctionComponent<QuirkyProps> = ({ LatestPosts, randomPosts }) =>
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste quirky nieuws!" LinkNaarMeerPosts="Meer quirky nieuws" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer quirky nieuws" LinkNaarMeerPosts="/net-binnen/quirky/1" />
 
           </div>
 
@@ -43,7 +43,7 @@ const Quirky: FunctionComponent<QuirkyProps> = ({ LatestPosts, randomPosts }) =>
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(amountOfPostFrontPage, "history")
+  const LatestPosts = await getPosts(amountOfPostFrontPage, "quirky")
   const randomPosts = await getRandomPosts(amountOfRandomPostFrontPage)
 
   return { props: { LatestPosts, randomPosts } }

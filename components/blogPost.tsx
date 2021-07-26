@@ -30,7 +30,5 @@ export const BlogPost = ({ blogPost }: any) => {
         </section>
       </a>
     </Link>
-
-
   )
 }

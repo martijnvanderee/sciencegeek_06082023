@@ -28,7 +28,7 @@ const Human: FunctionComponent<HumanProps> = ({ LatestPosts, randomPosts }) => {
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste human nieuws!" LinkNaarMeerPosts="Meer human nieuws" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer human nieuws" LinkNaarMeerPosts="/net-binnen/human/1" />
 
           </div>
 
@@ -43,7 +43,7 @@ const Human: FunctionComponent<HumanProps> = ({ LatestPosts, randomPosts }) => {
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(amountOfPostFrontPage, "history")
+  const LatestPosts = await getPosts(amountOfPostFrontPage, "human")
   const randomPosts = await getRandomPosts(amountOfRandomPostFrontPage)
 
   return { props: { LatestPosts, randomPosts } }

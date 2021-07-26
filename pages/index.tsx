@@ -25,17 +25,17 @@ const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
         <div>
 
           <div className="md:grid  md:grid-cols-2 md:mt-10">
-
+            {/* HeadPost */}
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste nieuws op sciencegeek!" LinkNaarMeerPosts="Meer net binnen" />
 
+            {/* laatste nieuws */}
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste nieuws op sciencegeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
           </div>
 
           <div className="hidden md:block bg-almostWhite h-0.5 w-full mt-8"></div>
-
+          {/* random posts */}
           <RandomBigPosts posts={randomPosts} />
-
         </div>
       </main>
     </Layout>

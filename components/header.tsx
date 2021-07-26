@@ -16,12 +16,13 @@ export const Header = () => {
 
 
   const handleClickSearch = () => {
+
     dispatchMenu({ type: SearchmenuAction })
     dispatch({ type: "close" })
+
   }
 
   const handleClickMenu = () => {
-
     dispatch({ type: menuAction })
     dispatchMenu({ type: "close" })
   }
@@ -59,6 +60,9 @@ export const Header = () => {
               <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div>
             </a>
           </Link>
+
+
+          {/* logo big*/}
           <Link href="/" passHref>
             <a className="h-20 left-44 sm:left-64 sm:h-24 sm:h-16 sm:-top-2 absolute m-auto md:hidden">
               <img

@@ -28,7 +28,7 @@ const History: FunctionComponent<HistoryProps> = ({ LatestPosts, randomPosts }) 
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPosts="Meer nature nieuws" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer history nieuws" LinkNaarMeerPosts="/net-binnen/history/1" />
 
           </div>
 

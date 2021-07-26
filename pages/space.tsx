@@ -28,7 +28,7 @@ const Space: FunctionComponent<SpaceProps> = ({ LatestPosts, randomPosts }) => {
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste space nieuws!" LinkNaarMeerPosts="Meer space nieuws" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer space nieuws" LinkNaarMeerPosts="/net-binnen/space/1" />
 
           </div>
 
@@ -43,7 +43,7 @@ const Space: FunctionComponent<SpaceProps> = ({ LatestPosts, randomPosts }) => {
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(amountOfPostFrontPage, "history")
+  const LatestPosts = await getPosts(amountOfPostFrontPage, "space")
   const randomPosts = await getRandomPosts(amountOfRandomPostFrontPage)
 
   return { props: { LatestPosts, randomPosts } }

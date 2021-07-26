@@ -8,10 +8,11 @@ import { PostData } from "../typescript"
 type LaatsteNieuwsProps = {
   posts: PostData[],
   title: string
+  LinkNaarMeerPostsView: string
   LinkNaarMeerPosts: string
 }
 
-export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, title, LinkNaarMeerPosts }) => {
+export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, title, LinkNaarMeerPostsView, LinkNaarMeerPosts }) => {
   return (
     <div className="mb-10 md:mb-0">
       <div className="md:h-96 md:overflow-auto">
@@ -26,8 +27,8 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, ti
 
       </div>
 
-      <Link href={`/net-binnen/1`}>
-        <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer" >{LinkNaarMeerPosts}<span className="text-2xl md:text-xl font-semibold leading-tight text-purple">{">"}</span>  </div>
+      <Link href={LinkNaarMeerPosts}>
+        <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer" >{LinkNaarMeerPostsView}<span className="text-2xl md:text-xl font-semibold leading-tight text-purple">{">"}</span>  </div>
       </Link>
     </div>
   )

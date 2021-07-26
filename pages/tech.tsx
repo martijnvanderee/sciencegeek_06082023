@@ -28,7 +28,7 @@ const Tech: FunctionComponent<TechProps> = ({ LatestPosts, randomPosts }) => {
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste tech nieuws!" LinkNaarMeerPosts="Meer tech nieuws" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer tech nieuws" LinkNaarMeerPosts="/net-binnen/tech/1" />
 
           </div>
 
@@ -43,7 +43,7 @@ const Tech: FunctionComponent<TechProps> = ({ LatestPosts, randomPosts }) => {
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(amountOfPostFrontPage, "history")
+  const LatestPosts = await getPosts(amountOfPostFrontPage, "tech")
   const randomPosts = await getRandomPosts(amountOfRandomPostFrontPage)
 
   return { props: { LatestPosts, randomPosts } }
