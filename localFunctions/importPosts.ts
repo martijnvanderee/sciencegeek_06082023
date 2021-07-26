@@ -109,7 +109,6 @@ const test = (numberOfPostsStart: number, numberOfPostsStartEnd: number) => {
 
   const postAmount = postMeta.amountOfPosts
 
-  console.log(postAmount,)
   if (numberOfPostsStartEnd > postAmount) return postMeta.FileNames.slice(numberOfPostsStart)
 
   return postMeta.FileNames.slice(numberOfPostsStart, numberOfPostsStartEnd)

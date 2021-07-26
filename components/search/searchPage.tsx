@@ -38,7 +38,7 @@ export const SearchPage = () => {
 
   const env = process.env.NODE_ENV
 
-  const url = query && `http:localhost:8888/.netlify/functions/getSearch/?search=${query}`
+  const url = query && `https://monique1.netlify.app/.netlify/functions/getSearch/?search=${query}`
 
 
   //http:localhost:8888
