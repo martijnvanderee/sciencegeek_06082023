@@ -20,7 +20,7 @@ const Human: FunctionComponent<HumanProps> = ({ LatestPosts, randomPosts }) => {
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="Human | ScienceGeek.nl">
       <main>
         <div>
 

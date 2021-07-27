@@ -7,7 +7,7 @@ import { Layout } from "../components/layout"
 
 
 export default function Custom404() {
-  return <Layout title="Er ging iets mis">
+  return <Layout title="Er ging iets mis de pagina kan niet worden gevonden | ScienceGeek.nl">
     <main>
       <div className="mt-16 mx-8">
         <img src="404.png" className="mx-auto mb-8"></img>

@@ -81,8 +81,8 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
 
   return (
-    <Layout title={attributes.title}>
-      <div className="md:max-w-6xl  md:mx-auto">
+    <Layout title={`${attributes.title} | ScienceGeek.nl`}>
+      <main className="md:max-w-6xl  md:mx-auto">
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
@@ -91,7 +91,10 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
               className="absolute inset-0 w-full h-full  object-cover"
             />
           </div>
-          <p className="z-10  text-grey text-small text-sm md:w-8/12 m-auto ">bron: {dataPhotos.bron}</p>
+
+          <div className="md:w-8/12 m-auto mb-4">
+            <p className="z-10 text-grey text-small text-sm">bron: {dataPhotos.bron}</p>
+          </div>
         </div>
 
 
@@ -139,7 +142,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           })}
         </ul>}
 
-        <div>
+        <section>
           <div className="mb-12">
             <span className="p-4 text-white bg-yellow">lees ook</span>
           </div>
@@ -147,10 +150,10 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           <div className="flex flex-wrap overflow-hidden my-4">
             {randomPosts.map((post: PostData) => <PostItem post={post} />)}
           </div>
-        </div>
+        </section>
 
 
-      </div>
+      </main>
 
     </Layout >
   );

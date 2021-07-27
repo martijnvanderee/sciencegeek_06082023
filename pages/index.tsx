@@ -20,7 +20,7 @@ const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl">
       <main>
         <div>
 

@@ -20,7 +20,7 @@ const Space: FunctionComponent<SpaceProps> = ({ LatestPosts, randomPosts }) => {
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="Space | ScienceGeek.nl">
       <main>
         <div>
 

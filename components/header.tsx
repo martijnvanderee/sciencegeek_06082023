@@ -28,7 +28,7 @@ export const Header = () => {
   }
   return (
     <header className="sticky top-0 z-20 bg-purple">
-      <div className="mx-auto">
+      <section className="mx-auto">
         <div className="grid grid-cols-2 md:grid-cols-3 justify-between  max-w-screen-lg mx-auto px-4 h-16 md:h-20 ">
 
           <div className="hidden md:block"></div>
@@ -44,7 +44,7 @@ export const Header = () => {
               {/* logo */}
               <div className="absolute -top-6 -right-16 h-32 hidden md:inline-block ">
                 <img
-                  className="h-full cursor-pointer "
+                  className="h-32 cursor-pointer "
                   alt="logo science geek"
                   src='/sciencegeeklogo.png'
                 />
@@ -66,7 +66,7 @@ export const Header = () => {
           <Link href="/" passHref>
             <a className="h-20 left-44 sm:left-64 sm:h-24 sm:h-16 sm:-top-2 absolute m-auto md:hidden">
               <img
-                className="h-full cursor-pointer "
+                className="cursor-pointer h-20"
                 alt="logo science geek"
                 src='/sciencegeeklogo.png'
               />
@@ -107,7 +107,7 @@ export const Header = () => {
 
           </div>
         </div>
-      </div >
+      </section>
       <Nav />
     </header >
   )

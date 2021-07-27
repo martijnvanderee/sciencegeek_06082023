@@ -17,7 +17,7 @@ type NetBinnenProps = {
 
 const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
   return (
-    <Layout title="meer net binnen">
+    <Layout title="Het laatste nieuws | ScienceGeek.nl">
       <main>
 
         {/* net binnen */}

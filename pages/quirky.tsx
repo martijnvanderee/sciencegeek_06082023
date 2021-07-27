@@ -20,7 +20,7 @@ const Quirky: FunctionComponent<QuirkyProps> = ({ LatestPosts, randomPosts }) =>
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="Quirky | ScienceGeek.nl">
       <main>
         <div>
 

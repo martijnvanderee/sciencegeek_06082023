@@ -38,7 +38,7 @@ const Pagination1: FunctionComponent<PaginationProps1> = ({ current, total, subj
   const front1 = total - current > 1 ? current + 1 : total
 
   return (
-    <div className="bg-white px-4 py-3 flex items-center justify-between border-t border-gray-200 sm:px-6">
+    <section className="bg-white px-4 py-3 flex items-center justify-between border-t border-gray-200 sm:px-6">
       <div className="flex-1 flex items-center justify-between">
 
         <div>
@@ -143,7 +143,7 @@ const Pagination1: FunctionComponent<PaginationProps1> = ({ current, total, subj
           </nav>
         </div>
       </div>
-    </div >
+    </section >
   )
 }
 

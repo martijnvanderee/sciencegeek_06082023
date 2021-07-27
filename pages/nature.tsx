@@ -20,7 +20,7 @@ const Nature: FunctionComponent<NatureProps> = ({ LatestPosts, randomPosts }) =>
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="Nature | ScienceGeek.nl">
       <main>
         <div>
 

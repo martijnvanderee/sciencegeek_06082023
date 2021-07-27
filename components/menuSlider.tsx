@@ -28,7 +28,7 @@ export const MenuSlider = () => {
   const switchClass = state.isMenuOpen ? "w-96 right-0" : "w-96 -right-96"
 
   return (
-    <div className={`fixed right-0 top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}>
+    <nav className={`fixed right-0 top-16 md:top-20 h-screen bg-white z-30 ${switchClass} transition-all duration-500 border-l border-almostWhite`}>
 
       <div className={`relative`}>
 
@@ -52,7 +52,7 @@ export const MenuSlider = () => {
 
         </div>
       </div>
-    </div>
+    </nav>
   );
 };
 

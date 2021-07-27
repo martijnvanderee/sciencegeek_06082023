@@ -12,7 +12,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ postData }) => {
   const url = postData.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
-      <div className="relative w-full h-72 md:max-w-4xl md:h-96  md:mx-auto cursor-pointer">
+      <article className="relative w-full h-72 md:max-w-4xl md:h-96  md:mx-auto cursor-pointer">
 
         <div className="relative w-full h-full ">
           <div className="absolute z-10 bottom-0 m-4">
@@ -24,8 +24,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ postData }) => {
             className="absolute inset-0 w-full h-full object-cover"
           />
         </div>
-
-      </div>
+      </article>
     </Link>
   )
 }

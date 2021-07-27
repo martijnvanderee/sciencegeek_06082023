@@ -14,7 +14,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
   const url = post.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
-      <div className="w-full mb-4 cursor-pointer">
+      <article className="w-full mb-4 cursor-pointer">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
             <img
@@ -31,10 +31,10 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
             <h4 className="text-lg font-medium leading-6">
               {post.attributes.title}
             </h4>
-            <div className="absolute bottom-1 text-xs text-grey"> {date}</div>
+            <time className="absolute bottom-1 text-xs text-grey"> {date}</time>
           </div>
         </div>
-      </div>
+      </article>
     </Link>
   )
 }
@@ -54,7 +54,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
   const newDate: string = formatDate(date)
   return (
     <Link href={`/${slug}`} as={`/${slug}`}>
-      <div className="w-full mb-4 cursor-pointer">
+      <article className="w-full mb-4 cursor-pointer">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
             <img
@@ -71,10 +71,10 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
             <h4 className="text-lg font-medium leading-6">
               {title}
             </h4>
-            <div className="absolute bottom-1 text-xs text-grey"> {newDate}</div>
+            <time className="absolute bottom-1 text-xs text-grey"> {newDate}</time>
           </div>
         </div>
-      </div>
+      </article>
     </Link>
 
   )
@@ -88,7 +88,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
   const url = post.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
-      <div className="m-4 cursor-pointer">
+      <article className="m-4 cursor-pointer">
         <div className="relative h-64">
           <img
             src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
@@ -98,13 +98,13 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
         </div>
         <div className="relative h-36 p-2 ">
           <div>
-            <div className="text-yellow font-medium mb-2">{post.attributes.onderwerp}</div>
+            <span className="text-yellow font-medium mb-2">{post.attributes.onderwerp}</span>
             <div className="text-black font-semibold text-2xl">{post.attributes.title}</div>
           </div>
           <div className="absolute w-12 bg-yellow h-0.5 bottom-0 right-0"></div>
           <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
         </div>
-      </div>
+      </article>
     </Link>
   )
 }

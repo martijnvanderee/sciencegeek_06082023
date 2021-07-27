@@ -20,7 +20,7 @@ const Tech: FunctionComponent<TechProps> = ({ LatestPosts, randomPosts }) => {
   const headPost = LatestPosts[0]
   const [, ...postOftheRest] = LatestPosts;
   return (
-    <Layout title="Sciencegeek">
+    <Layout title="Tech | ScienceGeek.nl">
       <main>
         <div>
 
