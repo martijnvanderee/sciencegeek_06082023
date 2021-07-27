@@ -17,7 +17,7 @@ export default function Custom404() {
 
           <div className="">
             <Link href="/" >
-              <button className="bg-purple text-white text-xl
+              <button aria-label="Return" className="bg-purple text-white text-xl
        font-bold py-2 px-3 rounded ml-1 self-center " >
                 ga terug naar onze voorpagina
               </button>

@@ -46,7 +46,7 @@ export const Header = () => {
                 <img
                   className="h-32 cursor-pointer "
                   alt="logo science geek"
-                  src='/sciencegeeklogo.png'
+                  src={`/sciencegeeklogo.png/?nf_resize=fit&h=${4 * 32}`}
                 />
               </div>
 
@@ -68,7 +68,7 @@ export const Header = () => {
               <img
                 className="cursor-pointer h-20"
                 alt="logo science geek"
-                src='/sciencegeeklogo.png'
+                src={`/sciencegeeklogo.png/?nf_resize=fit&h=${4 * 32}`}
               />
             </a>
           </Link>

@@ -18,7 +18,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
             <img
-              src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
+              src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
               alt="title van artikel"
               className="absolute inset-0 w-full h-full object-cover"
             />
@@ -28,9 +28,9 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
               {post.attributes.onderwerp}
             </span>
 
-            <h4 className="text-lg font-medium leading-6">
+            <h2 className="text-lg font-medium leading-6">
               {post.attributes.title}
-            </h4>
+            </h2>
             <time className="absolute bottom-1 text-xs text-grey"> {date}</time>
           </div>
         </div>
@@ -64,13 +64,13 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
             />
           </div>
           <div className="relative px-2">
-            <span className="text-sm font-thin text-yellow">
+            <span className="text-sm font-thin text-purple">
               {onderwerp}
             </span>
 
-            <h4 className="text-lg font-medium leading-6">
+            <h2 className="text-lg font-medium leading-6">
               {title}
-            </h4>
+            </h2>
             <time className="absolute bottom-1 text-xs text-grey"> {newDate}</time>
           </div>
         </div>

@@ -33,7 +33,7 @@ export const MenuSlider = () => {
       <div className={`relative`}>
 
         <IconContext.Provider value={{ color: "", className: "", size: "2em", }}>
-          <button className="absolute right-4 top-4" onClick={() => dispatch({ type: 'close' })}><CgClose /></button>
+          <button aria-label="Close" className="absolute right-4 top-4" onClick={() => dispatch({ type: 'close' })}><CgClose /></button>
         </IconContext.Provider>
         {/* <Zoeken /> */}
 
@@ -93,7 +93,7 @@ const Zoeken: FunctionComponent<ButtonProps> = () => {
       </div>
 
 
-      <button className="bg-purple text-white text-xl
+      <button aria-label="submit" className="bg-purple text-white text-xl
        font-bold py-1 px-2 rounded ml-1" type="submit">
         Zoek
       </button>

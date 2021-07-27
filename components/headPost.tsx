@@ -19,7 +19,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ postData }) => {
             <h2 className="text-shadow text-white text-4xl md:text-5xl">{postData.attributes.title}</h2>
           </div>
           <img
-            src={`${postData.photos.headerData.image}/?nf_resize=fit&w=700`}
+            src={`${postData.photos.headerData.image}/?nf_resize=fit&h=${96 * 4}`}
             alt={postData.attributes.title}
             className="absolute inset-0 w-full h-full object-cover"
           />
