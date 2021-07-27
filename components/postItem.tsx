@@ -98,7 +98,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
         </div>
         <div className="relative h-36 p-2 ">
           <div>
-            <span className="text-yellow font-medium mb-2">{post.attributes.onderwerp}</span>
+            <span className="text-purple font-bold mb-2">{post.attributes.onderwerp}</span>
             <div className="text-black font-semibold text-2xl">{post.attributes.title}</div>
           </div>
           <div className="absolute w-12 bg-yellow h-0.5 bottom-0 right-0"></div>
