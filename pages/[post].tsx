@@ -115,19 +115,21 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
 
           <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
-
             <div className="relative w-full md:h-96 h-64 m-auto">
               <img
                 src={middlePhoto.image}
                 alt={attributes.title}
-                className="absolute inset-0 md:w-8/12 max-h-full object-cover m-auto"
+                className="absolute inset-0 sm:w-9/12 max-h-full object-cover mx-auto"
               />
             </div>
 
-            <div className="md:w-8/12 m-auto mb-4">
-              <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
-              <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
+            <div className="w-full m-auto">
+              <div className="sm:w-9/12 mb-4 m-auto">
+                <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
+                <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
+              </div>
             </div>
+
 
           </div>
 
@@ -135,13 +137,13 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></div>
         </div>
 
-        <div  className="mx-2">
+        <div className="mx-2">
           {attributes.tags && <ul className="flex flex-wrap mb-6 gap-y-2 mb-20">
-          {tags.map((tag: string) => {
-            return (
-              <li className="text-purple font-bold p-2 border-2 border-purple rounded-md mr-4 whitespace-nowrap">{tag}</li>)
-          })}
-        </ul>}
+            {tags.map((tag: string) => {
+              return (
+                <li className="text-purple font-bold p-2 border-2 border-purple rounded-md mr-4 whitespace-nowrap">{tag}</li>)
+            })}
+          </ul>}
         </div>
 
 
