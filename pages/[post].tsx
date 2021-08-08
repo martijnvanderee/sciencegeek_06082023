@@ -114,13 +114,13 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
 
 
-          <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto mb-20">
+          <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
 
-            <div className="relative w-full h-full md:w-8/12 m-auto">
+            <div className="relative w-full md:h-96 h-64 m-auto">
               <img
                 src={middlePhoto.image}
                 alt={attributes.title}
-                className="absolute inset-0 w-full h-full  object-cover"
+                className="absolute inset-0 md:w-8/12 max-h-full object-cover m-auto"
               />
             </div>
 
@@ -128,26 +128,29 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
               <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
               <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
             </div>
+
           </div>
 
 
           <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></div>
         </div>
 
-
-        {attributes.tags && <ul className="flex flex-wrap mb-6 gap-y-2 mb-20">
+        <div  className="mx-2">
+          {attributes.tags && <ul className="flex flex-wrap mb-6 gap-y-2 mb-20">
           {tags.map((tag: string) => {
             return (
               <li className="text-purple font-bold p-2 border-2 border-purple rounded-md mr-4 whitespace-nowrap">{tag}</li>)
           })}
         </ul>}
+        </div>
+
 
         <section>
-          <div className="mb-12">
+          <div className="mb-12 mx-2">
             <span className="p-4 text-white bg-yellow">lees ook</span>
           </div>
 
-          <div className="flex flex-wrap overflow-hidden my-4">
+          <div className="flex flex-wrap overflow-hidden my-4 mx-2">
             {randomPosts.map((post: PostData) => <PostItem post={post} />)}
           </div>
         </section>
