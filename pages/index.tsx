@@ -30,7 +30,7 @@ const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
 
             {/* laatste nieuws */}
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste nieuws op sciencegeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste nieuws op ScienceGeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
           </div>
 
           <div className="hidden md:block bg-almostWhite h-0.5 w-full mt-8"></div>
