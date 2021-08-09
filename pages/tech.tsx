@@ -28,7 +28,7 @@ const Tech: FunctionComponent<TechProps> = ({ LatestPosts, randomPosts }) => {
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer tech nieuws" LinkNaarMeerPosts="/net-binnen/tech/1" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste tech nieuws!" LinkNaarMeerPostsView="Meer tech nieuws" LinkNaarMeerPosts="/net-binnen/tech/1" />
 
           </div>
 

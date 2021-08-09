@@ -28,7 +28,7 @@ const Nature: FunctionComponent<NatureProps> = ({ LatestPosts, randomPosts }) =>
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer nature nieuws" LinkNaarMeerPosts="/net-binnen/nature/1" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste nature nieuws!" LinkNaarMeerPostsView="Meer nature nieuws" LinkNaarMeerPosts="/net-binnen/nature/1" />
 
           </div>
 

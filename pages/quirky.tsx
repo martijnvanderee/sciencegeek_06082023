@@ -28,7 +28,7 @@ const Quirky: FunctionComponent<QuirkyProps> = ({ LatestPosts, randomPosts }) =>
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer quirky nieuws" LinkNaarMeerPosts="/net-binnen/quirky/1" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste quirky nieuws!" LinkNaarMeerPostsView="Meer quirky nieuws" LinkNaarMeerPosts="/net-binnen/quirky/1" />
 
           </div>
 

@@ -36,7 +36,8 @@ export const SearchPage = () => {
   const [query, setQuery]: any = useState(null)
 
 
-  const env = process.env.NODE_ENV
+  const env = process.env.LOCALHOST
+
 
   const url = query && `https://monique1.netlify.app/.netlify/functions/getSearch/?search=${query}`
 

@@ -28,7 +28,7 @@ const Space: FunctionComponent<SpaceProps> = ({ LatestPosts, randomPosts }) => {
 
             <HeadPost postData={headPost} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste history nieuws!" LinkNaarMeerPostsView="Meer space nieuws" LinkNaarMeerPosts="/net-binnen/space/1" />
+            <LaatsteNieuws posts={postOftheRest} title="Het laatste space nieuws!" LinkNaarMeerPostsView="Meer space nieuws" LinkNaarMeerPosts="/net-binnen/space/1" />
 
           </div>
 
