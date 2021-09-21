@@ -14,6 +14,7 @@ module.exports = {
     console.log("my plugin loaded!")
 
     const PostFileNames = getPostFileNames()
+    console.log("PostFileNames",PostFileNames)
     const postTitles = await getPosts(PostFileNames)
 
     const index = createIndex(postTitles)
@@ -32,25 +33,6 @@ module.exports = {
 }
 
 
-const postData = {
-  fileNames: [],
-  amountOfPosts: 5,
-  subjectNames: ["history", "tech"],
-  amountOfPostPerSubject: {
-    "history": 5,
-    "tech": 10
-  },
-  postsHeader: {
-    a: {
-      headerPhotoLink: "headerPostExample",
-      PostPhotoLink: ['photoLink1', 'photoLink2']
-    }
-  },
-  filesNamesBySubject: {
-    "history": [],
-    "tech": []
-  }
-}
 
 
 const createPostData = async (subjectNames) => {
@@ -145,13 +127,9 @@ const getData = (fileNames) => {
   )
 }
 
-
-
-
 const getPostFileNames = () => {
   const PostFileNames = fs.readdirSync("./content/posts").map((file) => {
     return file
-
   })
   return PostFileNames
 }

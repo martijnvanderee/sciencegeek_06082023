@@ -159,12 +159,16 @@ export const getPosts = async (amountOfPostFrontPage: number, sortSubject: strin
 
   const postsSortedBySubject = sortSubject === "all" ? data.FileNames : postMeta.postPerSubject[sortSubject]
 
+
+
   const slugs = await getSubsetPosts(postsSortedBySubject, amountOfPostFrontPage)
 
   const test: PostData[] = await getPostsTest1(slugs)
   const test1 = JSON.parse(JSON.stringify(test));
   return test1
 }
+
+
 export const getSpecificPost = async (slug: string) => {
 
   const test: PostData[] = await getPostsTest1([slug])
