@@ -1,6 +1,5 @@
 import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 
-
 import React, { FunctionComponent } from 'react'
 
 //components

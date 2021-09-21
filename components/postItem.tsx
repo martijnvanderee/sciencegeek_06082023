@@ -14,6 +14,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
   const url = post.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
+      <a className="focus:outline-none focus:ring focus:border-blue-300 flex-shrink-0">
       <article className="w-full mb-4 cursor-pointer">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
@@ -24,7 +25,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
             />
           </div>
           <div className="relative px-2">
-            <span className="text-sm text-yellow md:text-purple">
+            <span className="text-sm text-purple">
               {post.attributes.onderwerp}
             </span>
 
@@ -35,6 +36,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
           </div>
         </div>
       </article>
+      </a>
     </Link>
   )
 }
@@ -54,6 +56,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
   const newDate: string = formatDate(date)
   return (
     <Link href={`/${slug}`} as={`/${slug}`}>
+      <a className="focus:outline-none focus:ring focus:border-blue-300">
       <article className="w-full mb-4 cursor-pointer">
         <div className="flex h-24 border-b border-almostWhite">
           <div className="relative flex-none h-full w-32">
@@ -75,6 +78,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
           </div>
         </div>
       </article>
+      </a>
     </Link>
 
   )
@@ -88,6 +92,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
   const url = post.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
+      <a className="focus:outline-none focus:ring focus:border-blue-300">
       <article className="m-4 cursor-pointer">
         <div className="relative h-64">
           <img
@@ -105,6 +110,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
           <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
         </div>
       </article>
+      </a>
     </Link>
   )
 }

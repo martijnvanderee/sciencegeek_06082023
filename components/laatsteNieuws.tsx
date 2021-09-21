@@ -28,7 +28,9 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, ti
       </div>
 
       <Link href={LinkNaarMeerPosts}>
+      <a className="focus:outline-none focus:ring focus:border-blue-300">
         <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer" >{LinkNaarMeerPostsView}<span className="text-2xl md:text-xl font-semibold leading-tight text-purple">{">"}</span>  </div>
+        </a>
       </Link>
     </div>
   )

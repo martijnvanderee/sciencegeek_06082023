@@ -1,6 +1,6 @@
 import React, { FunctionComponent } from 'react'
 //components
-import { PostItem, PostItem2 } from "../components/postItem"
+import {  PostItem2 } from "../components/postItem"
 //typescript
 import { PostData } from "../typescript"
 
