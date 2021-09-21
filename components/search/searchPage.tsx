@@ -39,9 +39,9 @@ export const SearchPage = () => {
   const env = process.env.LOCALHOST
 
 
-  const url = query && `https://sciencegeek.nl/.netlify/functions/getSearch/?search=${query}`
+  const url = query && `https://monique1.netlify.app/.netlify/functions/getSearch/?search=${query}`
 
-
+  // https://sciencegeek.nl
   //http:localhost:8888
   //https://monique1.netlify.app
   const { response, error }: any = useFetch(url);

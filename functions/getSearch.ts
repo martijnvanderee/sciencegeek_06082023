@@ -36,7 +36,7 @@ const handler = async (event: any) => {
       body: JSON.stringify(test),
 
     }
-  } catch (error) {
+  } catch (error: any) {
     return { statusCode: 500, body: error.toString() }
   }
 }

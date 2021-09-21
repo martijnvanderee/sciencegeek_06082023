@@ -82,7 +82,7 @@ export const useFetch = (url: any) => {
         const res: any = await axios.get(url)
 
         setResponse(res)
-      } catch (error) {
+      } catch (error: any) {
         setError(error);
       }
     };
