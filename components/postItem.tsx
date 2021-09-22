@@ -18,6 +18,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
+               <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
               <img
                 src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
                 alt="title van artikel"
@@ -60,6 +61,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
+               <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
               <img
                 src={`${image}/?nf_resize=fit&w=700`}
                 alt="title van artikel"
@@ -95,6 +97,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
       <a className="focus:outline-none focus:ring focus:border-blue-300">
         <article className="m-4 cursor-pointer">
           <div className="relative h-64">
+            <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
             <img
               src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
               alt={post.attributes.title}

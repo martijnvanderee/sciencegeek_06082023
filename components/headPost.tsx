@@ -19,7 +19,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ postData }) => {
           <div className="absolute z-10 bottom-0 m-4">
             <h2 className="text-shadow text-white text-4xl md:text-5xl">{postData.attributes.title}</h2>
           </div>
-          <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
+          <div className="absolute inset-0 w-full bg-loadingImage"></div>
           <img
             src={`${postData.photos.headerData.image}/?nf_resize=fit&h=${96 * 4}`}
             alt={postData.attributes.title}
