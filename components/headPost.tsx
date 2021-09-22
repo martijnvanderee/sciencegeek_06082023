@@ -12,7 +12,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ postData }) => {
   const url = postData.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
-       <a className="focus:outline-none focus:ring focus:border-blue-300">
+       <a className="focus:outline-none">
       <article className="relative w-full h-72 md:max-w-4xl md:h-96  md:mx-auto cursor-pointer">
 
         <div className="relative w-full h-full ">

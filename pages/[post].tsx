@@ -151,7 +151,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
             <span className="p-4 text-white bg-yellow">lees ook</span>
           </div>
 
-          <div className="flex flex-wrap overflow-hidden my-4 mx-2">
+          <div className="flex flex-wrap overflow-hidden my-4 mx-2 max-w-3xl">
             {randomPosts.map((post: PostData) => <PostItem post={post} />)}
           </div>
         </section>

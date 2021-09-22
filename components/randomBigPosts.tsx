@@ -1,6 +1,6 @@
 import React, { FunctionComponent } from 'react'
 //components
-import {  PostItem2 } from "../components/postItem"
+import { PostItem2 } from "../components/postItem"
 //typescript
 import { PostData } from "../typescript"
 
@@ -16,9 +16,9 @@ export const RandomBigPosts: FunctionComponent<RandomProps> = ({ posts }) => {
       </div>
 
       <div className="hidden md:block md:grid  md:grid-cols-3 pb-10 mt-2">
-        {posts.map((post: PostData) => {
+        {posts.map((post: PostData, id: number) => {
           return (
-            <PostItem2 post={post} />
+            <PostItem2 post={post} key={id} />
           )
         })}
       </div>
