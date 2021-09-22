@@ -24,6 +24,13 @@ module.exports = {
     },
 
     extend: {
+
+
+        backgroundImage: {
+         'loadingImage': "url('/img/loadingImage.svg')",
+        },
+
+
       colors: {
         purple: "#250352",
         yellow: "#F1B33C",
