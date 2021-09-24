@@ -1,4 +1,4 @@
 [[plugins]]
 package = "./plugins/netlify-plugin-store-posts-for-search"
-
+package = "@netlify/plugin-sitemap"
 
