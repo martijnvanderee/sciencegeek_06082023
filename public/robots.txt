@@ -1,4 +1,6 @@
-User-agent: *
-Allow: /
 
-Sitemap: https://monique1.netlify.app/sitemap
+
+Sitemap: https://sciencegeek.n/sitemap
+
+User-agent: *
+Allow: /*
