@@ -40,7 +40,6 @@ const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
 
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet" />
-
       </Head>
 
       <IsMenuOpenProvider>
