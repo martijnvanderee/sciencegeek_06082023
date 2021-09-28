@@ -174,10 +174,14 @@ export const getPosts = async (amountOfPostFrontPage: number, sortSubject: strin
 
 const test10 = R.toPairs
 
-const map = R.map
 
-const nameLens = R.lensProp('name');
-const dateLens = R.lensProp('date');
+interface Point {
+  name: string
+  date: string
+}
+
+const nameLens = R.lensProp<Point>('name')
+const dateLens = R.lensProp<Point>('date');
 
 
 
@@ -207,16 +211,25 @@ const path = R.path(['postMeta']);
 
 
 
+interface Point1 {
+  [key: string]: {
+    headerPhoto: string
+    photos: string[]
+    date: Date
+  }
+}
+
 
 const funcMap = (slug: string) => {
-  const Lprop = R.lensProp(slug)
+  const Lprop = R.lensProp<Point1>(slug)
   const v = R.view(Lprop, postMeta.postMeta)
   return v
 
 }
 
+const sortByNameCaseInsensitive = R.sortBy((R.prop('date')))
 
-const sortByNameCaseInsensitive = R.sortBy(R.compose(R.prop('date')));
+
 
 
 const sortPostsByDate = (slugs: string[]) => {
