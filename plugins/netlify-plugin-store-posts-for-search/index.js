@@ -14,7 +14,7 @@ module.exports = {
     console.log("my plugin loaded!")
 
     const PostFileNames = getPostFileNames()
-    console.log("PostFileNames",PostFileNames)
+    console.log("PostFileNames", PostFileNames)
     const postTitles = await getPosts(PostFileNames)
 
     const index = createIndex(postTitles)
@@ -67,7 +67,7 @@ const changeData = (posts) => {
 
     const amountOfPostPerSubject = getAmountOfPostPerSubject(arr.amountOfPostPerSubject, onderwerp)
     const postPerSubject = getPostPerSubject(arr.postPerSubject, onderwerp, slug)
-    const postMeta = setPostPhotos(arr.postMeta, slug, headerPhoto, photos, date)
+    const postMeta = setPostPhotos(arr.postMeta, slug, headerPhoto, photos, date,)
 
     arr.amountOfPostPerSubject = amountOfPostPerSubject
     arr.postPerSubject = postPerSubject
@@ -80,7 +80,7 @@ const changeData = (posts) => {
 
 const setPostPhotos = (arr, slug, headerPhoto, photos, date) => {
   const arr1 = arr
-  arr1[slug] = { headerPhoto, photos, date }
+  arr1[slug] = { headerPhoto, photos, date, name: slug }
 
   return arr1
 }
