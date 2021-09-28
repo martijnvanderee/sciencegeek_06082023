@@ -160,21 +160,92 @@ export const getPosts = async (amountOfPostFrontPage: number, sortSubject: strin
   const postsSortedBySubject = sortSubject === "all" ? data.FileNames : postMeta.postPerSubject[sortSubject]
 
 
+  const sortedSlugsByData = sortPostsByDate(postsSortedBySubject)
 
-  const slugs = await getSubsetPosts(postsSortedBySubject, amountOfPostFrontPage)
-  sortPostsByDate(slugs)
+
+  const slugs = await getSubsetPosts(sortedSlugsByData, amountOfPostFrontPage)
+
 
   const test: PostData[] = await getPostsTest1(slugs)
   const test1 = JSON.parse(JSON.stringify(test));
   return test1
 }
 
+
+const test10 = R.toPairs
+
+const map = R.map
+
+const nameLens = R.lensProp('name');
+const dateLens = R.lensProp('date');
+
+
+
+const view1 = R.view(nameLens)
+const view2 = R.view(dateLens)
+
+
+const double = (obj: any) => {
+
+  const name = view1(obj)
+  const date = view2(obj)
+
+
+  return { name, date }
+}
+
+const triple = (array: any) => {
+
+  return view1(array)
+
+
+
+}
+
+const path = R.path(['postMeta']);
+
+
+
+
+
+const funcMap = (slug: string) => {
+  const Lprop = R.lensProp(slug)
+  const v = R.view(Lprop, postMeta.postMeta)
+  return v
+
+}
+
+
+const sortByNameCaseInsensitive = R.sortBy(R.compose(R.prop('date')));
+
+
 const sortPostsByDate = (slugs: string[]) => {
+  const tas = R.map(funcMap, slugs)
+
+
+
+
+
+  const r = R.map(double, tas)
+
+  const s = sortByNameCaseInsensitive(r)
+
+
+
+
+
+
+  const ra = R.map(triple, s)
+
+  return R.reverse(ra)
+
+
 
   // const data = slugs.map((slug: string) => {
   //   return { [slug]: postMeta.postMeta[slug].date }
   // })
 
+  //map view sort
 
 
   // console.log(data)
@@ -183,37 +254,9 @@ const sortPostsByDate = (slugs: string[]) => {
   //sort datas
 
 
-  const result = quickSortF([1, 2])
-  console.log(result)
-
 }
 
 
-function quickSortF(arr: any): any {
-  // Base case
-  if (!arr.length) return []
-
-  // This is a ES6 addition, it uses destructuring to pull out the
-  // first value and the rest, similar to how other functional languages
-  // such as Haskell, Scala do it. You can then use the variables as
-  // normal below
-  const [head, ...tail] = arr,
-    // here we are using the arrow functions, and taking full
-    // advantage of the concise syntax, the verbose version of
-    // function(e) => { return e < head } is the same thing
-    // so we end up with the partition part, two arrays,
-    // one smaller than the pivot and one bigger than the
-    // pivot, in this case is the head variable
-    left = tail.filter((e: any) => e < head),
-    right = tail.filter((e: any) => e >= head)
-
-  // this is the conquer bit of divide-and-conquer
-  // recursively run through each left and right array
-  // until we hit the if condition which returns an empty
-  // array. These results are all connected using concat,
-  // and we get our sorted array.
-  return quickSortF(left).concat(head, quickSortF(right))
-}
 
 
 
