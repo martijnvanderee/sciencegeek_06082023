@@ -141,7 +141,13 @@ const getPosts = async (fileNames) => {
       const title = markdown.meta.title
       const onderwerp = markdown.meta.onderwerp
       const date = markdown.meta.date
-      const tags = markdown.meta.tags.join(" ");
+
+      console.log("tags", markdown.meta.tags)
+
+
+      const tags = markdown.meta.tags ? markdown.meta.tags.join(" ") : [""]
+      console.log("tags10", tags)
+
       const content = markdown.content.flat().join(' ')
       const slug = path.substring(0, path.length - 3)
       const id = index
