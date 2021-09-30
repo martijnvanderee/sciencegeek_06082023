@@ -1,5 +1,5 @@
 
-import R from "ramda"
+import * as R from "ramda";
 
 //typescript
 import { PostData, PostMeta } from "../typescript"
@@ -170,7 +170,6 @@ export const getPosts = async (amountOfPostFrontPage: number, sortSubject: strin
 }
 
 
-const test10 = R.toPairs
 
 
 interface Point {
