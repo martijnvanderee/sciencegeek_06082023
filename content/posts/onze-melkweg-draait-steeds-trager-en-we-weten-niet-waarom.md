@@ -2,7 +2,7 @@
 templateKey: post.template
 title: Onze melkweg draait steeds trager. En we weten niet waarom!
 date: 2021-09-30T09:50:04.929Z
-headerPhoto: map-bron-pixabay-com-ajs1-onderschrift-sterrenhemel-nacht-donke-image-img-sterrenhemel-nacht-donker-jpg
+headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
 ---
