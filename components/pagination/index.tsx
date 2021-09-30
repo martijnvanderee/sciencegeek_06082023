@@ -26,8 +26,8 @@ type PaginationProps1 = {
 
 
 const Pagination1: FunctionComponent<PaginationProps1> = ({ current, total, subject }) => {
-
   const paginationNumbers = whatNumbersToshow(current, total)
+
 
   const hover = "z-20 bg-indigo-50 border-indigo-500 text-indigo-600"
   const notHover = "bg-white border-gray-300 text-gray-500 hover:bg-gray-50"
