@@ -5,6 +5,10 @@ date: 2021-09-30T09:50:04.929Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
+tags:
+  - "meteoriet, komeet, inslag, krater, "
+photo's:
+  - map-bron-pixabay-com-mattcaz-onderschrift-de-wetenschap-vreest-meteorieten-omdat-zij-behoorlijk-schade-aan-de-aarde-kunnen-toebrengen-deze-krater-in-arizone-vs-is-door-zon-meteoriet-veroorzaakt-image-img-krater-arizona-meteorietins
 ---
 De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.
 

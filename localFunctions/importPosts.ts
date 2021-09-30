@@ -87,8 +87,6 @@ export const getPropsFromPaths = async (slugName: string, slugId: string,) => {
   const numberOfPostsStart = Number(slugId) * numberOfPostsOnPage - numberOfPostsOnPage
   const numberOfPostsStartEnd = Number(slugId) * numberOfPostsOnPage
 
-
-
   const specificPosts = getSpecificPosts(slugName, numberOfPostsStart, numberOfPostsStartEnd)
 
   const posts = getPostsTest1(specificPosts)
@@ -282,7 +280,10 @@ export const getSpecificPost = async (slug: string) => {
 }
 
 export const getSpecificPhoto = async (ImagePaths: GetSpecificPhotos) => {
+
+  console.log("ImagePaths", ImagePaths)
   const headerData = await import(`../content/photo's/${ImagePaths.headerPath}.md`);
+
 
   const photosData = await Promise.all(ImagePaths.photosPath.map(async (photoPath) => {
     const photoDataFull = await import(`../content/photo's/${photoPath}.md`);
