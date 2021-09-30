@@ -28,8 +28,6 @@ Deze sterren zijn dan ook gevangen door de zwaartekracht van het centrum van de 
 
 Met behulp van Gaia zagen de wetenschappers dat er iets bijzonders aan de hand was met deze groep sterren en dat zit ḿ in de chemische vingerafdruk. De sterren van Hercules zijn rijker aan zware elementen, namelijk metalen. En dat is hét bewijs dat zij verder van het centrum van de Melkweg zijn afgereisd. Dat verder reizen kan niet als zij met dezelfde snelheid om de as draaien als de Melkweg zelf. De Spinning Bar moét dus wel langzamer zijn gaan draaien.
 
-![](/img/melkweg-draaien-sterrenstelsel.jpg)
-
 **Heelal bestaat voor grootste deel uit donkere materie**
 
 De bevindingen zijn gedaan door de Universiteit Oxford en de Universiteit College London en zullen met name een belangrijke rol spelen in de verdere duiding van donkere materie. Er is 5 keer zoveel donkere als zichtbare materie in het universum, maar toch weten we nog steeds niet waaruit donkere materie bestaat of wat het precies is. 
