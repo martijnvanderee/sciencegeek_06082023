@@ -27,9 +27,9 @@ const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
 
         {/* posts */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 pb-10 mt-2">
-          {posts.map((post: PostData) => {
+          {posts.map((post: PostData,index) => {
             return (
-              <PostItem2 post={post} />
+              <PostItem2 post={post} key={index}/>
             )
           })}
         </div>

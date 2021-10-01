@@ -24,7 +24,6 @@ type GetSpecificPhotos = {
 }
 const getSubsetPosts = (files: string[], numberOfPosts: number,) => files.slice(0, numberOfPosts);
 
-
 export const importPhoto = async (path: string) => {
   const markdown = await import(`../content/${"photo's"}/${path}.md`);
 
@@ -65,7 +64,6 @@ export const getSubjectPaths = () => {
   const NumberOfPages = Math.ceil(amountOftotalPosts / numberOfPostsOnPage)
   const NumberOfPagesArray = convertNumberToArray(NumberOfPages)
 
-
   const test1 = NumberOfPagesArray.map((page: number) => {
     return {
       params: {
@@ -75,8 +73,6 @@ export const getSubjectPaths = () => {
     }
   })
 
-
-
   NumberOfPagesOfSubject.push(test1)
 
   return NumberOfPagesOfSubject.flat()
@@ -84,22 +80,32 @@ export const getSubjectPaths = () => {
 
 
 export const getPropsFromPaths = async (slugName: string, slugId: string,) => {
+  const postsSortedBySubject = slugName === "all" ? data.FileNames : postMeta.postPerSubject[slugName]
+
+  const sortedSlugsByData = sortPostsByDate(postsSortedBySubject)
+
   const numberOfPostsStart = Number(slugId) * numberOfPostsOnPage - numberOfPostsOnPage
   const numberOfPostsStartEnd = Number(slugId) * numberOfPostsOnPage
 
-  const specificPosts = getSpecificPosts(slugName, numberOfPostsStart, numberOfPostsStartEnd)
+  const specificPosts = getSpecificPosts(sortedSlugsByData, numberOfPostsStart, numberOfPostsStartEnd)
 
-  const posts = getPostsTest1(specificPosts)
-  return posts
+  console.log("specificPosts",specificPosts)
+
+  const posts = sortPostsByDate(specificPosts)
+
+  console.log("posts",posts)
+
+  const newPosts = getPostsTest1(posts)
+
+
+  return newPosts
 }
 
-const getSpecificPosts = (name: string, numberOfPostsStart: number, numberOfPostsStartEnd: number) => {
-  if (name === "all") return test(numberOfPostsStart, numberOfPostsStartEnd)
-  const postAmount = postMeta.postPerSubject[name].length
+const getSpecificPosts = (slugs: string[], numberOfPostsStart: number, numberOfPostsStartEnd: number) => {
 
-  if (numberOfPostsStartEnd > postAmount) return postMeta.postPerSubject[name].slice(numberOfPostsStart)
+  if (numberOfPostsStartEnd > slugs.length) return slugs.slice(numberOfPostsStart)
 
-  return postMeta.postPerSubject[name].slice(numberOfPostsStart, numberOfPostsStartEnd)
+  return slugs.slice(numberOfPostsStart, numberOfPostsStartEnd)
 
 }
 
@@ -145,13 +151,7 @@ const getRandomNumbers = (amountOfPosts: number, amountOfPicks: number) => {
 
   return randomNumbers
 }
-// console.log("test1", test(0, 0))
-// console.log("test2", test(0, 6))
-// console.log("test3", test(6, 0))
-// console.log("test4", test(20, 10))
-// console.log("test5", test(2, 1))
-// console.log("test6", test(10, 8))
-// console.log("test7", test(-20, 10))
+
 
 export const getPosts = async (amountOfPostFrontPage: number, sortSubject: string = "all") => {
 
@@ -203,7 +203,6 @@ const triple = (array: any) => {
 
 }
 
-const path = R.path(['postMeta']);
 
 
 
@@ -258,7 +257,7 @@ const sortPostsByDate = (slugs: string[]) => {
   //map view sort
 
 
-  // console.log(data)
+
 
 
   //sort datas
@@ -280,7 +279,7 @@ export const getSpecificPost = async (slug: string) => {
 
 export const getSpecificPhoto = async (ImagePaths: GetSpecificPhotos) => {
 
-  console.log("ImagePaths", ImagePaths)
+
   const headerData = await import(`../content/photo's/${ImagePaths.headerPath}.md`);
 
 
