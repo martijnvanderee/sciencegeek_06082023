@@ -1,8 +1,10 @@
 import React, { FunctionComponent } from 'react'
 import Link from "next/link";
 
+import useTimeLeft from "../hooks/useTimeLeft"
+
 //typescript
-import { PostData, DataPhotos } from "../typescript"
+import { PostData } from "../typescript"
 import { formatDate } from "../localFunctions/formatdate"
 
 type postProps = {
@@ -12,13 +14,17 @@ type postProps = {
 export const PostItem: FunctionComponent<postProps> = ({ post }) => {
   const date: string = formatDate(post.attributes.date)
   const url = post.slug
+
+  const timeLeft = useTimeLeft(3)
   return (
     <Link href={`/${url}`} as={`/${url}`}>
       <a className="w-full focus:outline-none flex-shrink-0">
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
-               <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>
+
+              {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>}
+
               <img
                 src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
                 alt="title van artikel"
@@ -55,13 +61,17 @@ type postProps1 = {
 
 export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, onderwerp, date }) => {
   const newDate: string = formatDate(date)
+
+  const timeLeft = useTimeLeft(3)
   return (
     <Link href={`/${slug}`} as={`/${slug}`}>
       <a className="w-full focus:outline-none focus:ring focus:border-blue-300">
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
-               <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
+
+              {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>}
+
               <img
                 src={`${image}/?nf_resize=fit&w=700`}
                 alt="title van artikel"
@@ -91,13 +101,17 @@ type postProps2 = {
 }
 
 export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
+  const timeLeft = useTimeLeft(3)
+
   const url = post.slug
   return (
     <Link href={`/${url}`} as={`/${url}`}>
       <a className="focus:outline-none focus:ring focus:border-blue-300">
         <article className="m-4 cursor-pointer">
           <div className="relative h-64">
-            <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>
+
+            {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>}
+
             <img
               src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
               alt={post.attributes.title}
