@@ -10,7 +10,9 @@ collections:
   - name: auteurs
     label: Auteurs
     folder: "content/auteurs"
+
     create: true
+
     fields:
       - {name: naam, label: Naam}
 
@@ -33,6 +35,7 @@ collections:
   - name: posts
     label: Posts
     folder: "content/posts"
+    preview_path: test100
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "post.template"}
