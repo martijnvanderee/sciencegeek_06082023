@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-mattcaz-onderschrift-de-wetenschap-vreest-meteorieten-omdat-zij-behoorlijk-schade-aan-de-aarde-kunnen-toebrengen-deze-krater-in-arizone-vs-is-door-zon-meteoriet-veroorzaakt-image-img-krater-arizona-meteorietins
 ---
-De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.d
+De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.e
 
 Dat de Melkweg haar snelheid zou verliezen, is iets dat al 30 jaar voorspeld wordt door astrofysici. Maar nu is dit dan ook echt voor het eerst bewezen. De snelheid waarmee de Melkweg om haar centrale as draait, is wel een kwart terug gelopen en nee, we hebben nog geen idee wat dit zal betekenen. Behalve dan, dat de meeste zwaartekrachttheoriën in hun hemd staan, want die kunnen de vertraging niet verklaren.
 
