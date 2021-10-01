@@ -19,6 +19,8 @@ Sterren in Hercules Stroom rijk aan metalen**
 
 Wetenschappers denken daarom dat de vertraging te danken is aan de aanwezigheid van donkere materie, die als een tegengewicht werkt in de beweging van de Melkweg. De aanwezigheid en de mate waarin donkere materie aanwezig is, is in de theorieën niet meegenomen en is ook lastig mee te nemen.
 
+
+
 Eerst maar eens kijken hoe de wetenschappers erachter zijn gekomen dat de Melkweg vandaag de dag langzamer door het heelal sjokt. Zij baseerden zich op de waarnemingen van de Gaia telescoop van met name de Hercules Stroom, een grote groep sterren die dezelfde rotatiesnelheid heeft als de Melkweg. 
 
 **\
