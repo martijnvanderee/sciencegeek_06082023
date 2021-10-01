@@ -27,7 +27,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
 
               <img
                 src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
-                alt="title van artikel"
+                alt={post.attributes.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
