@@ -89,11 +89,11 @@ export const getPropsFromPaths = async (slugName: string, slugId: string,) => {
 
   const specificPosts = getSpecificPosts(sortedSlugsByData, numberOfPostsStart, numberOfPostsStartEnd)
 
-  console.log("specificPosts",specificPosts)
+
 
   const posts = sortPostsByDate(specificPosts)
 
-  console.log("posts",posts)
+
 
   const newPosts = getPostsTest1(posts)
 

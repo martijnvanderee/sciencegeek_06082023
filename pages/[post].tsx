@@ -114,11 +114,11 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
 
           <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
-            <div className="relative w-full md:h-96 h-64 m-auto">
+            <div className="relative m-auto md:max-w-2xl">
               <img
                 src={middlePhoto.image}
                 alt={attributes.title}
-                className="absolute inset-0 sm:w-9/12 max-h-full object-cover mx-auto"
+                className=""
               />
             </div>
 
