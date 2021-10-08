@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Ook Maya’s met goede jobs leden honger
+title: Ook rijke Maya's leden honger
 date: 2021-06-11T11:34:17.306Z
 headerPhoto: map-onderschrift-mayamaskers-beschildering-felle-kleuren-image-img-mayamaskers-beschildering-felle-kleuren-jpeg
 onderwerp: history
