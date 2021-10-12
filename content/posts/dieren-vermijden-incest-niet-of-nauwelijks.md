@@ -9,8 +9,7 @@ tags:
   - incestmijding
   - partnerkeuze
   - inteelt
-photo's:
-  - map-bron-pixabay-com-4931604-image-img-wolven-intiem-stel-jpg-onderschrift-van-bonobos-weten-we-al-langer-dat-zij-niet-aan-incestmijding-doen-wetenschappers-vermoeden-dat-de-bonobo-daarmee-niet-bepaald-de-enige-diersoort-is
+photo's: []
 ---
 
 
