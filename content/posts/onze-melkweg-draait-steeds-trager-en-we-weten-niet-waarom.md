@@ -1,12 +1,12 @@
 ---
 templateKey: post.template
-title: Onze melkweg draait steeds trager. En we weten niet waarom!
+title: "Onze melkweg draait steeds trager. "
+Subtitle: "En we weten niet waarom!                                                "
 date: 2021-09-30T09:50:04.929Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
-tags:
-  - "meteoriet, komeet, inslag, krater, "
+tags: []
 photo's:
   - map-bron-pixabay-com-mattcaz-onderschrift-de-wetenschap-vreest-meteorieten-omdat-zij-behoorlijk-schade-aan-de-aarde-kunnen-toebrengen-deze-krater-in-arizone-vs-is-door-zon-meteoriet-veroorzaakt-image-img-krater-arizona-meteorietins
 ---
