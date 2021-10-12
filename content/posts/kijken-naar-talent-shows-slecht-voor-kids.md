@@ -26,7 +26,7 @@ De social media en de talent shows zijn er nog steeds, maar toch is voor het eer
 
 **Vriendelijkheid steeds belangrijker voor jongere**
 
-Waarom kids niet meer zo nodig beroemd willen worden, is makkelijk verklaard. Door de absolute overkill aan publieke podia is beroemd zijn, niet meer zo exclusief en bijzonder. De gedachte dat “iedereen beroemd kan worden” is bij de jeugd geboren. Ook andere positieve waarden maken weer een opmars bij de jeugd. Vriendelijk zijn en anderen helpen, was anno 2007, helemaal uit en donderde naar de 12e plek. Aardig zijn is echter weer met een opmars bezig: uit de laatste onderzoeken bleek dat vriendelijkheid weer is opgeklommen tot de 8e plek.
+Waarom kids niet meer zo nodig beroemd willen worden, is makkelijk verklaard. Door de absolute overkill aan publieke podia, is beroemd zijn niet meer zo exclusief en bijzonder. De gedachte dat “iedereen beroemd kan worden” is bij de jeugd geboren. Ook andere positieve waarden maken weer een opmars bij de jeugd. Vriendelijk zijn en anderen helpen, was anno 2007, helemaal uit en donderde naar de 12e plek. Aardig zijn is echter weer met een opmars bezig: uit de laatste onderzoeken bleek, dat vriendelijkheid weer is opgeklommen tot de 8e plek.
 
 **Televisieprogramma met verhaal geeft positieve boodschap aan kids**
 
