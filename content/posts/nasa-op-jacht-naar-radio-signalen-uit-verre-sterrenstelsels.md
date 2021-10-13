@@ -22,18 +22,16 @@ Maar de slimme vrouwen en mannen bij NASA zaten niet stil en hebben nu toch een 
 
 **We ontvangen 1000 signalen, maar hebben geen idee over de herkomst**
 
-FRB’s zijn een tamelijk nieuw begrip in de astronomie. De eerste werd pas in 2001 waargenomen. Sindsdien hebben we er nog wel 1000 ontvangen, maar bleek herleiden onsuccesvol. Met behulp van heel wat man-inzet én de Hubble-telescoop heeft men nu dan in ieder geval 5 FRB geboorteplaatsen te pakken. Het betreft gigantische sterrenstelsels waar volop jonge sterrren worden gevormd. Hubble deed the waarnemingen in ultra-violet licht omdat dit licht de straling van jonge sterren in de spiralen van sterrenstelsels goed te volgen zijn. Infro-rood licht wordt gebruikt om de oudere sterren in de armen  van de sterrenstelsels in beeld te krijgen.
+FRB’s zijn een tamelijk nieuw begrip in de astronomie. De eerste werd pas in 2001 waargenomen. Sindsdien hebben we er nog wel 1000 ontvangen, maar bleek herleiden onsuccesvol. Met behulp van heel wat man-inzet én de Hubble-telescoop heeft men nu dan in ieder geval 5 FRB geboorteplaatsen te pakken. Het betreft gigantische sterrenstelsels waar volop jonge sterren worden gevormd. Hubble deed de waarnemingen in ultra-violet licht omdat met dit licht, de straling van jonge sterren in de spiralen van sterrenstelsels goed te volgen is. Infro-rood licht wordt gebruikt om de oudere sterren in de armen van de sterrenstelsels in beeld te krijgen.
 
 De zeester-sterrenstelsels zijn verbluffend mooi om te zien, maar hebben tot nu toe niet getoond wat er aan de hand is met FRB’s. NASA houdt supernova’s en uitbarstingen van gamma-ray straling dan ook nauwlettend in de gaten, hoewel men niet verwacht dat de signalen daar vandaan komen. 
 
 **Magnetar is magnetisch monster in ons heelal**
 
-Het meest waarschijnlijk is dat de radio-uitbarstingen komen van een zogenaamde ‘magnetar’. Dit is geen gewone ster, maar een waar magnetisch monster. Een magnetar is   de sterkste magneet in het universum met een magnetisch veld dat 10 biljoen (10.000.000.000.000) keer zo groot is als de magneet op je koelkast. 
+Het meest waarschijnlijk is dat de radio-uitbarstingen komen van een zogenaamde ‘magnetar’. Dit is geen gewone ster, maar een waar magnetisch monster. Een magnetar is  de sterkste magneet in het universum met een magnetisch veld dat 10 biljoen (10.000.000.000.000) keer zo groot is als de magneet op je koelkast. 
 
 Wat er gebeurt met een magnetar zodat een FRB veroorzaakt wordt, is nog niet zeker. NASA en de Hubble telescoop blijven de hemelen dan ook naarstig afspeuren.
 
 *Gepubliceerd op 26.5.2021*
-
-
 
 *Bron: Host galaxy properties and offset distributions of fast radio bursts: implications for their progenitors door NASA/Goddard Space Flight*
