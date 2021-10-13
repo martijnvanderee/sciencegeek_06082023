@@ -8,18 +8,16 @@ onderwerp: space
 auteur: Monique Siemsen
 tags: []
 photo's:
-  - map-bron-pixabay-com-mattcaz-onderschrift-de-wetenschap-vreest-meteorieten-omdat-zij-behoorlijk-schade-aan-de-aarde-kunnen-toebrengen-deze-krater-in-arizone-vs-is-door-zon-meteoriet-veroorzaakt-image-img-krater-arizona-meteorietins
+  - map-bron-pixabay-com-ajs1-onderschrift-sterrenhemel-nacht-donke-image-img-sterrenhemel-nacht-donker-jpg
 ---
 De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.
 
-Dat de Melkweg haar snelheid zou verliezen, is iets dat al 30 jaar voorspeld wordt door astrofysici. Maar nu is dit dan ook echt voor het eerst bewezen. De snelheid waarmee de Melkweg om haar centrale as draait, is wel een kwart terug gelopen en nee, we hebben nog geen idee wat dit zal betekenen. Behalve dan, dat de meeste zwaartekrachttheoriën in hun hemd staan, want die kunnen de vertraging niet verklaren.
+Dat de Melkweg haar snelheid zou verliezen, is iets dat al 30 jaar voorspeld wordt door astrofysici. Maar                                  nu is dit dan ook echt voor het eerst bewezen. De snelheid waarmee de Melkweg om haar centrale as draait, is wel een kwart terug gelopen en nee, we hebben nog geen idee wat dit zal betekenen. Behalve dan, dat de meeste zwaartekrachttheoriën in hun hemd staan, want die kunnen de vertraging niet verklaren.
 
 **\
 Sterren in Hercules Stroom rijk aan metalen**
 
 Wetenschappers denken daarom dat de vertraging te danken is aan de aanwezigheid van donkere materie, die als een tegengewicht werkt in de beweging van de Melkweg. De aanwezigheid en de mate waarin donkere materie aanwezig is, is in de theorieën niet meegenomen en is ook lastig mee te nemen.
-
-
 
 Eerst maar eens kijken hoe de wetenschappers erachter zijn gekomen dat de Melkweg vandaag de dag langzamer door het heelal sjokt. Zij baseerden zich op de waarnemingen van de Gaia telescoop van met name de Hercules Stroom, een grote groep sterren die dezelfde rotatiesnelheid heeft als de Melkweg. 
 
