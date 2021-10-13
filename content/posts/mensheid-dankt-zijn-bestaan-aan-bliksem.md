@@ -14,8 +14,7 @@ tags:
   - bliksem
   - leven
   - fosfor
-photo's:
-  - map-image-img-aarde-meteoriet-ruimte-jpg-onderschrift-aarde-meteoriet-ruimte
+photo's: []
 ---
 Wie vroeger een kinderbijbel had, wist het al langer. En ook space-nerds vermoedden het reeds: de afbeeldingen van een door bliksem geteisterde aarde in den beginne zijn niet toevallig gekozen. Lightning matters.
 
