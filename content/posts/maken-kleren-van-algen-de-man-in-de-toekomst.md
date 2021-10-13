@@ -20,9 +20,9 @@ Het materiaal schijnt lekker te zitten, want het is heel flexibel. Duurzaam – 
 
 Maar laten we bij het begin beginnen. De technologie is uitgevonden door Nederlandse wetenschappers aan de TU van Delft in samenwerking met Britse collega’s van de Universiteit Rochester in het Verenigd Koninkrijk. Zij hebben 3D printers gebruikt en een nieuwe bio-print techniek om algen te printen in een levend, fotosynthetisch materiaal dat bijzonder stevig is.
 
-**Bacteriële cellulose is als het papier, micro-algen de inkt**
+**Bacteriële cellulose is het papier, micro-algen zijn de inkt**
 
-Levende materialen, gemaakt door biologische cellen binnen een niet levende matrix te plaatsen, zijn steeds populairder aan het worden in de wetenschap. Immers, de meest robuuste materialen zijn materialen die de levende natuur nabootsen. Overigens gaan de materialen niet alleen gebruikt worden in de textiel en medische industrie, maar ook in de energie-sector.
+Levende materialen (gemaakt door biologische cellen binnen een niet levende matrix te plaatsen) zijn steeds populairder aan het worden in de wetenschap. Immers, de meest robuuste materialen zijn materialen, die de levende natuur nabootsen. Overigens zullen de materialen niet alleen gebruikt worden in de textiel en medische industrie, maar ook in de energie-sector.
 
 Om de fotosynthetische materialen te maken begon men met een niet levende bacteriële cellulose, een organische stof die door bacteriën wordt gemaakt en afgescheiden. Een soort poep van bacteriën dus. Deze bacterie-poep heeft namelijk een aantal unieke en zeer gewenste eigenschappen zoals flexibiliteit en sterkte. Wat helemaal fijn is aan deze stof is dat het zijn vorm behoudt, ook al verpletter je het of probeer je het op andere manieren te beschadigen.
 
