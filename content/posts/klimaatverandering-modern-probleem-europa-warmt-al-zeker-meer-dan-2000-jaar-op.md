@@ -13,7 +13,7 @@ photo's:
 ---
 Hoe lang denk je dat klimaatverandering al een probleem is? 20 jaar misschien? Of zet je in op 100 jaar? Helaas: al duizenden jaren worden onze zomers alsmaar warmer en vooral droger. 
 
-Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken verwijtend naar onze auto’s en de industriële sector. Bij ieder nieuw hitterecord schudden we ons hoofd en zelfs politici beginnen, voorlopig nog langzamerhand, de ecologische druk te voelen. Behalve dan de Braziliaanse overheid, die voelt hooguit druk om de Amazone nog een tikkie sneller om zeep te helpen, zoals je kunt lezen op (link.)
+Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken verwijtend naar onze auto’s en de industriële sector. Bij ieder nieuw hitterecord schudden we ons hoofd en zelfs politici beginnen, voorlopig nog langzamerhand, de ecologische druk te voelen. Behalve dan de Braziliaanse overheid, die voelt hooguit druk om de Amazone nog een tikkie sneller om zeep te helpen, zoals je kunt lezen op [www.ScienceGeek.nl/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt](www.ScienceGeek.nl/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt)
 
 **Europa niet alleen aan het opwarmen, maar vooral ook uitdrogen**
 
