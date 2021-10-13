@@ -23,17 +23,17 @@ Niet heel erg, menen de Amerikaanse wetenschappers van het Southwest Research In
 
 Over de laatste 25 jaar hebben wetenschappers een aanzienlijke hoeveelheid van deze planeten aangetroffen, zoals de ijzige Europa, Titan en Enceladus, manen van onze reuzen. Deze planeten worden ook wel IWOWs genoemd, namelijk Interior Water Ocean Worlds. En IWOWs hebben wat voordelen over planeten zoals de aarde, als het gaat om de mogelijkheid tot leven of zelfs intelligent leven.
 
-Een voordeel is dat IWOWs niet, zoals de aarde, zich niet binnen een bepaald bereik van hun sterren hoeven te bevinden om hun watermassa’s op temperatuur te houden. Daardoor kunnen ook planeten die verder van hun zonnen af liggen, toch over een waterhuishouding beschikken en zo komen IWOWs dus veelvuldiger voor dan een planeet als de aarde.
+Een voordeel is dat IWOWs niet, zoals de aarde, zich binnen een bepaald bereik van hun sterren hoeven te bevinden om hun watermassa’s op temperatuur te houden. De oceanen op aarde moeten immers opgewarmd worden, maar mogen ook niet te heet worden. Van die beperking heeft een IWOW geen last. Daardoor kunnen ook planeten die verder van hun zonnen af liggen, toch over een waterhuishouding beschikken en zo komen IWOWs dus veelvuldiger voor dan een planeet als de aarde, die het water op de oppervlakte draagt.
 
-**Leven beter beschermd op planeet met ondergronds water**
+**Leven is beter beschermd op planeet met ondergronds water**
 
-Verder is het leven in een watermassa aan de oppervlakte van een planeet veel kwetsbaarder dan eventueel leven ondergronds, waar het beschermd wordt door een dikke laag gesteente. Denk bijvoorbeeld aan de impact die een inslag van een asteroïde kan hebben op het leven op aarde, maar ook de straling van een zonnevlam kan veel schade aan leven toebrengen. Dat zijn factoren die minder risico opleveren als je een organisme bent, dat in een water leeft tientallen kilometers onder de oppervlakte.
+Verder is het leven in een watermassa aan de oppervlakte van een planeet veel kwetsbaarder dan eventueel leven ondergronds, waar het beschermd wordt door een dikke laag gesteente. Denk bijvoorbeeld aan de impact die een inslag van een asteroïde kan hebben op het leven op aarde, maar ook de straling van een zonnevlam kan veel schade aan leven toebrengen. Dat zijn factoren die minder risico opleveren als je een organisme bent, dat in een water leeft, tientallen kilometers onder de oppervlakte.
 
-De wetenschappers van het Southwest Research Institute noemen de aanwezigheid van intelligent leven op IWOWs een grote onzekerheid, maar de combinatie van veelvoorkomendheid van IWOWs en diens betere bescherming van leven, levert wel een grotere waarschijnlijkheid op dat er intelligent leven op een IWOW mogelijk is.
+De wetenschappers van het Southwest Research Institute noemen de aanwezigheid van intelligent leven op IWOWs een grote onzekerheid, maar de combinatie van veelvoorkomendheid van IWOWs en diens betere bescherming van leven, maakt dat het wel veel waarschijnlijker is dat áls aliens bestaan, ze dat doen op een IWOW. 
 
 **Eventuele ondergrondse aliens moeilijk op te sporen**
 
-Al die bescherming is leuk en aardig voor buitenaards leven, maar het bemoeilijkt tevens onze zoektocht naar tekenen van dit leven aanzienlijk. Dezelfde factoren die het leven van deze wezens mogelijk maken en beschermen, houden hen ook verborgen voor menselijke zoekapparatuur. Hiermee is een oplossing geboden voor de Fermi-paradox, te weten: als intelligent leven op andere planeten zo goed mogelijk is, hoe kan het dan dat we dit leven niet kunnen vinden? Door tientallen kilometers rots bijvoorbeeld dus. En dáár zijn voorlopig nog geen oplossingen voor in de praktijk te brengen.
+Al die bescherming is leuk en aardig voor buitenaards leven, maar het bemoeilijkt tevens onze zoektocht naar tekenen van dit leven. Dezelfde factoren die het leven van deze wezens mogelijk maken en beschermen, houden hen ook verborgen voor menselijke zoekapparatuur. Hiermee is een oplossing geboden voor de Fermi-paradox, te weten: als intelligent leven op andere planeten zo goed mogelijk is, hoe kan het dan dat we dit leven niet kunnen vinden? Door tientallen kilometers rots bijvoorbeeld dus. En dáár zijn voorlopig nog geen oplossingen voor in de praktijk te brengen.
 
 *Gepubliceerd op 18.03.2021*
 
