@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Hele universum ontstond uit beetje waterachtig plasma
+title: Heel universum ontstond uit beetje waterachtig plasma
 date: 2021-06-11T15:32:23.492Z
 headerPhoto: map-bron-pixabay-com-mikegi-onderschrift-bol-explosie-rood-geel-image-img-bol-explosie-rood-geel-jpg
 onderwerp: space
