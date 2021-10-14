@@ -23,10 +23,6 @@ Van zijn knuffeliger collegaatje, de bij, weten we al langer dat we goed voor he
 
 Om met het laatste te beginnen: hij lapt ‘m dat met precies hetzelfde gedrag waarom zijn menselijke tafelgenoten ‘s zomers wegstuiven in de tuin. De wesp is een top-roofdier en staat bovenaan de voedselketen van de andere insecten. Daarmee is de wesp een belangrijke economische speler voor de mens. Ga maar na, jaarlijks wordt er wereldwijd 416 miljard dollar besteed aan zogenaamde bio-controle van gewassen. 
 
-![](/img/wesp-bloem-paars.jpg)
-
-
-
 Dat betekent dat we nuttige insecten gebruiken om schadelijke insecten van onze gewassen te houden. Als we nou wat liever en handiger met onze wesp omgaan, zo vonden de wetenschappers, dan zouden we die centen wel beter kunnen gebruiken. Want als er iemand van bladluis houdt en niet van blad, dan is het onze wesp wel. Dat zou de mens dus prima uit kunnen komen.
 
 **Gif en speeksel van wesp van belang in medicatie-ontwikkeling**
