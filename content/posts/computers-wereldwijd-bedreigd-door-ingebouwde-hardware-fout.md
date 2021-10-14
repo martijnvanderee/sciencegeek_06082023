@@ -16,7 +16,9 @@ Thuis kunnen we onze laptop of pc al amper missen, laat staan hoe wereldwijde in
 
 **Nieuwe Spectre fout gevonden in processors**
 
-Het team van de Universiteit in Virginia heeft de ontdekte fout zelfs een naam gegeven, te weten Spectre. Het betreft een inconsistentie in de hardware, die is ingebouwd in de processors van moderne computers. 
+Het team van de Universiteit in Virginia heeft de ontdekte fout zelfs een naam gegeven, te weten Spectre. Het betreft een inconsistentie in de hardware, die is ingebouwd in de processors van moderne computers. 
+
+![Foto: Pixabay.com. De snelheid van onze computers, maakt ze zeer kwetsbaar voor hackers.](/img/man-vraagteken-computer.jpg)
 
 Computers vandaag de dag zijn zo snel omdat in die hardware gebruik wordt gemaakt van zogenaamde ‘speculative execution’ oftewel ‘uitvoering die kan speculeren’. Processors kunnen daarmee voorspellen welke handelingen van de gebruiker er volgen en zelfs op die voorspelde handelingen vooruitlopen. Denk daarbij bijvoorbeeld aan predictor functies als je iets wilt typen.
 
