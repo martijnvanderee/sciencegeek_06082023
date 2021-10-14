@@ -69,9 +69,12 @@ const test2func = (arr: any, ind: number) => {
 }
 
 const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, randomPosts, middlePhoto }) => {
+
+
   const image = `${dataPhotos.image}/?nf_resize=fit&w=700`
 
-  const tags = modifyTags(attributes.tags)
+
+  const tags = attributes.tags.length !== 0 ? modifyTags(attributes.tags) : []
 
   const res = test(html, "<strong>", 3)
 
@@ -112,8 +115,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
             <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: firstHtml }}></div>
           </div>
 
-
-          <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          {middlePhoto.image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
               <img
                 src={middlePhoto.image}
@@ -128,9 +130,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
                 <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
               </div>
             </div>
-
-
-          </div>
+          </div>}
 
 
           <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></div>
@@ -184,13 +184,21 @@ export async function getStaticProps({ params }: any) {
 
   const randomPosts = await getRandomPostBySubject(4, post[0].attributes.onderwerp)
 
+  const middlePhoto = post[0].photos.photosData[0] ? post[0].photos.photosData[0] : {
+    onderschrift: "",
+    bron: "",
+    image: ""
+  }
+
+
+
   return {
     props: {
       html: post[0].html,
       attributes: post[0].attributes,
       dataPhotos: post[0].photos.headerData,
       randomPosts,
-      middlePhoto: post[0].photos.photosData[0]
+      middlePhoto: middlePhoto
     },
   };
 }

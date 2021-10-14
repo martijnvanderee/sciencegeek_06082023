@@ -14,7 +14,7 @@ module.exports = {
     console.log("my plugin loaded!")
 
     const PostFileNames = getPostFileNames()
-    console.log("PostFileNames", PostFileNames)
+
     const postTitles = await getPosts(PostFileNames)
 
     const index = createIndex(postTitles)
@@ -41,12 +41,9 @@ const createPostData = async (subjectNames) => {
   const data = await getData(PostFileNames)
   const test = changeData(data)
 
-
-
   const amountOfPostPerSubject = test.arr.amountOfPostPerSubject
   const postPerSubject = test.arr.postPerSubject
   const postMeta = test.arr.postMeta
-
 
   return {
     FileNames: PostFileNames, amountOfPosts,
