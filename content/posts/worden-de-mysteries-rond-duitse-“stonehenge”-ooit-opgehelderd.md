@@ -37,6 +37,8 @@ De kapel heeft geen dak en aan de oostkant bevindt zich een ronde nis met een zu
 
 Het geeft uitzicht op twee, voor de oude stammen, belangrijke events. De midzomerzon komt er op en schijnt er door heen én het is ook het noordelijkste punt waar de maan opkwam. In veel prehistorische heiligdommen werden deze natuurgebeurtenissen met veel ceremonie gevierd en vermoedelijk is dan ook, dat dit het geval was voor de eerste mensen die bij de Externsteine hun ceremonies hielden. 
 
+![Het gat is voor de midzomerzon. Wat of wie er op het altaar ging, is niet bekend.](/img/altaar-externsteine-circel.jpg)
+
 In dit verband kan de volgende ontdekking dan ook geen toeval zijn: zowel Stonehenge als de Externsteine liggen op dezelfde geografische breedte, zodat de richting vanwaar de midzomerzon opkomt, op beide plaatsen hetzelfde is. En dat was belangrijk voor Europese sterrenpriesters.
 
 **Heidenen en christelijken streden om Externsteine**
