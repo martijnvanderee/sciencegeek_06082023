@@ -34,7 +34,11 @@ zijn sperma.
 Epigenomen zijn moleculen in het sperma, die net als DNA informatie opslaan. In het
 geval van epigenomen gaat het dus niet om genetische data, maar die van de omgeving
 en wel de omgeving van het epigenoom en zijn baasje. Dat is in het geval van luie,
-vretende, stressende piemeleigenaren nauwelijks goed nieuws. Bij een
+vretende, stressende piemeleigenaren nauwelijks goed nieuws. 
+
+![Foto: Pixabay.com. De epigenomen van mannen met een gezonde levensstijl geven deze info door tijdens de bevruchting en zorgen zo voor gezond nageslacht.](/img/vader-baby-slaap.jpg)
+
+Bij een
 bevruchting van de eicel geeft het epigenoom al zijn informatie over het dieet en
 temperament van papa, door aan de foetus als een slechte roddeltante.
 De ongunstige informatie kan zeer kwalijke gevolgen hebben voor de ontwikkeling van de
@@ -56,6 +60,7 @@ In de tussentijd is het voor vrouwen in ieder geval weer een flinke reminder waa
 ook al weer op sportieve en optimistische mannen vallen. Zo krijgen mensen blijkbaar
 gezondere kids!
 
-Gepubliceerd op 15.04.2021
-Bron: onderzoek Non-DNA mechanism is involved in transmitting paternal experience to offspring,
-McGill University, Montreal, Canada
+*Gepubliceerd op 15.04.2021*
+
+
+*Bron: onderzoek Non-DNA mechanism is involved in transmitting paternal experience to offspring, McGill University, Montreal, Canada*
