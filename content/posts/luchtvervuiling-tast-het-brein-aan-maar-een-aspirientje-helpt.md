@@ -18,7 +18,7 @@ Net als je denkt dat we alle negatieve gevolgen van milieuvervuiling wel zo’n 
 
 De onderzoekers keken vooral naar de gevolgen van bijvoorbeeld bosbranden, intensieve sigarettenrook, en druk verkeer. Als je daar een paar weken in zit, hollen de hersenfuncties al achteruit. De doelgroep bestond uit oudere witte mannen en het onderzoek liep voor een maand. We weten dus niet hoe de verontreiniging de hersenfuncties van kinderen beïnvloedde en of vrouwen en jonge mensen dezelfde beschadigingen in dezelfde mate oplopen.
 
-![De inademing van rook leidt tot hersenbeschadiging, maar kan gefixed worden met een aspirientje!](/img/brand-brandweermannen-lussen.jpg)
+![Foto: Pixabay.com. De inademing van rook leidt tot hersenbeschadiging, maar kan gefixed worden met een aspirientje!](/img/brand-brandweermannen-lussen.jpg)
 
 Waarom een aspirientje goed werkt op de korte termijn, kreeg men wel goed in beeld. De beschadigingen ontstaan namelijk door ontstekingen in de hersenen en veranderingen in de bloedsomloop door het inademen van luchtvervuiling. Die gevolgen worden tegen gegaan en verminderd door het slikken van ontstekingsremmende pijnstillers zoals aspirine.
 
