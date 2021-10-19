@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: "Hoezo irritant? "
-Subtitle: Wesp bestrijdt kanker en beschermt gewassen!
+title: Wesp bestrijdt kanker en beschermt gewassen!
+Subtitle: ""
 date: 2021-06-11T15:07:44.488Z
 headerPhoto: map-bron-pixabay-com-capri23-auto-onderschrift-wesp-tak-dichtbij-image-img-wesp-tak-dichtbij-jpg
 onderwerp: nature
