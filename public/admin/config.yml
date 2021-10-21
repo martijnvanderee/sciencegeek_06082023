@@ -45,7 +45,7 @@ collections:
         collection: photo's
         searchFields: [onderschrift]
         required: true
-        display_fields: [onderschrift]
+        display_fields: [image]
         valueField: "{{slug}}"
         options_length: 1
 
