@@ -2,7 +2,7 @@
 templateKey: post.template
 title: "Onze melkweg draait steeds trager. "
 Subtitle: "En we weten niet waarom!                                                "
-date: 2021-09-30T09:50:04.929Z
+date: 2021-10-21T11:24:28.254Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
