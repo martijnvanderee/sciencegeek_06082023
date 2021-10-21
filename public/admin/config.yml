@@ -43,11 +43,11 @@ collections:
         label: HeaderPhoto
         widget: relation
         collection: photo's
-        searchFields: [onderschrift]
+        searchFields: [image,onderschrift]
         required: true
         display_fields: [image]
         valueField: "{{slug}}"
-        options_length: 1
+        options_length: 3
 
 
       - {label: "Body", name: "body", widget: "markdown"}
