@@ -8,8 +8,7 @@ auteur: Monique Siemsen
 tags:
   - mannen, bevruchting, sperma, nageslacht. epigenomen, vrouwen, stress,
     levensstijl.
-photo's:
-  - map-onderschrift-de-epigenomen-van-mannen-met-een-gezonde-levensstijl-geven-deze-info-door-tijdens-de-bevruchting-en-dragen-zo-bij-aan-gezond-nageslacht-bron-pixabay-com-publicdomainpictures-image-img-vader-baby-slaap-jpg
+photo's: []
 ---
 Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest.
 Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je
