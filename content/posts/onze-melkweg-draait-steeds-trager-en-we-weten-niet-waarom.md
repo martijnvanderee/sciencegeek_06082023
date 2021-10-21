@@ -2,7 +2,7 @@
 templateKey: post.template
 title: "Onze melkweg draait steeds trager. "
 Subtitle: "En we weten niet waarom!                                                "
-date: 2021-09-30T09:50:04.929Z
+date: 2021-10-21T11:24:28.254Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
@@ -19,7 +19,7 @@ Sterren in Hercules Stroom rijk aan metalen**
 
 Wetenschappers denken daarom dat de vertraging te danken is aan de aanwezigheid van donkere materie, die als een tegengewicht werkt in de beweging van de Melkweg. De aanwezigheid en de mate waarin donkere materie aanwezig is, is in de theorieën niet meegenomen en is ook lastig mee te nemen. 
 
-![Foto: Pixabay.com. Onze melkweg draait alsmaar trager. Maar waarom?](/img/nacht-sterrenhemel-boom.jpg)
+![Foto: Pixabay.com. Onze melkweg draait alsmaar trager. Maar waarom?](/img/nacht-sterrenhemel-boom.jpg "this is a test")
 
 Eerst maar eens kijken hoe de wetenschappers erachter zijn gekomen dat de Melkweg vandaag de dag langzamer door het heelal sjokt. Zij baseerden zich op de waarnemingen van de Gaia telescoop van met name de Hercules Stroom, een grote groep sterren die dezelfde rotatiesnelheid heeft als de Melkweg. 
 
