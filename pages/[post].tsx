@@ -1,6 +1,6 @@
-import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
-
 import React, { FunctionComponent } from 'react'
+import styled from "styled-components"
+import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 
 //components
 import { Layout } from "../components/layout"
@@ -18,21 +18,15 @@ type PostProps = {
   middlePhoto: DataPhotos
 }
 
-function getPosition(string: any, subString: any, index: any) {
-  return string.split(subString, index).join(subString).length;
-}
-
-const splitAt = (index: any) => (x: any) => [x.slice(0, index), x.slice(index)]
+const splitAt = (index: any) => (x: string) => [x.slice(0, index), x.slice(index)]
 
 const test = (str: any, subString: string, index: number) => {
   const test = str.split(/(?=\<p>)/)
-  const test1 = test.map(test1func)
+  const test1 = test.map(inclStrong)
 
   const test2 = test2func(test1, index)
   //klopt
   const test3 = test.join(subString)
-
-  const test4 = test3.split(subString, test2).join(subString).length;
 
   const testBonus = test.slice(0, test2)
   const testBonus1 = testBonus.map((test: string) => { return (test.length) })
@@ -40,9 +34,9 @@ const test = (str: any, subString: string, index: number) => {
   return testBonus2
 }
 
-const test1func = (str: any) => {
-  return str.includes("<strong>")
-}
+const inclStrong = (str: string) =>
+  str.includes("<strong>")
+
 
 const test2func = (arr: any, ind: number) => {
   let num = -1
@@ -68,11 +62,18 @@ const test2func = (arr: any, ind: number) => {
   return num
 }
 
+const Container = styled.div`
+  & > p {
+    & > img {
+      width:100%;
+      max-width: 42rem;
+      margin:2em auto;
+    }
+  }
+  `
+
 const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, randomPosts, middlePhoto }) => {
-
-
   const image = `${dataPhotos.image}/?nf_resize=fit&w=700`
-
 
   const tags = attributes.tags.length !== 0 ? modifyTags(attributes.tags) : []
 
@@ -80,7 +81,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
   const firstHtml = splitAt(res)(html)[0]
   const secondHtml = splitAt(res)(html)[1]
-
 
   return (
     <Layout title={`${attributes.title} | ScienceGeek.nl`}>
@@ -99,20 +99,16 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
         </div>
 
-
         <div className="p-4 md:mb-4">
-
           <div className=" mb-6 mt-4 md:mt-8 md:max-w-xl md:mx-auto">
-
             <h2 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{attributes.title}</h2>
-
-            {attributes.Subtitle && <h3 className=" italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{attributes.Subtitle}</h3>}
+            {attributes.Subtitle && <h3 className="italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{attributes.Subtitle}</h3>
+            }
           </div>
 
-
           <div className="mb-6 text-xl mx-auto">
-
-            <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: firstHtml }}></div>
+            <Container className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: firstHtml }}>
+            </Container>
           </div>
 
           {middlePhoto.image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
@@ -123,17 +119,16 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
                 className=""
               />
             </div>
-
             <div className="w-full m-auto">
               <div className="sm:w-9/12 mb-4 m-auto">
                 <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
                 <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
               </div>
             </div>
-          </div>}
+          </div>
+          }
 
-
-          <div className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></div>
+          <Container className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></Container>
         </div>
 
         <div className="mx-2">
@@ -166,8 +161,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 export async function getStaticPaths() {
   const slugs = importPostSlugs()
 
-
-
   const paths = slugs.map((slug: string) => ({
     params: { post: slug.toString() },
   }));
@@ -178,7 +171,6 @@ export async function getStaticPaths() {
 
 // params will contain the id for each generated page.
 export async function getStaticProps({ params }: any) {
-
   const slug = `${params.post}.md`
   const post: PostData[] = await getSpecificPost(slug);
 
@@ -189,8 +181,6 @@ export async function getStaticProps({ params }: any) {
     bron: "",
     image: ""
   }
-
-
 
   return {
     props: {

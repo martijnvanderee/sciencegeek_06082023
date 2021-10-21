@@ -47,6 +47,7 @@ collections:
         required: true
         display_fields: [onderschrift]
         valueField: "{{slug}}"
+        options_length: 5
 
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"
