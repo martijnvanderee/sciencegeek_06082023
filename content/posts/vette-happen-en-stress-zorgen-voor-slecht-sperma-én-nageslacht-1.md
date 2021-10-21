@@ -35,7 +35,7 @@ geval van epigenomen gaat het dus niet om genetische data, maar die van de omgev
 en wel de omgeving van het epigenoom en zijn baasje. Dat is in het geval van luie,
 vretende, stressende piemeleigenaren nauwelijks goed nieuws. 
 
-![Foto: Pixabay.com. De epigenomen van mannen met een gezonde levensstijl geven deze info door tijdens de bevruchting en zorgen zo voor gezond nageslacht.](/img/vader-baby-slaap.jpg)
+![De epigenomen van mannen met een gezonde levensstijl geven deze info door tijdens de bevruchting en zorgen zo voor gezond nageslacht.](/img/vader-baby-slaap.jpg "Foto: Pixabay.com")
 
 Bij een
 bevruchting van de eicel geeft het epigenoom al zijn informatie over het dieet en
@@ -60,6 +60,5 @@ ook al weer op sportieve en optimistische mannen vallen. Zo krijgen mensen blijk
 gezondere kids!
 
 *Gepubliceerd op 15.04.2021*
-
 
 *Bron: onderzoek Non-DNA mechanism is involved in transmitting paternal experience to offspring, McGill University, Montreal, Canada*
