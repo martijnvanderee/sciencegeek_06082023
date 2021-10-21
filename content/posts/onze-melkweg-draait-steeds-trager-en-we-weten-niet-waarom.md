@@ -7,8 +7,7 @@ headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
 tags: []
-photo's:
-  - map-bron-pixabay-com-ajs1-onderschrift-sterrenhemel-nacht-donke-image-img-sterrenhemel-nacht-donker-jpg
+photo's: []
 ---
 De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.
 
