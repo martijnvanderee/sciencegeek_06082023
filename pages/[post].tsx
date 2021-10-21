@@ -1,6 +1,8 @@
 import React, { FunctionComponent } from 'react'
 import styled from "styled-components"
 import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
+import ReactHtmlParser from 'react-html-parser';
+
 
 //components
 import { Layout } from "../components/layout"
@@ -78,10 +80,18 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
   const tags = attributes.tags.length !== 0 ? modifyTags(attributes.tags) : []
 
   const res = test(html, "<strong>", 3)
-  console.log("html", html)
+
 
   const firstHtml = splitAt(res)(html)[0]
   const secondHtml = splitAt(res)(html)[1]
+
+  const transform = (node: any, index: any) => console.log(node, index)
+
+
+  console.log(ReactHtmlParser(firstHtml))
+  console.log(ReactHtmlParser(secondHtml, { transform }))
+
+
 
   return (
     <Layout title={`${attributes.title} | ScienceGeek.nl`}>
@@ -108,7 +118,10 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
 
           <div className="mb-6 text-xl mx-auto">
-            <Container className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: firstHtml }}>
+
+
+            <Container className="prose-xl md:prose-2xl mx-auto">
+              {ReactHtmlParser(firstHtml)}
             </Container>
           </div>
 
