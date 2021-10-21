@@ -49,8 +49,8 @@ collections:
         valueField: "{{slug}}"
         options_length: 3
         multiple: true
-        min: 1
-        max: 5
+        min: 10
+        max: 15
 
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"

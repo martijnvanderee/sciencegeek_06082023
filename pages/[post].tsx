@@ -78,6 +78,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
   const tags = attributes.tags.length !== 0 ? modifyTags(attributes.tags) : []
 
   const res = test(html, "<strong>", 3)
+  console.log("html", html)
 
   const firstHtml = splitAt(res)(html)[0]
   const secondHtml = splitAt(res)(html)[1]
@@ -150,10 +151,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
             {randomPosts.map((post: PostData) => <PostItem post={post} />)}
           </div>
         </section>
-
-
       </main>
-
     </Layout >
   );
 };
