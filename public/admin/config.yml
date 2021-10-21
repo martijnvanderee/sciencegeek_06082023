@@ -47,10 +47,8 @@ collections:
         required: true
         display_fields: [onderschrift]
         valueField: "{{slug}}"
-        options_length: 3
-        multiple: true
-        min: 10
-        max: 15
+        options_length: 1
+
 
       - {label: "Body", name: "body", widget: "markdown"}
       - label: "Onderwerp"
