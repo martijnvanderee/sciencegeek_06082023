@@ -7,8 +7,7 @@ onderwerp: tech
 auteur: Monique Siemsen
 tags:
   - computer, hacken, processor, inbouwfout, Spectre
-photo's:
-  - map-bron-pixabay-com-onderschrift-vrouw-bed-computer-image-img-vrouw-bed-computer-jpg
+photo's: []
 ---
 De mensheid is vandaag de dag zeer afhankelijk van de computer. Gevaarlijk, want onderzoekers vonden een nieuwe kwetsbaarheid, die computers over de hele wereld makkelijk lam legt.
 
