@@ -26,6 +26,7 @@ module.exports = {
     extend: {
 
 
+
         backgroundImage: {
          'loadingImage': "url('/img/loadingImage.svg')",
         },

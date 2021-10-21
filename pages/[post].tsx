@@ -85,11 +85,32 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
   const firstHtml = splitAt(res)(html)[0]
   const secondHtml = splitAt(res)(html)[1]
 
-  const transform = (node: any, index: any) => console.log(node, index)
+  const transformImage = (node: any) => {
+    if (node.name === 'img') {
+      const image = node.attribs.src
+      const alt = node.attribs.alt
+      const titleBron = node.attribs.title
 
+      return (
+        <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          <div className="relative m-auto md:max-w-2xl">
+            <img
+              src={image}
+              alt={alt}
+              className=""
+            />
+          </div>
+          <div className="relative -top-12 w-full m-auto">
+            <div className="sm:w-9/12 mb-4 m-auto">
+              <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
+              <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
+            </div>
+          </div>
+        </div>
+      )
 
-  console.log(ReactHtmlParser(firstHtml))
-  console.log(ReactHtmlParser(secondHtml, { transform }))
+    }
+  }
 
 
 
@@ -120,8 +141,8 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           <div className="mb-6 text-xl mx-auto">
 
 
-            <Container className="prose-xl md:prose-2xl mx-auto">
-              {ReactHtmlParser(firstHtml)}
+            <Container className="prose-xl md:prose-2xl mx-auto" >
+              {ReactHtmlParser(firstHtml, { transform: transformImage })}
             </Container>
           </div>
 
@@ -142,7 +163,9 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
           }
 
-          <Container className="prose-xl md:prose-2xl mx-auto" dangerouslySetInnerHTML={{ __html: secondHtml }}></Container>
+          <Container className="prose-xl md:prose-2xl mx-auto" >
+            {ReactHtmlParser(secondHtml, { transform: transformImage })}
+          </Container>
         </div>
 
         <div className="mx-2">
@@ -171,6 +194,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
 export async function getStaticPaths() {
   const slugs = importPostSlugs()
+
 
   const paths = slugs.map((slug: string) => ({
     params: { post: slug.toString() },

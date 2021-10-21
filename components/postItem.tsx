@@ -39,7 +39,7 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
               <h2 className="text-lg font-medium leading-6">
                 {post.attributes.title}
               </h2>
-              <time className="absolute bottom-1 text-xs text-grey"> {date}</time>
+
             </div>
           </div>
         </article>
