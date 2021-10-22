@@ -28,7 +28,7 @@ Britse onderzoekers aan de universiteit van Leeds, kwamen hierachter toen zij na
 
 Eigenlijk kwamen de Britse onderzoekers over voor een ander onderzoek, namelijk over hoe fulguriet wordt gevormd en samengesteld. Maar tijdens de research werkzaamheden stuitten zij op dusdanige grote hoeveelheden fosfor mineralen, dat er een lampje ging branden. Vooral het mineraal schreibersiet bleek massaal aanwezig te zijn in de fulguriet en dat was de sterkste aanwijzing dat de bliksem die de fulguriet gemaakt had, ook de brenger was van dit fosfor.
 
-![](/img/aarde-meteoriet-ruimte.jpg "Foto: Pixabay.com. Jarenlang dacht men onterecht dat de bouwstenen voor het leven door meteorieten op aarde kwamen.")
+![Jarenlang dachten we onterecht dat we ons bestaan aan meteorieten te danken hadden.](/img/aarde-meteoriet-ruimte.jpg "Pixabay.com")
 
 Fosfor is een belangrijke bouwsteen voor groei en reproductie en is voornamelijk aangetroffen in mineralen die niet kunnen oplossen in water en dus werden getransporteerd via meteorieten. Maar schreibersiet is anders en kan wel degelijk oplossen in water. Dit is een belangrijk puzzelstukje in hoe leven op aarde ontstaan is omdat het vooral de consensus is dat het eerste leven ontstond in ondiep oppervlaktewater of zoals Darwin het noemde “warm little pond-concept”, het idee van een warm klein meertje.
 
