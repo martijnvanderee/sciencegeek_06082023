@@ -1,6 +1,5 @@
 ---
-onderschrift: We weten pas sinds kort dat meteorieten alleen niet
-  verantwoordelijk waren voor mineralen op aarde.
+onderschrift: Jarenlang dacht men dat de mensheid haar bestaan te danken had aan meteorieten.
 bron: Pixabay.com Sethink
 image: /img/aarde-meteoriet-ruimte.jpg
 ---
