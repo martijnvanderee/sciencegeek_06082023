@@ -13,7 +13,7 @@ photo's:
 ---
 Er is een nieuwe manier bedacht om ons plastic te recyclen. Wetenschappers hebben een manier gevonden om er vliegtuigbrandstof van te maken en nog razend snel ook.
 
-De plastic afvalberg groeit de mensheid boven de oren en het einde was tot voor kort nog niet in zicht. Micro-polymeren komen terecht in grote en kleine organismen en wat directe kunststof-vergiftiging voor mensen betekent, weten we nog niet zeker, maar goed voor onze gezondheid is het zeker niet. (link naar plastic vis) En dan hebben we het nog niet over onze oceanen.
+De plastic afvalberg groeit de mensheid boven de oren en het einde was tot voor kort nog niet in zicht. Micro-polymeren komen terecht in grote en kleine organismen en wat directe kunststof-vergiftiging voor mensen betekent, weten we nog niet zeker, maar goed voor onze gezondheid is het zeker niet. (Zie ook ons artikel over met plastic vergiftigde vissen ***[hier.](/kunststof-kleding-vergiftigt-vissen-al-70-jaar)***) En dan hebben we het nog niet over onze oceanen.
 
 **Plastic afval moeilijk en duur om te recyclen**
 
