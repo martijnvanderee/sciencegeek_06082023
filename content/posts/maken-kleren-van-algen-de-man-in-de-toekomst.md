@@ -30,7 +30,7 @@ Om de fotosynthetische materialen te maken begon men met een niet levende bacter
 
 Vervolgens werkt deze cellulose net als het papier in de printer. De levende micro-algen doen dienst als inkt. Met een 3D printer konden de wetenschappers vervolgens de algen op de cellulose “drukken”. Het resultaat is een materiaal dat tevens prima gebruikt kan worden als fotosynthetische huid in de medische sector. Immers, de zuurstof in het materiaal kan de beschadigde huid helpen te herstellen, maar het kan ook ingezet worden als licht-activerende factor. Ook hierbij is kapotte huid gebaat.
 
-Een belangrijke toepassing voor het materiaal is de inzet ervan in de strijd tegen klimaatverandering. Er worden namelijk kunstbladeren van de algenstof gemaakt, die net als echte bladeren koolstof kunnen omzetten in zuurstof. (Dat dit bepaald geen overbodige luxe is, met de rap verdwijnende en beschadigde regenwouden, kun je ***[hier](/nieuwe-milieuramp-dreigt-amazone-stoot-meer-zuurstof-uit-dan-het-opneemt)*** lezen in onze publicatie over de Amazone.)
+Een belangrijke toepassing voor het materiaal is de inzet ervan in de strijd tegen klimaatverandering. Er worden namelijk kunstbladeren van de algenstof gemaakt, die net als echte bladeren koolstof kunnen omzetten in zuurstof. (Dat dit bepaald geen overbodige luxe is, met de rap verdwijnende en beschadigde regenwouden, kun je ***[hier](/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt)*** lezen in onze publicatie over de Amazone.)
 
 **Even je jurk van algen “stekken” voor nieuwe stof?**
 
