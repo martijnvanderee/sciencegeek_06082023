@@ -3,7 +3,6 @@ import styled from "styled-components"
 import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 import ReactHtmlParser from 'react-html-parser';
 
-
 //components
 import { Layout } from "../components/layout"
 import { PostItem } from "../components/postItem"
@@ -23,6 +22,7 @@ type PostProps = {
 const splitAt = (index: any) => (x: string) => [x.slice(0, index), x.slice(index)]
 
 const test = (str: any, subString: string, index: number) => {
+  console.log(1)
   const test = str.split(/(?=\<p>)/)
   const test1 = test.map(inclStrong)
 
@@ -81,7 +81,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 
   const res = test(html, "<strong>", 3)
 
-
   const firstHtml = splitAt(res)(html)[0]
   const secondHtml = splitAt(res)(html)[1]
 
@@ -108,7 +107,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
         </div>
       )
-
     }
   }
 
@@ -139,7 +137,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </div>
 
           <div className="mb-6 text-xl mx-auto">
-
 
             <Container className="prose-xl md:prose-2xl mx-auto" >
               {ReactHtmlParser(firstHtml, { transform: transformImage })}
