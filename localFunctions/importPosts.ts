@@ -1,176 +1,118 @@
 
 import * as R from "ramda";
-
 //typescript
-import { PostData, PostMeta } from "../typescript"
+import { PostData, PostMeta, DataPhotos } from "../typescript"
 //helper
 import { convertNumberToArray, getShuffle } from "./helperFunc"
+import { NUMBER_OF_POST_ON_PAGE } from "../public/variables"
 
+//data
 import data from "../functions/postData.json"
-import { numberOfPostsOnPage } from "../public/variables"
-
-
 const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 
-export const importPostSlugs = () => {
-  const fileNames = postMeta.FileNames.map((FileName: string) => { return FileName.substring(0, FileName.length - 3) })
-  return fileNames
-};
+type Import = {
+  attributes: DataPhotos
+  html: any
+  default: any
+}
+
+export const importPost = async (path: string): Promise<PostData> => await import(`../content/posts/${path}`);
+
+export const importPhoto = async (path: string): Promise<Import> =>
+  await import(`../content/${"photo's"}/${path}.md`)
+
+const importPhoto1 = async (obj: any): Promise<DataPhotos> => {
+  const photo = await importPhoto(obj)
+  return photo.attributes
+}
+
+export const importPhotos = async (paths: string[]) =>
+  await Promise.all(paths.map(async (path) => importPhoto1(path)))
+
+const getSubsetPosts = (files: string[], numberOfPosts: number,) => files.slice(0, numberOfPosts);
+
+export const getPosts = async (AMOUNT_OF_POST_FRONTPAGE: number, sortSubject: string = "all"): Promise<PostData[]> => {
+  const postsSortedBySubject = sortSubject === "all" ? data.FileNames : postMeta.postPerSubject[sortSubject]
+
+  const sortedSlugsByData = sortPostsByDate(postsSortedBySubject)
+
+  const slugs = await getSubsetPosts(sortedSlugsByData, AMOUNT_OF_POST_FRONTPAGE)
+
+  const posts = await importPosts(slugs)
+
+  return JSON.parse(JSON.stringify(posts));
+}
+
+const removeMdExt = (slug: string) => slug.substring(0, slug.length - 3)
+
+const importPosts = async (postNames: string[]): Promise<PostData[]> =>
+  await Promise.all(postNames.map(getFullPost))
+
+export const getFullPost = async (slug: string) => {
+  const post = await importPost(slug)
+
+  const headerPath = postMeta.postMeta[slug].headerPhoto
+  const photosPath = postMeta.postMeta[slug].photos
+
+  const photos = await getSpecificPhoto({ headerPath, photosPath })
+  return { ...post, photos, slug: removeMdExt(slug) }
+}
 
 
 type GetSpecificPhotos = {
   headerPath: string;
   photosPath: string[]
 }
-const getSubsetPosts = (files: string[], numberOfPosts: number,) => files.slice(0, numberOfPosts);
 
-export const importPhoto = async (path: string) => {
-  const markdown = await import(`../content/${"photo's"}/${path}.md`);
-
-  return markdown
-};
-
-export const getNumberOfPages = (subject: string) => {
-  const amountOfPostPerSubject = subject === "all" ? postMeta.amountOfPosts : postMeta.amountOfPostPerSubject[subject]
-
-  const NumberOfPages = Math.ceil(amountOfPostPerSubject / numberOfPostsOnPage)
-
-  return NumberOfPages
-};
+export const getSpecificPhoto = async ({ headerPath, photosPath }: GetSpecificPhotos) =>
+  ({ headerData: await importPhoto1(headerPath), photosData: await importPhotos(photosPath) })
 
 
-export const getSubjectPaths = () => {
-  const subjectNames = postMeta.subjectNames
+const getNumberOfPages1 = (subjectName: string) => convertNumberToArray(getNumberOfPages(subjectName))
 
-  const NumberOfPagesOfSubject = subjectNames.map((subjectName: string) => {
-    const amountOfSubjectPosts = postMeta.postPerSubject[subjectName].length
-    const NumberOfPages = Math.ceil(amountOfSubjectPosts / numberOfPostsOnPage)
+const getSubjectPath = (subjectName: string) => getNumberOfPages1(subjectName).map((arr: number) => ({
+  params: {
+    subject: subjectName,
+    id: (arr + 1).toString(),
+  }
+}))
 
-    const NumberOfPagesArray = convertNumberToArray(NumberOfPages)
-
-    const staticProps = NumberOfPagesArray.map((arr: number) => {
-      return {
-        params: {
-          subject: subjectName,
-          id: (arr + 1).toString(),
-        }
-      }
-
-    })
-    return staticProps
-  })
-
-  const amountOftotalPosts = postMeta.amountOfPosts
-  const NumberOfPages = Math.ceil(amountOftotalPosts / numberOfPostsOnPage)
-  const NumberOfPagesArray = convertNumberToArray(NumberOfPages)
-
-  const test1 = NumberOfPagesArray.map((page: number) => {
-    return {
-      params: {
-        subject: "all",
-        id: (page + 1).toString(),
-      }
-    }
-  })
-
-  NumberOfPagesOfSubject.push(test1)
-
-  return NumberOfPagesOfSubject.flat()
-}
-
+export const getSubjectPaths = ({ subjectNames }: any) =>
+  [...subjectNames.map(getSubjectPath), getSubjectPath("all")].flat()
 
 export const getPropsFromPaths = async (slugName: string, slugId: string,) => {
-  const postsSortedBySubject = slugName === "all" ? data.FileNames : postMeta.postPerSubject[slugName]
+  const sortedSlugs = sortPostsByDate(sortPostsBySubject(slugName, postMeta))
 
-  const sortedSlugsByData = sortPostsByDate(postsSortedBySubject)
+  const specificPosts = getSpecificPosts(sortedSlugs, postNumbers(slugId))
 
-  const numberOfPostsStart = Number(slugId) * numberOfPostsOnPage - numberOfPostsOnPage
-  const numberOfPostsStartEnd = Number(slugId) * numberOfPostsOnPage
-
-  const specificPosts = getSpecificPosts(sortedSlugsByData, numberOfPostsStart, numberOfPostsStartEnd)
-
-
-
-  const posts = sortPostsByDate(specificPosts)
-
-
-
-  const newPosts = getPostsTest1(posts)
-
-
-  return newPosts
+  return importPosts(specificPosts)
 }
 
-const getSpecificPosts = (slugs: string[], numberOfPostsStart: number, numberOfPostsStartEnd: number) => {
-
-  if (numberOfPostsStartEnd > slugs.length) return slugs.slice(numberOfPostsStart)
-
-  return slugs.slice(numberOfPostsStart, numberOfPostsStartEnd)
-
-}
-
-const test = (numberOfPostsStart: number, numberOfPostsStartEnd: number) => {
-
-  const postAmount = postMeta.amountOfPosts
-
-  if (numberOfPostsStartEnd > postAmount) return postMeta.FileNames.slice(numberOfPostsStart)
-
-  return postMeta.FileNames.slice(numberOfPostsStart, numberOfPostsStartEnd)
-
-}
-
-
-
-const getPost = (postPath: any[]) => {
-  return Promise.all(
-    postPath.map(async (path: any) => {
-      const markdown = await import(`../content/posts/${path.path}`);
-      return { ...markdown, slug: path.path.substring(0, path.path.length - 3) };
-    })
-  );
-}
-
-const getRandomPaths = (PostNumbers: number[], AllPostPaths: string[]) => {
-  const SelectedPostPaths = PostNumbers.map((postNumber) => {
-    return AllPostPaths[postNumber]
-  })
-  return SelectedPostPaths
-}
-
-const getRandomNumbers = (amountOfPosts: number, amountOfPicks: number) => {
-  if (amountOfPicks > amountOfPosts) return []
-
-  const arrayOfPosts = convertNumberToArray(amountOfPosts)
-  const arrayOfPicks = convertNumberToArray(amountOfPicks)
-  const shuffle = getShuffle(arrayOfPosts);
-
-  const randomNumbers = arrayOfPicks.map(() => {
-    const number = shuffle.next().value
-    return number
+const postNumbers = (slugId: string) => (
+  {
+    start: Number(slugId) * NUMBER_OF_POST_ON_PAGE - NUMBER_OF_POST_ON_PAGE,
+    end: Number(slugId) * NUMBER_OF_POST_ON_PAGE
   })
 
-  return randomNumbers
+const sortPostsBySubject = (slugName: string, postMeta: any) =>
+  slugName === "all" ? postMeta.FileNames : postMeta.postPerSubject[slugName]
+
+
+type Num = {
+  start: number,
+  end: number
 }
+const getSpecificPosts = (slugs: string[], num: Num) =>
+  (num.start > slugs.length) ? slugs.slice(num.start) : slugs.slice(num.start, num.end)
 
 
-export const getPosts = async (amountOfPostFrontPage: number, sortSubject: string = "all") => {
+const getRandomNumbers = (total: number, amountOfPicks: number) => {
+  if (amountOfPicks > total) return []
 
-  const postsSortedBySubject = sortSubject === "all" ? data.FileNames : postMeta.postPerSubject[sortSubject]
+  const shuffle = getShuffle(convertNumberToArray(total));
 
-
-  const sortedSlugsByData = sortPostsByDate(postsSortedBySubject)
-
-
-  const slugs = await getSubsetPosts(sortedSlugsByData, amountOfPostFrontPage)
-
-
-  const test: PostData[] = await getPostsTest1(slugs)
-  const test1 = JSON.parse(JSON.stringify(test));
-  return test1
+  return convertNumberToArray(amountOfPicks).map(() => shuffle.next().value)
 }
-
-
-
 
 interface Point {
   name: string
@@ -180,32 +122,18 @@ interface Point {
 const nameLens = R.lensProp<Point>('name')
 const dateLens = R.lensProp<Point>('date');
 
-
-
 const view1 = R.view(nameLens)
 const view2 = R.view(dateLens)
 
-
 const double = (obj: any) => {
-
   const name = view1(obj)
   const date = view2(obj)
-
 
   return { name, date }
 }
 
-const triple = (array: any) => {
-
-  return view1(array)
-
-
-
-}
-
-
-
-
+const triple = (array: any) =>
+  view1(array)
 
 interface Point1 {
   [key: string]: {
@@ -215,131 +143,52 @@ interface Point1 {
   }
 }
 
-
 const funcMap = (slug: string) => {
   const Lprop = R.lensProp<Point1>(slug)
-  const v = R.view(Lprop, postMeta.postMeta)
-  return v
+
+  return R.view(Lprop, postMeta.postMeta)
 
 }
 
 const sortByNameCaseInsensitive = R.sortBy((R.prop('date')))
 
-
-
-
 const sortPostsByDate = (slugs: string[]) => {
   const tas = R.map(funcMap, slugs)
-
-
-
-
 
   const r = R.map(double, tas)
 
   const s = sortByNameCaseInsensitive(r)
 
-
-
-
-
-
   const ra = R.map(triple, s)
 
   return R.reverse(ra)
-
-
-
-  // const data = slugs.map((slug: string) => {
-  //   return { [slug]: postMeta.postMeta[slug].date }
-  // })
-
-  //map view sort
-
-
-
-
-
-  //sort datas
-
-
 }
 
+const getRandomPaths = (amountOfPosts: number, totalPosts: number, postsBySubject: string[]) =>
+  getPaths(getRandomNumbers(totalPosts, amountOfPosts), postsBySubject)
 
 
+const getPaths = (PostNumbers: number[], AllPostPaths: string[]) =>
+  PostNumbers.map((postNumber) => AllPostPaths[postNumber])
 
 
+export const getRandomPostBySubject = async (amountOfPosts: number, subject: string, postMeta: PostMeta) => {
 
-export const getSpecificPost = async (slug: string) => {
+  const paths = getRandomPaths(amountOfPosts, postMeta.postPerSubject[subject].length, postMeta.postPerSubject[subject])
 
-  const test: PostData[] = await getPostsTest1([slug])
-  const test1 = JSON.parse(JSON.stringify(test));
-  return test1
-}
-
-export const getSpecificPhoto = async (ImagePaths: GetSpecificPhotos) => {
-
-
-  const headerData = await import(`../content/photo's/${ImagePaths.headerPath}.md`);
-
-
-  const photosData = await Promise.all(ImagePaths.photosPath.map(async (photoPath) => {
-    const photoDataFull = await import(`../content/photo's/${photoPath}.md`);
-    return photoDataFull.attributes
-  }))
-
-  return { headerData: headerData.attributes, photosData }
-};
-
-export const getRandomPostBySubject = async (amountOfPosts: number, subject: string) => {
-
-  const postsBySubject = postMeta.postPerSubject[subject]
-
-  const numberOfTotalPosts = postMeta.amountOfPostPerSubject[subject]
-
-  const randomNumbers = getRandomNumbers(numberOfTotalPosts, amountOfPosts)
-  //get randompaths
-
-  const postPath = getRandomPaths(randomNumbers, postsBySubject)
-  //get posts
-
-  const postsWithPhotos = getPostsTest1(postPath)
-
-  return postsWithPhotos
+  return await importPosts(paths)
 }
 
 export const getRandomPosts = async (numberOfPost: number = 1): Promise<PostData[]> => {
+  const paths = getRandomPaths(numberOfPost, postMeta.amountOfPosts, postMeta.FileNames)
 
-  const numberOfTotalPosts = postMeta.amountOfPosts
-
-  const RandomPostNumbers = getRandomNumbers(numberOfTotalPosts, numberOfPost)
-
-  const randomPostPaths = RandomPostNumbers.map((num: number) => postMeta.FileNames[num])
-
-  const Posts = await getPostsTest1(randomPostPaths)
-
-  return Posts
+  return await importPosts(paths)
 }
 
-export const importPost = async (path: string) => {
-  const markdown = await import(`../content/posts/${path}`);
+export const importPostSlugs = () =>
+  postMeta.FileNames.map((FileName: string) => removeMdExt(FileName))
 
-  return markdown
-};
-
-const getPostsTest1 = async (postNames: string[]) => {
-  const posts: any = await Promise.all(postNames.map(async (slug) => {
-    const post = await importPost(slug)
-
-    const headerPath = postMeta.postMeta[slug].headerPhoto
-    const photosPath = postMeta.postMeta[slug].photos
-    const imagePath = { headerPath, photosPath }
+export const getNumberOfPages = (subject: string) => Math.ceil(getNumberOfPosts(subject, postMeta) / NUMBER_OF_POST_ON_PAGE)
 
 
-    const photos = await getSpecificPhoto(imagePath)
-    return { ...post, photos, slug: slug.substring(0, slug.length - 3) }
-
-  }))
-
-  return posts
-}
+const getNumberOfPosts = (subject: string, postMeta: PostMeta) => subject === "all" ? postMeta.amountOfPosts : postMeta.amountOfPostPerSubject[subject]

@@ -9,7 +9,7 @@ import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
 //typescript
 import { PostData } from "../typescript"
 //variables
-import { amountOfPostFrontPage, amountOfRandomPostFrontPage } from "../public/variables"
+import { AMOUNT_OF_POST_FRONTPAGE, AMOUNT_OF_RANDOM_POST_FRONTPAGE } from "../public/variables"
 
 type HistoryProps = {
   LatestPosts: PostData[],
@@ -43,8 +43,8 @@ const History: FunctionComponent<HistoryProps> = ({ LatestPosts, randomPosts }) 
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(amountOfPostFrontPage, "history")
-  const randomPosts = await getRandomPosts(amountOfRandomPostFrontPage)
+  const LatestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE, "history")
+  const randomPosts = await getRandomPosts(AMOUNT_OF_RANDOM_POST_FRONTPAGE)
 
   return { props: { LatestPosts, randomPosts } }
 

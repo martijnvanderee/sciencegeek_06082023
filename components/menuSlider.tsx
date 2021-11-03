@@ -5,7 +5,7 @@ import { useIsMenuOpen } from '../state/isMenuOpen'
 import { CgClose } from 'react-icons/cg';
 import { IconContext } from "react-icons";
 
-import { navNames, navLinks } from "../public/variables"
+import { NAV_NAMES, NAV_LINKS } from "../public/variables"
 import { useRouter } from 'next/router'
 import Link from "next/link";
 
@@ -38,10 +38,10 @@ export const MenuSlider = () => {
         {/* <Zoeken /> */}
 
         <div className="pt-12">
-          {navNames.map((navName, index) => {
+          {NAV_NAMES.map((navName, index) => {
             const path: string = useRouter().asPath
-            const isRoute: boolean = path === navLinks[index]
-            return <NavItem name={navName} path={navLinks[index]} isRoute={isRoute} key={index} />
+            const isRoute: boolean = path === NAV_LINKS[index]
+            return <NavItem name={navName} path={NAV_LINKS[index]} isRoute={isRoute} key={index} />
           })}
 
           <Link href="/over-sciencegeek">

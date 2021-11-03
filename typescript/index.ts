@@ -1,6 +1,5 @@
 import { FormikProps } from "formik";
 
-
 export interface PostData {
   default: { attributes: any, html: string }
   attributes: {
@@ -19,6 +18,16 @@ export interface PostData {
   photos?: any
 }
 
+export interface DataPhotos {
+  onderschrift: string
+  bron: string
+  image: string
+}
+
+export interface DataPhotosTotal {
+  headerData: DataPhotos
+  photosData: DataPhotos[]
+}
 
 export interface PostMeta {
   FileNames: string[];
@@ -33,19 +42,8 @@ export interface PostMeta {
       date: Date
     }
   }
-
 }
 
-export interface DataPhotos {
-  onderschrift: string
-  bron: string
-  image: string
-}
-
-export interface DataPhotosTotal {
-  headerData: DataPhotos
-  photosData: DataPhotos[]
-}
 
 type Values = {
   email: "";

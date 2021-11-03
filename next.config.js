@@ -11,7 +11,8 @@ module.exports = withPWA({
   webpack: configuration => {
     configuration.module.rules.push({
       test: /\.md$/,
-      use: 'frontmatter-markdown-loader',
+      loader: 'frontmatter-markdown-loader',
+
     });
     return configuration;
   }, async exportPathMap(defaultPathMap) {
@@ -24,24 +25,24 @@ module.exports = withPWA({
 
 
 
-const getPathsForPosts = () => {
-  return fs
-    .readdirSync(blogPostsFolder)
-    .map(blogName => {
-      const trimmedName = blogName.substring(0, blogName.length - 3);
-      return {
-        [`/blog/${trimmedName}`]: {
-          page: '/blog/[slug]',
-          query: {
-            slug: trimmedName,
-          },
-        },
-      };
-    })
-    .reduce((acc, curr) => {
-      return { ...acc, ...curr };
-    }, {});
-};
+// const getPathsForPosts = () => {
+//   return fs
+//     .readdirSync(blogPostsFolder)
+//     .map(blogName => {
+//       const trimmedName = blogName.substring(0, blogName.length - 3);
+//       return {
+//         [`/blog/${trimmedName}`]: {
+//           page: '/blog/[slug]',
+//           query: {
+//             slug: trimmedName,
+//           },
+//         },
+//       };
+//     })
+//     .reduce((acc, curr) => {
+//       return { ...acc, ...curr };
+//     }, {});
+// };
 
 
 

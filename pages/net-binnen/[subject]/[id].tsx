@@ -7,9 +7,14 @@ import { PostItem2 } from "../../../components/postItem"
 //functions
 import { getPropsFromPaths } from "../../../localFunctions/importPosts"
 //typescript
-import { PostData } from "../../../typescript"
+import { PostData, PostMeta } from "../../../typescript"
 
 import { getSubjectPaths } from "../../../localFunctions/importPosts"
+
+//data
+import data from "../../../functions/postData.json"
+const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
+
 
 type NetBinnenProps = {
   posts: PostData[]
@@ -42,7 +47,8 @@ const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
 }
 
 export async function getStaticPaths() {
-  const paths = getSubjectPaths()
+  const paths = getSubjectPaths(postMeta)
+
   return { paths, fallback: false };
 }
 
@@ -53,7 +59,6 @@ type Params = {
 // params will contain the id for each generated page.
 export async function getStaticProps({ params }: Params) {
   const posts = await getPropsFromPaths(params.subject, params.id)
-
 
   return { props: { posts } }
 }

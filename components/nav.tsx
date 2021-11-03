@@ -2,16 +2,16 @@ import React, { FunctionComponent } from 'react'
 import Link from "next/link";
 import { useRouter } from 'next/router'
 
-import { navNames, navLinks } from "../public/variables"
+import { NAV_NAMES, NAV_LINKS } from "../public/variables"
 
 const Nav = () => {
   return (
     <section className="bg-white flex justify-center border-b border-almostWhite">
       <nav className="flex overflow-x-auto divide-x  divide-almostWhite bg-white h-12 md:h-16 font-semibold text-black  max-w-6xl mx-auto">
-        {navNames.map((navName, index) => {
+        {NAV_NAMES.map((navName, index) => {
           const path: string = useRouter().asPath
-          const isRoute: boolean = path === navLinks[index]
-          return <NavItem name={navName} path={navLinks[index]} isRoute={isRoute} key={index} />
+          const isRoute: boolean = path === NAV_LINKS[index]
+          return <NavItem name={navName} path={NAV_LINKS[index]} isRoute={isRoute} key={index} />
         })}
       </nav>
     </section>

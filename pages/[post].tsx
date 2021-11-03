@@ -1,7 +1,11 @@
 import React, { FunctionComponent } from 'react'
 import styled from "styled-components"
-import { importPostSlugs, getSpecificPost, getRandomPostBySubject } from "../localFunctions/importPosts"
+import { importPostSlugs, getFullPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 import ReactHtmlParser from 'react-html-parser';
+import { PostMeta } from "../typescript"
+//data
+import data from "../functions/postData.json"
+const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 
 //components
 import { Layout } from "../components/layout"
@@ -204,11 +208,11 @@ export async function getStaticPaths() {
 // params will contain the id for each generated page.
 export async function getStaticProps({ params }: any) {
   const slug = `${params.post}.md`
-  const post: PostData[] = await getSpecificPost(slug);
+  const post: PostData = await getFullPost(slug);
 
-  const randomPosts = await getRandomPostBySubject(4, post[0].attributes.onderwerp)
+  const randomPosts = await getRandomPostBySubject(4, post.attributes.onderwerp, postMeta)
 
-  const middlePhoto = post[0].photos.photosData[0] ? post[0].photos.photosData[0] : {
+  const middlePhoto = post.photos.photosData ? post.photos.photosData : {
     onderschrift: "",
     bron: "",
     image: ""
@@ -216,9 +220,9 @@ export async function getStaticProps({ params }: any) {
 
   return {
     props: {
-      html: post[0].html,
-      attributes: post[0].attributes,
-      dataPhotos: post[0].photos.headerData,
+      html: post.html,
+      attributes: post.attributes,
+      dataPhotos: post.photos.headerData,
       randomPosts,
       middlePhoto: middlePhoto
     },
