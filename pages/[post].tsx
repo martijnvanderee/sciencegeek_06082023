@@ -93,6 +93,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
   const transformImage = (node: any) => {
     if (node.name === 'img') {
       const image = node.attribs.src
+
       const alt = node.attribs.alt
       const titleBron = node.attribs.title
 
@@ -219,7 +220,7 @@ export async function getStaticProps({ params }: params) {
 
   const randomPosts = await getRandomPostBySubject(4, post.attributes.onderwerp, postMeta)
 
-  console.log("test", post.photos.photosData)
+  console.log("test", post.photos.photosData, post.photos)
   const middlePhoto = post.photos.photosData ? post.photos.photosData : {
     onderschrift: "",
     bron: "",

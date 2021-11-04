@@ -17,7 +17,7 @@ type HomeProps = {
 }
 
 const firstElement = (arr: any[]) => arr[0]
-const removeFirstEement = (arr: any[]) => [, ...arr]
+const removeFirstEement = (arr: any[]) => arr.slice(1)
 
 const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
   return (

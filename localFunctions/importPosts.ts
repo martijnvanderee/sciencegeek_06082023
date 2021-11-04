@@ -26,7 +26,6 @@ const importPhoto1 = async (obj: any): Promise<DataPhotos> => {
   return photo.attributes
 }
 
-
 export const importPhotos = async (paths: string[]) =>
   await Promise.all(paths.map(async (path) => importPhoto1(path)))
 
@@ -55,7 +54,7 @@ export const getFullPost = async (slug: string) => {
   const headerPath = postMeta.postMeta[slug].headerPhoto
   const photosPath = postMeta.postMeta[slug].photos
 
-
+  console.log("h", headerPath, "p", photosPath)
 
   const photos = await getSpecificPhoto({ headerPath, photosPath })
 
