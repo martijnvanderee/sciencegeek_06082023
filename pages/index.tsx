@@ -16,24 +16,26 @@ type HomeProps = {
   randomPosts: PostData[]
 }
 
+const firstElement = (arr: any[]) => arr[0]
+const removeFirstEement = (arr: any[]) => [, ...arr]
+
 const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
-  const headPost = LatestPosts[0]
-  const [, ...postOftheRest] = LatestPosts;
   return (
     <Layout title="ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl">
       <main>
         <div>
-
           <div className="md:grid  md:grid-cols-2 md:mt-10">
+
             {/* HeadPost */}
-            <HeadPost postData={headPost} />
+            <HeadPost postData={firstElement(LatestPosts)} />
             <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
 
             {/* laatste nieuws */}
-            <LaatsteNieuws posts={postOftheRest} title="Het laatste nieuws op ScienceGeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
+            <LaatsteNieuws posts={removeFirstEement(LatestPosts)} title="Het laatste nieuws op ScienceGeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
           </div>
 
           <div className="hidden md:block bg-almostWhite h-0.5 w-full mt-8"></div>
+
           {/* random posts */}
           <RandomBigPosts posts={randomPosts} />
         </div>

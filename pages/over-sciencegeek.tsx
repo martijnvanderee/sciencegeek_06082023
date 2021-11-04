@@ -1,13 +1,14 @@
-import React, { FunctionComponent } from 'react'
+import React from 'react'
 //components
 import { Layout } from "../components/layout"
 
 export default function About() {
   return <Layout title="Over ScienceGeek | ScienceGeek.nl">
     <main>
-
       <div className="p-4 text-black mb-20 mt-8">
+
         <h1 className="text-3xl mb-8 font-bold">Over ScienceGeek</h1>
+
         <p className="text-xl mb-4">ScienceGeek is dé nieuwssite voor iedereen die van wetenschappelijke feitjes en weetjes
           houdt, iedere dag weer.</p>
 
@@ -29,11 +30,13 @@ export default function About() {
 
         <p className="text-xl mb-4">We wensen je een interessante en leuke dag toe!</p>
         <br />
+
         <p className="text-xl italic">Monique de Leeuw</p>
+
         <p className="text-xl mb-4">Hoofdredacteur ScienceGeek</p>
         <br />
-        <p className="text-lg">ScienceGeek is een uitgave van ICS Media, gevestigd te Duiven, Van Goghstraat 4, 6921 NJ</p>
 
+        <p className="text-lg">ScienceGeek is een uitgave van ICS Media, gevestigd te Duiven, Van Goghstraat 4, 6921 NJ</p>
       </div>
     </main>
   </Layout>

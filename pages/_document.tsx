@@ -6,7 +6,6 @@ export default class MyDocument extends Document {
     return (
       <Html lang="en" className="text-xs">
         <Head>
-
         </Head>
         <body>
           <Main />

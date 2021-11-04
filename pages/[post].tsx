@@ -23,6 +23,10 @@ type PostProps = {
   middlePhoto: DataPhotos
 }
 
+const makePostParam = (slug: string) => ({
+  params: { post: slug },
+})
+
 const splitAt = (index: any) => (x: string) => [x.slice(0, index), x.slice(index)]
 
 const test = (str: any, subString: string, index: number) => {
@@ -31,8 +35,6 @@ const test = (str: any, subString: string, index: number) => {
   const test1 = test.map(inclStrong)
 
   const test2 = test2func(test1, index)
-  //klopt
-  const test3 = test.join(subString)
 
   const testBonus = test.slice(0, test2)
   const testBonus1 = testBonus.map((test: string) => { return (test.length) })
@@ -115,7 +117,6 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
   }
 
 
-
   return (
     <Layout title={`${attributes.title} | ScienceGeek.nl`}>
       <main className="md:max-w-6xl  md:mx-auto">
@@ -147,8 +148,9 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
             </Container>
           </div>
 
-          {middlePhoto.image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          {/* {middlePhoto.image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
+              {console.log(middlePhoto, middlePhoto.image)}
               <img
                 src={middlePhoto.image}
                 alt={attributes.title}
@@ -162,7 +164,7 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
               </div>
             </div>
           </div>
-          }
+          } */}
 
           <Container className="prose-xl md:prose-2xl mx-auto" >
             {ReactHtmlParser(secondHtml, { transform: transformImage })}
@@ -194,24 +196,30 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
 };
 
 export async function getStaticPaths() {
-  const slugs = importPostSlugs()
+  const slugs = importPostSlugs(postMeta)
 
-
-  const paths = slugs.map((slug: string) => ({
-    params: { post: slug.toString() },
-  }));
-
+  const paths = slugs.map(makePostParam);
 
   return { paths, fallback: false };
 }
 
+const makeMdFileExt = (slug: string) => `${slug}.md`
+
 // params will contain the id for each generated page.
-export async function getStaticProps({ params }: any) {
-  const slug = `${params.post}.md`
+
+type params = {
+  params: { post: string }
+  locales: any
+  locale: any
+  defaultLocale: any
+}
+export async function getStaticProps({ params }: params) {
+  const slug = makeMdFileExt(params.post)
   const post: PostData = await getFullPost(slug);
 
   const randomPosts = await getRandomPostBySubject(4, post.attributes.onderwerp, postMeta)
 
+  console.log("test", post.photos.photosData)
   const middlePhoto = post.photos.photosData ? post.photos.photosData : {
     onderschrift: "",
     bron: "",

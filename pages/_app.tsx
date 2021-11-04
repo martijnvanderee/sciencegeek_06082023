@@ -1,11 +1,9 @@
 import React from 'react';
+import 'tailwindcss/tailwind.css'
 
 // Modules
 import { AppProps } from 'next/app';
 import Head from 'next/head';
-
-import 'tailwindcss/tailwind.css'
-
 
 //state
 import { IsMenuOpenProvider } from '../state/isMenuOpen'

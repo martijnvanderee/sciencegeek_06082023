@@ -26,6 +26,7 @@ const importPhoto1 = async (obj: any): Promise<DataPhotos> => {
   return photo.attributes
 }
 
+
 export const importPhotos = async (paths: string[]) =>
   await Promise.all(paths.map(async (path) => importPhoto1(path)))
 
@@ -54,7 +55,10 @@ export const getFullPost = async (slug: string) => {
   const headerPath = postMeta.postMeta[slug].headerPhoto
   const photosPath = postMeta.postMeta[slug].photos
 
+
+
   const photos = await getSpecificPhoto({ headerPath, photosPath })
+
   return { ...post, photos, slug: removeMdExt(slug) }
 }
 
@@ -167,13 +171,10 @@ const sortPostsByDate = (slugs: string[]) => {
 const getRandomPaths = (amountOfPosts: number, totalPosts: number, postsBySubject: string[]) =>
   getPaths(getRandomNumbers(totalPosts, amountOfPosts), postsBySubject)
 
-
 const getPaths = (PostNumbers: number[], AllPostPaths: string[]) =>
   PostNumbers.map((postNumber) => AllPostPaths[postNumber])
 
-
 export const getRandomPostBySubject = async (amountOfPosts: number, subject: string, postMeta: PostMeta) => {
-
   const paths = getRandomPaths(amountOfPosts, postMeta.postPerSubject[subject].length, postMeta.postPerSubject[subject])
 
   return await importPosts(paths)
@@ -185,10 +186,9 @@ export const getRandomPosts = async (numberOfPost: number = 1): Promise<PostData
   return await importPosts(paths)
 }
 
-export const importPostSlugs = () =>
+export const importPostSlugs = (postMeta: PostMeta) =>
   postMeta.FileNames.map((FileName: string) => removeMdExt(FileName))
 
 export const getNumberOfPages = (subject: string) => Math.ceil(getNumberOfPosts(subject, postMeta) / NUMBER_OF_POST_ON_PAGE)
-
 
 const getNumberOfPosts = (subject: string, postMeta: PostMeta) => subject === "all" ? postMeta.amountOfPosts : postMeta.amountOfPostPerSubject[subject]

@@ -12,7 +12,6 @@ module.exports = withPWA({
     configuration.module.rules.push({
       test: /\.md$/,
       loader: 'frontmatter-markdown-loader',
-
     });
     return configuration;
   }, async exportPathMap(defaultPathMap) {
