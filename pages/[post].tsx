@@ -27,6 +27,11 @@ const Container = styled.div`
   }
   `
 
+const Img = styled.img`
+    margin:2em auto;
+}
+`
+
 const transformImage = (node: any) => {
   if (node.name === 'img') {
     const image = node.attribs.src
@@ -36,12 +41,12 @@ const transformImage = (node: any) => {
     return (
       <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
         <div className="relative m-auto md:max-w-2xl">
-          <img
+          <Img
             src={image}
             alt={alt}
           />
         </div>
-        <div className="relative -top-12 w-full m-auto">
+        <div className="relative -top-10 md:-top-12 w-full m-auto">
           <div className="sm:w-9/12 mb-4 m-auto">
             <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
             <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
