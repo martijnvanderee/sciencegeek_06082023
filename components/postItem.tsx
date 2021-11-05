@@ -1,23 +1,21 @@
 import React, { FunctionComponent } from 'react'
 import Link from "next/link";
-
+//hooks
 import useTimeLeft from "../hooks/useTimeLeft"
-
 //typescript
-import { PostData } from "../typescript"
+import { FullPost } from "../typescript"
 import { formatDate } from "../localFunctions/formatdate"
+//constants
+import { TIME_TILL_HIDDEN_BG } from "../public/variables"
 
-type postProps = {
-  post: PostData,
+type PostProps = {
+  post: FullPost,
 }
 
-export const PostItem: FunctionComponent<postProps> = ({ post }) => {
-  const date: string = formatDate(post.attributes.date)
-  const url = post.slug
-
-  const timeLeft = useTimeLeft(3)
+export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
+  const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG)
   return (
-    <Link href={`/${url}`} as={`/${url}`}>
+    <Link href={`/${post.slug}`} as={`/${post.slug}`}>
       <a className="w-full focus:outline-none flex-shrink-0">
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
@@ -27,17 +25,17 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
 
               <img
                 src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
-                alt={post.attributes.title}
+                alt={post.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
             </div>
             <div className="relative px-2">
               <span className="text-sm text-purple">
-                {post.attributes.onderwerp}
+                {post.onderwerp}
               </span>
 
               <h2 className="text-lg font-medium leading-6">
-                {post.attributes.title}
+                {post.title}
               </h2>
 
             </div>
@@ -48,7 +46,6 @@ export const PostItem: FunctionComponent<postProps> = ({ post }) => {
   )
 }
 
-
 type postProps1 = {
   slug: string,
   image: string,
@@ -56,7 +53,6 @@ type postProps1 = {
   onderwerp: string
   date: any
 }
-
 
 
 export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, onderwerp, date }) => {
@@ -97,15 +93,14 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
 }
 
 type postProps2 = {
-  post: PostData
+  post: FullPost
 }
 
 export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
-  const timeLeft = useTimeLeft(3)
+  const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG)
 
-  const url = post.slug
   return (
-    <Link href={`/${url}`} as={`/${url}`}>
+    <Link href={`/${post.slug}`} as={`/${post.slug}`}>
       <a className="focus:outline-none focus:ring focus:border-blue-300">
         <article className="m-4 cursor-pointer">
           <div className="relative h-64">
@@ -114,14 +109,14 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
 
             <img
               src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
-              alt={post.attributes.title}
+              alt={post.title}
               className="absolute inset-0 w-full h-full object-cover"
             />
           </div>
           <div className="relative h-36 p-2 ">
             <div>
-              <span className="text-purple font-bold mb-2">{post.attributes.onderwerp}</span>
-              <div className="text-black font-semibold text-2xl">{post.attributes.title}</div>
+              <span className="text-purple font-bold mb-2">{post.onderwerp}</span>
+              <div className="text-black font-semibold text-2xl">{post.title}</div>
             </div>
             <div className="absolute w-12 bg-yellow h-0.5 bottom-0 right-0"></div>
             <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>

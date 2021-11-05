@@ -6,20 +6,18 @@ import { LaatsteNieuws } from "../components/laatsteNieuws"
 import { RandomBigPosts } from "../components/randomBigPosts"
 //functions
 import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
+import { getFirstElement, removeFirstEement } from "../localFunctions/helperFunc";
 //typescript
-import { PostData } from "../typescript"
+import { FullPost } from "../typescript"
 //variables
-import { AMOUNT_OF_POST_FRONTPAGE, AMOUNT_OF_RANDOM_POST_FRONTPAGE } from "../public/variables"
+import { AMOUNT_OF_POST_FRONTPAGE, AMOUNT_OF_RANDOM_POST_FRONTPAGE, LAATSTE_NIEUWS } from "../public/variables"
 
 type HomeProps = {
-  LatestPosts: PostData[],
-  randomPosts: PostData[]
+  latestPosts: FullPost[],
+  randomPosts: FullPost[]
 }
 
-const firstElement = (arr: any[]) => arr[0]
-const removeFirstEement = (arr: any[]) => arr.slice(1)
-
-const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
+const Home: FunctionComponent<HomeProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout title="ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl">
       <main>
@@ -27,11 +25,15 @@ const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
           <div className="md:grid  md:grid-cols-2 md:mt-10">
 
             {/* HeadPost */}
-            <HeadPost postData={firstElement(LatestPosts)} />
-            <div className=" md:hidden h-2 w-full bg-almostWhite"></div>
+            <HeadPost data={getFirstElement(latestPosts)} />
+            <div className="md:hidden h-2 w-full bg-almostWhite"></div>
 
             {/* laatste nieuws */}
-            <LaatsteNieuws posts={removeFirstEement(LatestPosts)} title="Het laatste nieuws op ScienceGeek!" LinkNaarMeerPostsView="Meer net binnen" LinkNaarMeerPosts="/net-binnen/all/1" />
+            <LaatsteNieuws
+              posts={removeFirstEement(latestPosts)}
+              title={LAATSTE_NIEUWS.title}
+              LinkNaarMeerPostsText={LAATSTE_NIEUWS.linkText}
+              LinkNaarMeerPosts={LAATSTE_NIEUWS.link} />
           </div>
 
           <div className="hidden md:block bg-almostWhite h-0.5 w-full mt-8"></div>
@@ -45,11 +47,9 @@ const Home: FunctionComponent<HomeProps> = ({ LatestPosts, randomPosts }) => {
 }
 
 export async function getStaticProps() {
-  const LatestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE)
+  const latestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE)
   const randomPosts = await getRandomPosts(AMOUNT_OF_RANDOM_POST_FRONTPAGE)
-
-  return { props: { LatestPosts, randomPosts } }
-
+  return { props: { latestPosts, randomPosts } }
 }
 
 export default Home;

@@ -5,7 +5,7 @@ export interface PostData {
   attributes: {
     templateKey: string;
     title: string;
-    Subtitel?: string
+    Subtitle?: string
     date: Date;
     headerPhoto: string;
     onderwerp: string
@@ -27,6 +27,24 @@ export interface DataPhotos {
 export interface DataPhotosTotal {
   headerData: DataPhotos
   photosData: DataPhotos[]
+}
+
+
+type SpecificPhotos1 = {
+  headerData: DataPhotos;
+  photosData: DataPhotos[];
+}
+
+export type FullPost = {
+  title: string
+  subtitle?: string
+  date: Date
+  onderwerp: string
+  auteur: string
+  tags: string[]
+  html: string
+  photos: SpecificPhotos1
+  slug: string
 }
 
 export interface PostMeta {

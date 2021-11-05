@@ -2,22 +2,19 @@ import React, { FunctionComponent } from 'react'
 //components
 import { Layout } from "../../../components/layout"
 import Pagination from '../../../components/pagination/index';
-//components
 import { PostItem2 } from "../../../components/postItem"
 //functions
-import { getPropsFromPaths } from "../../../localFunctions/importPosts"
+import { getPropsFromPaths, getSubjectPaths } from "../../../localFunctions/importPosts"
 //typescript
-import { PostData, PostMeta } from "../../../typescript"
-
-import { getSubjectPaths } from "../../../localFunctions/importPosts"
-
+import { PostMeta, FullPost } from "../../../typescript"
+//constants
+import { NET_BINNEN } from "../../../public/variables"
 //data
 import data from "../../../functions/postData.json"
 const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 
-
 type NetBinnenProps = {
-  posts: PostData[]
+  posts: FullPost[]
 }
 
 const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
@@ -27,16 +24,12 @@ const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
 
         {/* net binnen */}
         <div className="mx-4 mt-10 mb-10 text-4xl font-bold underline text-grey">
-          <h1>Net binnen</h1>
+          <h1>{NET_BINNEN().title}</h1>
         </div>
 
         {/* posts */}
         <div className="grid sm:grid-cols-2 md:grid-cols-3 pb-10 mt-2">
-          {posts.map((post: PostData, index) => {
-            return (
-              <PostItem2 post={post} key={index} />
-            )
-          })}
+          {posts.map((post: FullPost, index) => <PostItem2 post={post} key={index} />)}
         </div>
 
         <Pagination />
@@ -48,7 +41,6 @@ const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
 
 export async function getStaticPaths() {
   const paths = getSubjectPaths(postMeta)
-
   return { paths, fallback: false };
 }
 
@@ -57,9 +49,8 @@ type Params = {
 }
 
 // params will contain the id for each generated page.
-export async function getStaticProps({ params }: Params) {
-  const posts = await getPropsFromPaths(params.subject, params.id)
-
+export async function getStaticProps({ params: { subject, id } }: Params) {
+  const posts = await getPropsFromPaths(subject, id)
   return { props: { posts } }
 }
 

@@ -3,16 +3,16 @@ import Link from "next/link";
 //components
 import { PostItem } from "../components/postItem"
 //typescript
-import { PostData } from "../typescript"
+import { FullPost } from "../typescript"
 
 type LaatsteNieuwsProps = {
-  posts: PostData[],
+  posts: FullPost[],
   title: string
-  LinkNaarMeerPostsView: string
+  LinkNaarMeerPostsText: string
   LinkNaarMeerPosts: string
 }
 
-export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, title, LinkNaarMeerPostsView, LinkNaarMeerPosts }) => {
+export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, title, LinkNaarMeerPostsText, LinkNaarMeerPosts }) => {
   return (
     <div className="mb-10 md:mb-0">
       <div className="md:h-96 md:overflow-auto">
@@ -22,14 +22,14 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, ti
         </div>
 
         <div className="flex flex-wrap overflow-hidden my-4 sm:mx-4">
-          {posts.map((post: any, index: number) => <PostItem key={index} post={post} />)}
+          {posts.map((post: FullPost, index: number) => <PostItem key={index} post={post} />)}
         </div>
 
       </div>
 
       <Link href={LinkNaarMeerPosts}>
-      <a className="focus:outline-none focus:ring focus:border-blue-300">
-        <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer" >{LinkNaarMeerPostsView}<span className="text-2xl md:text-xl font-semibold leading-tight text-purple">{">"}</span>  </div>
+        <a className="focus:outline-none focus:ring focus:border-blue-300">
+          <div className="text-2xl md:text-2xl font-semibold leading-tight text-grey ml-4 cursor-pointer" >{LinkNaarMeerPostsText}<span className="text-2xl md:text-xl font-semibold leading-tight text-purple">{">"}</span>  </div>
         </a>
       </Link>
     </div>

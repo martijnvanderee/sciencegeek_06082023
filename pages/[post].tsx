@@ -1,74 +1,21 @@
 import React, { FunctionComponent } from 'react'
 import styled from "styled-components"
-import { importPostSlugs, getFullPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 import ReactHtmlParser from 'react-html-parser';
-import { PostMeta } from "../typescript"
+//functions
+import { importPostSlugs, getFullPost, getRandomPostBySubject } from "../localFunctions/importPosts"
+import { imageResize, splitHtml, makeMdFileExt } from "../localFunctions/helperFunc"
 //data
 import data from "../functions/postData.json"
 const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
-
 //components
 import { Layout } from "../components/layout"
 import { PostItem } from "../components/postItem"
-//functions
-import { modifyTags } from "../localFunctions/modifyTags";
 //typescript
-import { PostData, DataPhotos } from "../typescript"
-
-type PostProps = {
-  attributes: any,
-  html: string,
-  dataPhotos: DataPhotos
-  randomPosts: PostData[]
-  middlePhoto: DataPhotos
-}
+import { PostData, FullPost, PostMeta } from "../typescript"
 
 const makePostParam = (slug: string) => ({
   params: { post: slug },
 })
-
-const splitAt = (index: any) => (x: string) => [x.slice(0, index), x.slice(index)]
-
-const test = (str: any, subString: string, index: number) => {
-  console.log(1)
-  const test = str.split(/(?=\<p>)/)
-  const test1 = test.map(inclStrong)
-
-  const test2 = test2func(test1, index)
-
-  const testBonus = test.slice(0, test2)
-  const testBonus1 = testBonus.map((test: string) => { return (test.length) })
-  const testBonus2 = testBonus1.reduce((a: any, b: any) => a + b, 0)
-  return testBonus2
-}
-
-const inclStrong = (str: string) =>
-  str.includes("<strong>")
-
-
-const test2func = (arr: any, ind: number) => {
-  let num = -1
-  if (arr.length === 0) return -1
-
-  for (const [i, v] of arr.entries()) {
-    if (ind > i) {
-      continue
-    }
-    if (v) {
-      num = -1
-      continue
-    }
-    if (v === false && num !== -1) {
-      num = i
-      break
-    }
-    if (v === false) {
-      num = i
-      continue
-    }
-  }
-  return num
-}
 
 const Container = styled.div`
   & > p {
@@ -80,100 +27,96 @@ const Container = styled.div`
   }
   `
 
-const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, randomPosts, middlePhoto }) => {
-  const image = `${dataPhotos.image}/?nf_resize=fit&w=700`
+const transformImage = (node: any) => {
+  if (node.name === 'img') {
+    const image = node.attribs.src
+    const alt = node.attribs.alt
+    const titleBron = node.attribs.title
 
-  const tags = attributes.tags.length !== 0 ? modifyTags(attributes.tags) : []
-
-  const res = test(html, "<strong>", 3)
-
-  const firstHtml = splitAt(res)(html)[0]
-  const secondHtml = splitAt(res)(html)[1]
-
-  const transformImage = (node: any) => {
-    if (node.name === 'img') {
-      const image = node.attribs.src
-
-      const alt = node.attribs.alt
-      const titleBron = node.attribs.title
-
-      return (
-        <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
-          <div className="relative m-auto md:max-w-2xl">
-            <img
-              src={image}
-              alt={alt}
-              className=""
-            />
-          </div>
-          <div className="relative -top-12 w-full m-auto">
-            <div className="sm:w-9/12 mb-4 m-auto">
-              <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
-              <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
-            </div>
+    return (
+      <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+        <div className="relative m-auto md:max-w-2xl">
+          <img
+            src={image}
+            alt={alt}
+          />
+        </div>
+        <div className="relative -top-12 w-full m-auto">
+          <div className="sm:w-9/12 mb-4 m-auto">
+            <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
+            <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
           </div>
         </div>
-      )
-    }
+      </div>
+    )
   }
+}
 
+type PostProps = {
+  post: FullPost
+  randomPosts: FullPost[]
+}
+
+const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
+  const { photos, html, title, subtitle, tags } = post
+  const image = imageResize(photos.headerData.image)
+
+  const { firstPart, secondPart } = splitHtml(3, html)
 
   return (
-    <Layout title={`${attributes.title} | ScienceGeek.nl`}>
+    <Layout title={`${title} | ScienceGeek.nl`}>
       <main className="md:max-w-6xl  md:mx-auto">
+
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
               src={image}
-              alt={attributes.title}
-              className="absolute inset-0 w-full h-full  object-cover"
+              alt={title}
+              className="absolute inset-0 w-full h-full object-cover"
             />
           </div>
-
           <div className="md:w-8/12 m-auto mb-4">
-            <p className="z-10 text-grey text-small text-sm">bron: {dataPhotos.bron}</p>
+            <p className="z-10 text-grey text-small text-sm">bron: {photos.headerData.bron}</p>
           </div>
         </div>
 
         <div className="p-4 md:mb-4">
           <div className=" mb-6 mt-4 md:mt-8 md:max-w-xl md:mx-auto">
-            <h2 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{attributes.title}</h2>
-            {attributes.Subtitle && <h3 className="italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{attributes.Subtitle}</h3>
-            }
+            <h2 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{title}</h2>
+            {subtitle && <h3 className="italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{subtitle}</h3>}
           </div>
 
           <div className="mb-6 text-xl mx-auto">
-
             <Container className="prose-xl md:prose-2xl mx-auto" >
-              {ReactHtmlParser(firstHtml, { transform: transformImage })}
+              {ReactHtmlParser(firstPart, { transform: transformImage })}
             </Container>
           </div>
 
-          {/* {middlePhoto.image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          {photos.photosData[0].image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
-              {console.log(middlePhoto, middlePhoto.image)}
               <img
-                src={middlePhoto.image}
-                alt={attributes.title}
+                src={photos.photosData[0].image}
+                alt={title}
                 className=""
               />
             </div>
             <div className="w-full m-auto">
               <div className="sm:w-9/12 mb-4 m-auto">
-                <p className="z-10 text-grey text-small text-sm">bron: {middlePhoto.bron}</p>
-                <p className="z-10 text-gray-800  text-lg font-medium italic">{middlePhoto.onderschrift}</p>
+
+                <p className="z-10 text-grey text-small text-sm">bron: {photos.photosData[0].bron}</p>
+
+                <p className="z-10 text-gray-800  text-lg font-medium italic">{photos.photosData[0].onderschrift}</p>
               </div>
             </div>
-          </div>
-          } */}
+          </div>}
 
           <Container className="prose-xl md:prose-2xl mx-auto" >
-            {ReactHtmlParser(secondHtml, { transform: transformImage })}
+            {ReactHtmlParser(secondPart, { transform: transformImage })}
           </Container>
         </div>
-
         <div className="mx-2">
-          {attributes.tags && <ul className="flex flex-wrap mb-6 gap-y-2 mb-20">
+
+          {tags && <ul className="flex flex-wrap mb-6 gap-y-2 mb-20">
             {tags.map((tag: string) => {
               return (
                 <li className="text-purple font-bold p-2 border-2 border-purple rounded-md mr-4 whitespace-nowrap">{tag}</li>)
@@ -181,14 +124,13 @@ const Post: FunctionComponent<PostProps> = ({ attributes, html, dataPhotos, rand
           </ul>}
         </div>
 
-
         <section>
           <div className="mb-12 mx-2">
             <span className="p-4 text-white bg-yellow">lees ook</span>
           </div>
 
           <div className="flex flex-wrap overflow-hidden my-4 mx-2 max-w-3xl">
-            {randomPosts.map((post: PostData) => <PostItem post={post} />)}
+            {randomPosts.map((post: FullPost) => <PostItem post={post} />)}
           </div>
         </section>
       </main>
@@ -204,10 +146,7 @@ export async function getStaticPaths() {
   return { paths, fallback: false };
 }
 
-const makeMdFileExt = (slug: string) => `${slug}.md`
-
 // params will contain the id for each generated page.
-
 type params = {
   params: { post: string }
   locales: any
@@ -216,27 +155,15 @@ type params = {
 }
 export async function getStaticProps({ params }: params) {
   const slug = makeMdFileExt(params.post)
-  const post: PostData = await getFullPost(slug);
+  const post: FullPost = await getFullPost(slug);
 
-  const randomPosts = await getRandomPostBySubject(4, post.attributes.onderwerp, postMeta)
-
-  console.log("test", post.photos.photosData, post.photos)
-  const middlePhoto = post.photos.photosData ? post.photos.photosData : {
-    onderschrift: "",
-    bron: "",
-    image: ""
-  }
+  const randomPosts: FullPost[] = await getRandomPostBySubject(4, post.onderwerp, postMeta)
 
   return {
     props: {
-      html: post.html,
-      attributes: post.attributes,
-      dataPhotos: post.photos.headerData,
-      randomPosts,
-      middlePhoto: middlePhoto
+      post, randomPosts
     },
   };
 }
-
 
 export default Post
