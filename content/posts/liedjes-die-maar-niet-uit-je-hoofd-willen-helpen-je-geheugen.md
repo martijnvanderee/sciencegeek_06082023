@@ -14,6 +14,10 @@ Voordat je het weet, neurie je dat deuntje weer en manen geïrriteerde collega�
 
 De muziek dient als een soort kapstok. Al langer weten we dat muziek, net als geur, sterk verbonden is met emoties en emotionele herinneringen. Nu hebben Amerikaanse wetenschappers aan de California-Davis Universiteit dan ook bewezen dat praktische zaken en alledaagse gebeurtenissen door de hersenen beter worden opgeslagen met behulp van een muziekje. 
 
+![Wetenschappers willen met muziek het geheugen van ouderen een boost geven.](/img/ouder-paar-dansen-tango.jpg "Pixabay.com")
+
+
+
 Zij nemen als voorbeeld de intro, die hoort bij de populaire sitcom Friends uit de jaren negentig van de vorige eeuw en die nu op Netflix weer nieuwe, jeugdige fans maakt. De serie gaat over een hechte groep vrienden in New York en maakte van het nummer “I’ll be there for you” destijds een grote hit. Wie het liedje bijna 30 jaar na dato hoort, is niet alleen weer terug in de tijd, maar kan zich ook weer events en gesprekken binnen de eigen, persoonlijke vriendengroep helder voor de geest krijgen.
 
 **Met muziek produceert het geheugen meer accurate details**
@@ -31,8 +35,6 @@ Als onze stap-avondjes met een muziekje gepaard gingen, staan ze voorgoed in onz
 **Dementie behandelen met muziek?**
 
 En dat is dan ook precies wat de wetenschappers van plan zijn. Zij willen een niet-medicinale therapie ontwikkelen, met behulp van muziek, waarbij mensen met dementie weer vat kunnen krijgen op hun lange termijn-geheugen, zo stevig vastgezet érgens in het brein door dat ene irritante nummer.
-
-
 
 *Gepubliceerd op 24 juni 2021*
 
