@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Liedjes die maar niet uit je hoofd willen, helpen je geheugen!
+title: Oorwurmen helpen je geheugen!
 date: 2021-11-09T13:48:24.628Z
 headerPhoto: map-bron-pixabay-com-image-img-meisje-gitaar-vrolijk-jpg-onderschrift-muziek-helpt-herinneringen-te-verankeren-1
 onderwerp: human
