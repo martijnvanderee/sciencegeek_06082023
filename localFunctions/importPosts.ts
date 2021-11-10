@@ -48,12 +48,10 @@ const removeMdExt = (slug: string) => slug.substring(0, slug.length - 3)
 const importPosts = async (postNames: string[]): Promise<FullPost[]> =>
   await Promise.all(postNames.map(getFullPost))
 
-
 type SpecificPhotos1 = {
   headerData: DataPhotos;
   photosData: DataPhotos[];
 }
-
 
 type FullPost = {
   title: string
@@ -105,14 +103,7 @@ type SpecificPhotos = {
   photosData: string[]
 }
 
-const test = async (photosData: any) => {
-  if (photosData) {
-    if (photosData.length !== 0) {
-      return await importPhotos(photosData)
-    }
-  }
-  return []
-}
+const test = async (photosData: any) => photosData ? photosData.length !== 0 && importPhotos(photosData) : []
 
 
 export const getSpecificPhoto = async ({ headerData, photosData }: SpecificPhotos) =>
