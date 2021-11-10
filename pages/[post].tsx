@@ -37,6 +37,8 @@ const transformImage = (node: any) => {
     const alt = node.attribs.alt
     const titleBron = node.attribs.title
 
+
+
     return (
       <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
         <div className="relative m-auto md:max-w-2xl">
@@ -95,8 +97,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
               {ReactHtmlParser(firstPart, { transform: transformImage })}
             </Container>
           </div>
-
-          {photos.photosData[0].image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          {photos.photosData.length !== 0 && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
               <img
                 src={photos.photosData[0].image}
