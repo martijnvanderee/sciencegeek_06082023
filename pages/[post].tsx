@@ -4,14 +4,14 @@ import ReactHtmlParser from 'react-html-parser';
 //functions
 import { importPostSlugs, getFullPost, getRandomPostBySubject } from "../localFunctions/importPosts"
 import { imageResize, splitHtml, makeMdFileExt } from "../localFunctions/helperFunc"
-//data
-import data from "../functions/postData.json"
-const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 //components
 import { Layout } from "../components/layout"
 import { PostItem } from "../components/postItem"
 //typescript
-import {  FullPost, PostMeta } from "../typescript"
+import { FullPost, PostMeta } from "../typescript"
+//data
+import data from "../functions/postData.json"
+const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 
 const makePostParam = (slug: string) => ({
   params: { post: slug },
