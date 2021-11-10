@@ -1,4 +1,3 @@
-
 import * as R from "ramda";
 //typescript
 import { PostData, PostMeta, DataPhotos } from "../typescript"
@@ -68,13 +67,13 @@ type FullPost = {
   slug: string
 }
 
-const modifyPost = (post: PostData, photos: SpecificPhotos1, slug: string): FullPost => ({
+const modifyPost = (post: PostData, photos: SpecificPhotos1, slug: string, tag:any[]): FullPost => ({
   title: post.attributes.title,
   subtitle: post.attributes.Subtitle || "",
   date: post.attributes.date,
   onderwerp: post.attributes.onderwerp,
   auteur: post.attributes.auteur,
-  tags: modifyTags(post.attributes.tags),
+  tags: modifyTags(tag),
   html: post.html,
   photos,
   slug
@@ -85,27 +84,37 @@ export const getFullPost = async (slug: string) => {
   const headerData = postMeta.postMeta[slug].headerPhoto
   const photosData = postMeta.postMeta[slug].photos
 
-  const photos = await getSpecificPhoto({ headerData, photosData })
 
-  const p1 = photos.photosData.length === 0 ? {
+  const tag = post.attributes.tags ? post.attributes.tags:[]
+
+
+  console.log("photosDataphotosData",photosData)
+  const photos:any = await getSpecificPhoto({ headerData, photosData })
+
+  const p1:any = photos.photosData ? photos: {
     headerData: photos.headerData, photosData: [{
       onderschrift: "",
       bron: "",
       image: ""
     }]
-  } : photos
+  }
 
-  return modifyPost(post, p1, removeMdExt(slug))
+  return modifyPost(post, p1, removeMdExt(slug), tag)
 }
-
 
 type SpecificPhotos = {
   headerData: string;
   photosData: string[]
 }
 
+const test = async (photosData: any) => {
+  if (photosData || photosData.length !== 0) return await importPhotos(photosData)
+  return [""]
+}
+
+
 export const getSpecificPhoto = async ({ headerData, photosData }: SpecificPhotos) =>
-  ({ headerData: await importPhoto1(headerData), photosData: await importPhotos(photosData) })
+  ({ headerData: await importPhoto1(headerData), photosData: await test(photosData) })
 
 const getNumberOfPages1 = (subjectName: string) => convertNumberToArray(getNumberOfPages(subjectName))
 

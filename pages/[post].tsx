@@ -11,7 +11,7 @@ const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 import { Layout } from "../components/layout"
 import { PostItem } from "../components/postItem"
 //typescript
-import { PostData, FullPost, PostMeta } from "../typescript"
+import {  FullPost, PostMeta } from "../typescript"
 
 const makePostParam = (slug: string) => ({
   params: { post: slug },
@@ -29,7 +29,6 @@ const Container = styled.div`
 
 const Img = styled.img`
     margin:2em auto;
-}
 `
 
 const transformImage = (node: any) => {
@@ -37,6 +36,8 @@ const transformImage = (node: any) => {
     const image = node.attribs.src
     const alt = node.attribs.alt
     const titleBron = node.attribs.title
+
+
 
     return (
       <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
@@ -96,8 +97,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
               {ReactHtmlParser(firstPart, { transform: transformImage })}
             </Container>
           </div>
-
-          {photos.photosData[0].image != "" && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          {photos.photosData.length !== 0 && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
               <img
                 src={photos.photosData[0].image}
