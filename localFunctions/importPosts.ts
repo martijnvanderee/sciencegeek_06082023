@@ -67,7 +67,7 @@ type FullPost = {
   slug: string
 }
 
-const modifyPost = (post: PostData, photos: SpecificPhotos1, slug: string, tag:any[]): FullPost => ({
+const modifyPost = (post: PostData, photos: SpecificPhotos1, slug: string, tag: any[]): FullPost => ({
   title: post.attributes.title,
   subtitle: post.attributes.Subtitle || "",
   date: post.attributes.date,
@@ -85,13 +85,11 @@ export const getFullPost = async (slug: string) => {
   const photosData = postMeta.postMeta[slug].photos
 
 
-  const tag = post.attributes.tags ? post.attributes.tags:[]
+  const tag = post.attributes.tags ? post.attributes.tags : []
 
+  const photos: any = await getSpecificPhoto({ headerData, photosData })
 
-  console.log("photosDataphotosData",photosData)
-  const photos:any = await getSpecificPhoto({ headerData, photosData })
-
-  const p1:any = photos.photosData ? photos: {
+  const p1: any = photos.photosData ? photos : {
     headerData: photos.headerData, photosData: [{
       onderschrift: "",
       bron: "",
@@ -108,8 +106,12 @@ type SpecificPhotos = {
 }
 
 const test = async (photosData: any) => {
-  if (photosData || photosData.length !== 0) return await importPhotos(photosData)
-  return [""]
+  if (photosData) {
+    if (photosData.length !== 0) {
+      return await importPhotos(photosData)
+    }
+  }
+  return []
 }
 
 
