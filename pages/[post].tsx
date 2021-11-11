@@ -7,6 +7,8 @@ import { imageResize, splitHtml, makeMdFileExt } from "../localFunctions/helperF
 //components
 import { Layout } from "../components/layout"
 import { PostItem } from "../components/postItem"
+import { SeoHeader } from '../components/seoHeader';
+
 //typescript
 import { FullPost, PostMeta } from "../typescript"
 //data
@@ -38,22 +40,24 @@ const transformImage = (node: any) => {
     const titleBron = node.attribs.title
 
 
-
     return (
-      <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
-        <div className="relative m-auto md:max-w-2xl">
-          <Img
-            src={image}
-            alt={alt}
-          />
-        </div>
-        <div className="relative -top-10 md:-top-12 w-full m-auto">
-          <div className="sm:w-9/12 mb-4 m-auto">
-            <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
-            <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
+      <>
+
+        <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
+          <div className="relative m-auto md:max-w-2xl">
+            <Img
+              src={image}
+              alt={alt}
+            />
+          </div>
+          <div className="relative -top-10 md:-top-12 w-full m-auto">
+            <div className="sm:w-9/12 mb-4 m-auto">
+              <div className="z-10 text-grey text-small text-sm mt-0 pm">bron: {titleBron}</div>
+              <div className="z-10 text-gray-800  text-lg font-medium italic m-0">{alt}</div>
+            </div>
           </div>
         </div>
-      </div>
+      </>
     )
   }
 }
@@ -70,7 +74,8 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   const { firstPart, secondPart } = splitHtml(3, html)
 
   return (
-    <Layout title={`${title} | ScienceGeek.nl`}>
+    <Layout>
+      <SeoHeader subtitle={post.title} />
       <main className="md:max-w-6xl  md:mx-auto">
 
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">

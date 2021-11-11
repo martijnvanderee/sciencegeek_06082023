@@ -2,11 +2,13 @@ import React from 'react'
 import Link from "next/link";
 //components
 import { Layout } from "../components/layout"
+import { SeoHeader } from '../components/seoHeader';
 //variables
 import { PAGE404 } from "../public/variables"
 
-export default function Custom404() {
-  return <Layout title="Er ging iets mis de pagina kan niet worden gevonden | ScienceGeek.nl">
+const Custom404 = () =>
+  <Layout >
+    <SeoHeader subtitle="Er ging iets mis de pagina kan niet worden gevonden | ScienceGeek.nl" />
     <main>
       <div className="mt-16 mx-8">
 
@@ -27,4 +29,5 @@ export default function Custom404() {
       </div>
     </main>
   </Layout>
-}
+
+export default Custom404;

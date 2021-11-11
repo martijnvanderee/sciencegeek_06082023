@@ -105,7 +105,6 @@ type SpecificPhotos = {
 
 const test = async (photosData: any) => photosData ? photosData.length !== 0 && importPhotos(photosData) : []
 
-
 export const getSpecificPhoto = async ({ headerData, photosData }: SpecificPhotos) =>
   ({ headerData: await importPhoto1(headerData), photosData: await test(photosData) })
 

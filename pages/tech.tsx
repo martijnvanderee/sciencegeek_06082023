@@ -4,6 +4,7 @@ import { Layout } from "../components/layout"
 import { HeadPost } from "../components/headPost"
 import { LaatsteNieuws } from "../components/laatsteNieuws"
 import { RandomBigPosts } from "../components/randomBigPosts"
+import { SeoHeader } from '../components/seoHeader';
 //functions
 import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
 import { getFirstElement, removeFirstEement } from "../localFunctions/helperFunc";
@@ -17,7 +18,8 @@ type TechProps = {
 }
 const Tech: FunctionComponent<TechProps> = ({ latestPosts, randomPosts }) => {
   return (
-    <Layout title="Tech | ScienceGeek.nl">
+    <Layout >
+      <SeoHeader subtitle="Tech | ScienceGeek.nl" />
       <main>
         <div>
 
@@ -48,7 +50,7 @@ const Tech: FunctionComponent<TechProps> = ({ latestPosts, randomPosts }) => {
 }
 
 export async function getStaticProps() {
-  const latestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE,"tech")
+  const latestPosts = await getPosts(AMOUNT_OF_POST_FRONTPAGE, "tech")
   const randomPosts = await getRandomPosts(AMOUNT_OF_RANDOM_POST_FRONTPAGE)
   return { props: { latestPosts, randomPosts } }
 }

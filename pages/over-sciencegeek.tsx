@@ -1,9 +1,11 @@
 import React from 'react'
 //components
 import { Layout } from "../components/layout"
+import { SeoHeader } from '../components/seoHeader';
 
 export default function About() {
-  return <Layout title="Over ScienceGeek | ScienceGeek.nl">
+  return <Layout >
+    <SeoHeader subtitle="Over ScienceGeek | ScienceGeek.nl" />
     <main>
       <div className="p-4 text-black mb-20 mt-8">
 

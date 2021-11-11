@@ -33,11 +33,8 @@ export const Header = () => {
 
           <div className="hidden md:block"></div>
 
-
           {/* logo naam small*/}
           <Link href="/">
-
-
 
             <a className="relative my-auto md:text-center hidden sm:block md:flex md:mx-auto focus:outline-none focus:ring focus:border-blue-300">
               <div className="my-auto md:text-center">
@@ -104,8 +101,8 @@ export const Header = () => {
               </div>
 
               {/* bar icon big */}
-    
-                 <div className="flex items-center justify-content mr-1 hidden md:block">
+
+              <div className="flex items-center justify-content mr-1 hidden md:block">
                 <FaBars color="white" size="2.5em" />
               </div>
 

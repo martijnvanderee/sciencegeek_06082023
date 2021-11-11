@@ -4,6 +4,8 @@ import { Layout } from "../components/layout"
 import { HeadPost } from "../components/headPost"
 import { LaatsteNieuws } from "../components/laatsteNieuws"
 import { RandomBigPosts } from "../components/randomBigPosts"
+import { SeoHeader } from '../components/seoHeader';
+
 //functions
 import { getPosts, getRandomPosts } from "../localFunctions/importPosts";
 import { getFirstElement, removeFirstEement } from "../localFunctions/helperFunc";
@@ -19,7 +21,8 @@ type HomeProps = {
 
 const Home: FunctionComponent<HomeProps> = ({ latestPosts, randomPosts }) => {
   return (
-    <Layout title="ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl">
+    <Layout>
+      <SeoHeader subtitle="| ScienceGeek.nl" />
       <main>
         <div>
           <div className="md:grid  md:grid-cols-2 md:mt-10">

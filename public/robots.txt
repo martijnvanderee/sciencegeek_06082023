@@ -1,6 +1,4 @@
-
-
-Sitemap: https://sciencegeek.n/sitemap
-
 User-agent: *
+Sitemap: https://sciencegeek.n/sitemap.xml
+
 Allow: /*

@@ -3,6 +3,7 @@ import React, { FunctionComponent } from 'react'
 import { Layout } from "../../../components/layout"
 import Pagination from '../../../components/pagination/index';
 import { PostItem2 } from "../../../components/postItem"
+import { SeoHeader } from "../../../components/seoHeader"
 //functions
 import { getPropsFromPaths, getSubjectPaths } from "../../../localFunctions/importPosts"
 //typescript
@@ -11,6 +12,7 @@ import { PostMeta, FullPost } from "../../../typescript"
 import { NET_BINNEN } from "../../../public/variables"
 //data
 import data from "../../../functions/postData.json"
+
 const postMeta: PostMeta = JSON.parse(JSON.stringify(data));
 
 type NetBinnenProps = {
@@ -19,9 +21,9 @@ type NetBinnenProps = {
 
 const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
   return (
-    <Layout title="Het laatste nieuws | ScienceGeek.nl">
+    <Layout>
+      <SeoHeader subtitle="Het laatste nieuws | ScienceGeek.nl" />
       <main>
-
         {/* net binnen */}
         <div className="mx-4 mt-10 mb-10 text-4xl font-bold underline text-grey">
           <h1>{NET_BINNEN().title}</h1>

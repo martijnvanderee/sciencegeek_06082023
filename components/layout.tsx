@@ -12,10 +12,10 @@ import { useIsMenuOpen } from '../state/isMenuOpen'
 import { useIsSearchMenuOpen } from '../state/isSearchMenuOpen'
 
 type LayoutProps = {
-  title: string
+
 }
 
-export const Layout: FunctionComponent<LayoutProps> = ({ title, children }) => {
+export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
   const router = useRouter()
 
   const { dispatch, state } = useIsMenuOpen()
@@ -38,7 +38,7 @@ export const Layout: FunctionComponent<LayoutProps> = ({ title, children }) => {
   return (
     <>
       <Head>
-        <title>{title}</title>
+
         <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
 

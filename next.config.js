@@ -7,6 +7,12 @@ module.exports = withPWA({
   future: {
     webpack5: true,
   },
+
+  i18n: {
+    locales: ["nl-NL"],
+    defaultLocale: "nl-NL",
+  },
+
   pwa: { dest: 'public' },
   webpack: configuration => {
     configuration.module.rules.push({
