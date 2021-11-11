@@ -3,7 +3,7 @@ import { NextSeo } from "next-seo";
 import { useRouter } from "next/router";
 
 type seoHeader = {
-  subtitle: string
+  subtitle?: string
 }
 
 export const SeoHeader: FunctionComponent<seoHeader> = ({ subtitle }) => {

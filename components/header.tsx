@@ -38,7 +38,7 @@ export const Header = () => {
 
             <a className="relative my-auto md:text-center hidden sm:block md:flex md:mx-auto focus:outline-none focus:ring focus:border-blue-300">
               <div className="my-auto md:text-center">
-                <div className="my-auto md:text-center"> <h1 className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
+                <div className="my-auto md:text-center"> <title className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></title>
                   <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div></div>
               </div>
 
