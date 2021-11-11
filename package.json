@@ -8,8 +8,7 @@
     "func": "netlify dev",
     "build": "next build",
     "start": "next start",
-    "export": "npm run build && next export",
-    "postbuild": "next-sitemap"
+    "export": "npm run build && next export"
   },
   "keywords": [],
   "author": "",
