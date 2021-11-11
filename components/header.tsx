@@ -38,7 +38,7 @@ export const Header = () => {
 
             <a className="relative my-auto md:text-center hidden sm:block md:flex md:mx-auto focus:outline-none focus:ring focus:border-blue-300">
               <div className="my-auto md:text-center">
-                <div className="my-auto md:text-center"> <title className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></title>
+                <div className="my-auto md:text-center"> <h2 className="text-4xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h2>
                   <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div></div>
               </div>
 
@@ -57,7 +57,7 @@ export const Header = () => {
           {/* logo naam big*/}
           <Link href="/">
             <a className="my-auto sm:hidden focus:outline-none focus:ring focus:border-blue-300">
-              <h1 className="text-2xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h1>
+              <h2 className="text-2xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h2>
               <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div>
             </a>
           </Link>
