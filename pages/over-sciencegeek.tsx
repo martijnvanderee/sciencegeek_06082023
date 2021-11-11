@@ -5,7 +5,7 @@ import { SeoHeader } from '../components/seoHeader';
 
 export default function About() {
   return <Layout >
-    <SeoHeader subtitle="Over ScienceGeek | ScienceGeek.nl" />
+    <SeoHeader subtitle="Over ScienceGeek" />
     <main>
       <div className="p-4 text-black mb-20 mt-8">
 

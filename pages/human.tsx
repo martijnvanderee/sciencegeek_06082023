@@ -19,7 +19,7 @@ type HumanProps = {
 const Human: FunctionComponent<HumanProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout >
-      <SeoHeader subtitle="Human | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Human" />
       <main>
         <div>
 

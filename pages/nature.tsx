@@ -19,7 +19,7 @@ type NatureProps = {
 const Nature: FunctionComponent<NatureProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout >
-      <SeoHeader subtitle="Nature | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Nature" />
       <main>
         <div>
 

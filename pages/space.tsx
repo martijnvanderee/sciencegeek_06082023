@@ -19,7 +19,7 @@ type SpaceProps = {
 const Space: FunctionComponent<SpaceProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout>
-      <SeoHeader subtitle="Space | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Space" />
       <main>
         <div>
 

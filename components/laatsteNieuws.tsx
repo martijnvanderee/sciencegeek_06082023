@@ -18,7 +18,7 @@ export const LaatsteNieuws: FunctionComponent<LaatsteNieuwsProps> = ({ posts, ti
       <div className="md:h-96 md:overflow-auto">
 
         <div className="sticky md:static top-72 z-10 border-b-2 border-yellow p-3 md:mx-4 md:pt-0 bg-white">
-          <h2 className="text-center text-2xl text-black font-bold md:text-2xl ">{title}</h2>
+          <h1 className="text-center text-2xl text-black font-bold md:text-2xl ">{title}</h1>
         </div>
 
         <div className="flex flex-wrap overflow-hidden my-4 sm:mx-4">

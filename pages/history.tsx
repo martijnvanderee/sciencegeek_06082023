@@ -19,7 +19,7 @@ type HistoryProps = {
 const History: FunctionComponent<HistoryProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout >
-      <SeoHeader subtitle="History | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | History" />
       <main>
         <div>
 

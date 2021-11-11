@@ -22,7 +22,7 @@ type HomeProps = {
 const Home: FunctionComponent<HomeProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout>
-      <SeoHeader />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws." />
       <main>
         <div>
           <div className="md:grid  md:grid-cols-2 md:mt-10">
@@ -43,9 +43,9 @@ const Home: FunctionComponent<HomeProps> = ({ latestPosts, randomPosts }) => {
 
           {/* random posts */}
           <RandomBigPosts posts={randomPosts} />
-        </div>
-      </main>
-    </Layout>
+        </div >
+      </main >
+    </Layout >
   )
 }
 

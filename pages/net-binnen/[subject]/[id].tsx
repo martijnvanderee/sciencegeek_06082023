@@ -22,7 +22,7 @@ type NetBinnenProps = {
 const NetBinnen: FunctionComponent<NetBinnenProps> = ({ posts }) => {
   return (
     <Layout>
-      <SeoHeader subtitle="Het laatste nieuws | ScienceGeek.nl" />
+      <SeoHeader subtitle="Het laatste nieuws" />
       <main>
         {/* net binnen */}
         <div className="mx-4 mt-10 mb-10 text-4xl font-bold underline text-grey">

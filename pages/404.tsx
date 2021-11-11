@@ -8,7 +8,7 @@ import { PAGE404 } from "../public/variables"
 
 const Custom404 = () =>
   <Layout >
-    <SeoHeader subtitle="Er ging iets mis de pagina kan niet worden gevonden | ScienceGeek.nl" />
+    <SeoHeader subtitle="Er ging iets mis de pagina kan niet worden gevonden " />
     <main>
       <div className="mt-16 mx-8">
 

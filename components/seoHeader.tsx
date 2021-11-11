@@ -5,11 +5,10 @@ import { useRouter } from "next/router";
 type seoHeader = {
   subtitle?: string
 }
-
 export const SeoHeader: FunctionComponent<seoHeader> = ({ subtitle }) => {
-  const title = `ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. ${subtitle}`;
+  const title = `${subtitle} | ScienceGeek.nl`;
   const desc =
-    "Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl";
+    "ScienceGeek.nl is een onafhankelijk medium met wetenschapsnieuws. Vol onderzoek over tech, robots, seks, space, natuur en psychologie nieuws | ScienceGeek.nl";
   const ogImgRelativePath = "/sciencegeeklogo.png";
 
   const siteURL = "https://sciencegeek.nl";

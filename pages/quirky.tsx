@@ -19,7 +19,7 @@ type QuirkyProps = {
 const Quirky: FunctionComponent<QuirkyProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout>
-      <SeoHeader subtitle="Quirky | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Quirky" />
       <main>
         <div>
 

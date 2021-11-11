@@ -19,7 +19,7 @@ type TechProps = {
 const Tech: FunctionComponent<TechProps> = ({ latestPosts, randomPosts }) => {
   return (
     <Layout >
-      <SeoHeader subtitle="Tech | ScienceGeek.nl" />
+      <SeoHeader subtitle="ScienceGeek brengt internationaal en binnenlands wetenschappelijk nieuws. | Tech" />
       <main>
         <div>
 
