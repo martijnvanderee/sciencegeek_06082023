@@ -58,7 +58,7 @@ export const Header = () => {
           <Link href="/">
             <a className="my-auto sm:hidden focus:outline-none focus:ring focus:border-blue-300">
               <h2 className="text-2xl text-white md:text-5xl  font-black ">Science<strong className="text-yellow">Geek</strong></h2>
-              <div className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</div>
+              <span className="hidden md:block text-almostWhite">het beste wetenschappelijke nieuws</span>
             </a>
           </Link>
 
@@ -106,7 +106,7 @@ export const Header = () => {
                 <FaBars color="white" size="2.5em" />
               </div>
 
-              <div className="text-white text-lg my-auto md:text">Menu</div>
+              <span className="text-white text-lg my-auto md:text">Menu</span>
 
 
             </div>

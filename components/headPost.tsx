@@ -25,12 +25,14 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
             </div>
 
             {timeLeft !== 0 && <div className="absolute inset-0 w-full bg-loadingImage"></div>}
+            <picture>
+              <img
+                src={`${data.photos.headerData.image}/?nf_resize=fit&h=${96 * 4}`}
+                alt={data.title}
+                className="absolute inset-0 w-full h-full object-cover"
+              />
+            </picture>
 
-            <img
-              src={`${data.photos.headerData.image}/?nf_resize=fit&h=${96 * 4}`}
-              alt={data.title}
-              className="absolute inset-0 w-full h-full object-cover"
-            />
           </div>
         </article>
       </a>

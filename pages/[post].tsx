@@ -93,8 +93,11 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
 
         <div className="p-4 md:mb-4">
           <div className=" mb-6 mt-4 md:mt-8 md:max-w-xl md:mx-auto">
-            <h2 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{title}</h2>
-            {subtitle && <h3 className="italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{subtitle}</h3>}
+            <header>
+              <h1 className="text-3xl mb-2 font-bold text-black md:text-4xl md:max-w-xl md:mx-auto">{title}</h1>
+              {subtitle && <h2 className="italic text-xl text-black mb-4 md:text-2xl md:max-w-xl md:mx-auto">{subtitle}</h2>}
+            </header>
+
           </div>
 
           <div className="mb-6 text-xl mx-auto">
