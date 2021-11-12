@@ -88,11 +88,7 @@ export const getFullPost = async (slug: string) => {
   const photos: any = await getSpecificPhoto({ headerData, photosData })
 
   const p1: any = photos.photosData ? photos : {
-    headerData: photos.headerData, photosData: [{
-      onderschrift: "",
-      bron: "",
-      image: ""
-    }]
+    headerData: photos.headerData, photosData: []
   }
 
   return modifyPost(post, p1, removeMdExt(slug), tag)
