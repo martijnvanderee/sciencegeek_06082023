@@ -16,9 +16,7 @@ Soms worden zij laatdunkend wappies genoemd. Of anti-vaxxers, extremisten, fanat
 
 Lange tijd is aangenomen dat de hersenen van links en rechts politiek georiënteerde mensen verschillend functioneerden. Dit is niet het geval. Niet de overtuiging zelf, maar de mate waarin mensen de overtuiging aanhangen, maakt het verschil in hersenfunctionaliteit.
 
-![Pixabay.com](/img/duimen-omhoog-omlaag-1-.jpg "Een gepolariseerd brein is bang voor onzekerheid en laat zich makkelijk opjutten.")
-
-
+![Een gepolariseerd brein is bang voor onzekerheid en laat zich gemakkelijk opjutten.](/img/duimen-omhoog-omlaag-1-.jpg "Pixabay.com")
 
 Nederlandse en Amerikaanse onderzoekers hebben in een gezamenlijk onderzoek van de Brown Universiteit in Rhode Island, aangetoond dat mensen met een gepolariseerde opvatting, namelijk beschikken over een grotere intolerantie voor onzekerheid. Die gevoeligheid voor onzekerheid staat los van de opvatting zelf. Dus bijvoorbeeld: een gepolariseerde democraat beschikt over diezelfde intolerantie voor onzekerheid als een gepolariseerde liberaal. 
 
