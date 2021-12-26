@@ -4,3 +4,5 @@ package = "./plugins/netlify-plugin-store-posts-for-search"
 [[plugins]]
 package = "@netlify/plugin-sitemap"
 
+[build]
+publish = ".next"
