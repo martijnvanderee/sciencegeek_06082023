@@ -81,7 +81,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
-              src={"img/duimen-omhoog-omlaag-1-.jpg"}
+              src={image}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover"
             />
