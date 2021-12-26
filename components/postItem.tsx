@@ -24,7 +24,7 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
               {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>}
 
               <img
-                src={`${post.photos.headerData.image}/?nf_resize=fit&w=${4 * 32}`}
+                src={`img/nacht-sterrenhemel-boom.jpg/?nf_resize=fit&w=${4 * 32}`}
                 alt={post.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
