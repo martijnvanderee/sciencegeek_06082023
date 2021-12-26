@@ -39,7 +39,6 @@ const transformImage = (node: any) => {
     const alt = node.attribs.alt
     const titleBron = node.attribs.title
 
-
     return (
       <>
 
@@ -70,7 +69,7 @@ type PostProps = {
 const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   const { photos, html, title, subtitle, tags } = post
   const image = imageResize(photos.headerData.image)
-
+  console.log(image)
   const { firstPart, secondPart } = splitHtml(3, html)
 
   return (

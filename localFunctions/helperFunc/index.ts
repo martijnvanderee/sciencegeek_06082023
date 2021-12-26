@@ -69,6 +69,6 @@ const getSplitPosts = (atLetter: number, html: string) =>
 export const splitHtml = (atAlinea: number, html: string) =>
   getSplitPosts(splitAtLetter(html, atAlinea), html)
 
-export const imageResize = (image: any) => `${image}/?nf_resize=fit&w=700`
+export const imageResize = (image: any) => `${image}`
 
 export const makeMdFileExt = (slug: string) => `${slug}.md`
