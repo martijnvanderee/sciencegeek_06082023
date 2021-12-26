@@ -27,7 +27,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
             {timeLeft !== 0 && <div className="absolute inset-0 w-full bg-loadingImage"></div>}
             <picture>
               <img
-                src={`${data.photos.headerData.image}/?nf_resize=fit&h=${96 * 4}`}
+                src={`${data.photos.headerData.image}`}
                 alt={data.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />

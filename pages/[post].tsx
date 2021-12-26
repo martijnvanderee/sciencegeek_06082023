@@ -68,8 +68,9 @@ type PostProps = {
 
 const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   const { photos, html, title, subtitle, tags } = post
-  const image = imageResize(photos.headerData.image)
-  console.log("imageimage",image)
+  //const image = imageResize(photos.headerData.image)
+  const image = photos.headerData.image
+
   const { firstPart, secondPart } = splitHtml(3, html)
 
   return (

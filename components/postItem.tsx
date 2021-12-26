@@ -69,7 +69,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
               {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>}
 
               <img
-                src={`${image}/?nf_resize=fit&w=700`}
+                src={`${image}`}
                 alt="title van artikel"
                 className="absolute inset-0 w-full h-full object-cover"
               />
