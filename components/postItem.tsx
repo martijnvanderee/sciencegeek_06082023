@@ -12,9 +12,6 @@ type PostProps = {
   post: FullPost,
 }
 
-//"img/duimen-omhoog-omlaag-1-.jpg"
-
-
 export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
   const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG)
   return (
@@ -27,7 +24,7 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
               {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>}
 
               <img
-                src={"img/nacht-sterrenhemel-boom.jpg"}
+                src={`${post.photos.headerData.image}`}
                 alt={post.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
