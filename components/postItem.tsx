@@ -108,7 +108,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
             {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-cover bg-loadingImage"></div>}
 
             <img
-              src={`${post.photos.headerData.image}/?nf_resize=fit&w=700`}
+              src={`${post.photos.headerData.image}`}
               alt={post.title}
               className="absolute inset-0 w-full h-full object-cover"
             />
