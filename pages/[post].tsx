@@ -69,6 +69,7 @@ type PostProps = {
 const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   const { photos, html, title, subtitle, tags } = post
   const image = imageResize(photos.headerData.image)
+
   const { firstPart, secondPart } = splitHtml(3, html)
 
   return (
@@ -106,7 +107,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
           {photos.photosData.length !== 0 && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
             <div className="relative m-auto md:max-w-2xl">
               <img
-                src={image}
+                src={photos.photosData[0].image}
                 alt={title}
                 className=""
               />

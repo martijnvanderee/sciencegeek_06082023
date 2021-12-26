@@ -3,4 +3,4 @@ package = "./plugins/netlify-plugin-store-posts-for-search"
 
 [[plugins]]
 package = "@netlify/plugin-sitemap"
-
+package = "@netlify/plugin-nextjs"
