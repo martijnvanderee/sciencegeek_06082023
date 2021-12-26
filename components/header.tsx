@@ -16,10 +16,8 @@ export const Header = () => {
 
 
   const handleClickSearch = () => {
-
     dispatchMenu({ type: SearchmenuAction })
     dispatch({ type: "close" })
-
   }
 
   const handleClickMenu = () => {
