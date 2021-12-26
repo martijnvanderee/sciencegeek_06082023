@@ -69,7 +69,7 @@ type PostProps = {
 const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
   const { photos, html, title, subtitle, tags } = post
   const image = imageResize(photos.headerData.image)
-
+  console.log("imageimage",image)
   const { firstPart, secondPart } = splitHtml(3, html)
 
   return (
@@ -80,7 +80,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
         <div className="relative w-full h-72 md:max-w-4xl md:h-96 md:mt-10 md:mx-auto">
           <div className="relative w-full h-full md:w-8/12 m-auto">
             <img
-              src={image}
+              src={"img/duimen-omhoog-omlaag-1-.jpg"}
               alt={title}
               className="absolute inset-0 w-full h-full object-cover"
             />
