@@ -15,7 +15,7 @@ type PostProps = {
 export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
   const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG)
 
-  const image = "post.photos.headerData.image"
+  const image = post.photos.headerData.image
   const image1 = `img/meisje-gitaar-vrolijk.jpg`
   return (
     <Link href={`/${post.slug}`} as={`/${post.slug}`}>
@@ -27,7 +27,7 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
               {timeLeft !== 0 && <div className="absolute inset-0 w-full h-full object-contain bg-loadingImage"></div>}
 
               <img
-                src={image1}
+                src={image}
                 alt={post.title}
                 className="absolute inset-0 w-full h-full object-cover"
               />
