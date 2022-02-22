@@ -23,6 +23,8 @@ Daar is vanuit de wetenschap weinig aanwijzing voor en mineralen mogen in Nederl
 
 "Neem bijvoorbeeld graniet, dat komt door een magmatisch proces tot stand en wanneer dat eenmaal ontstaan is en zich op kamertemperatuur bevindt, gebeurt er verder niets meer mee. Je zou dan echt maatregelen moeten nemen om die stoffen te laten reageren. Zo reageert marmer bijvoorbeeld wel met een sterk zuur. En kan verrijkt uranium radio-activiteit vertonen. Maar dat gaat niemand op de huid toepassen.”
 
+![Fluorescentie van lazuriet, bekeken onder een UV-lamp.](/img/lazuriet-fluor-mineralen.jpg "Pixabay.com")
+
 Het is dus niet zo dat een mineraal geen straling kan afgeven. Nog een voorbeeld van opgeslagen energie en afgegeven straling door de steen, is die van zonlicht, dat door de steen is geabsorbeerd. In het geval van fluorescentie, zitten er stoffen in het mineraal die niet alleen het licht weerkaatsen waarmee we de stenen met het blote oog kunnen zien. Ze absorberen ook tijdelijk een kleine hoeveelheid licht die zij vervolgens met een andere golflengte weer vrijgeven. Dat proces is te zien in het donker met een UV-lamp, als het oplichten of gloeien van de steen in verschillende kleuren.  In dat geval is er sprake van fotonische activiteit in de steen, namelijk de reactieve lichtdeeltjes oftewel fotons, in het mineraal. Deze fotonische activiteit heeft echter geen bewezen effect op het menselijke welzijn. Het wordt gewoon mooi gevonden.
 
 De opgeslagen warmte in stenen van zonlicht in het algemeen, kan uiteraard wel prettig aanvoelen op de huid. Ook juist de koelte of de gladheid van een steen kan bijdragen aan een fysiek welbevinden van mensen. Geologisch is er echter geen aanwijzing dat specifieke stenen ook specifieke klachten kunnen verhelpen.
