@@ -6,8 +6,8 @@ headerPhoto: map-image-img-vleermuis-hangend-schattig-webp-bron-pixabay-com-onde
 onderwerp: nature
 auteur: Monique Siemsen
 tags:
-  - vleermuizen corona-crisis covid-19 lockdowns socialdistancing
-    infectieziekten infectie wetenschap onderzoek gedragswetenschappen
+  - vleermuizen, corona-crisis, covid-19, lockdowns, social distancing,
+    infectieziekten, infectie, wetenschap, onderzoek, gedragswetenschappen
 ---
 Ook vleermuizen doen aan social distancing en lockdowns. Daarmee voorkomen zij dat zij een infectieziekte verspreiden zowel binnen als buiten hun kolonie.
 
