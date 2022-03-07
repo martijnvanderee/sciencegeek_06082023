@@ -6,8 +6,8 @@ headerPhoto: map-bron-pixabay-com-image-img-meisje-gitaar-vrolijk-jpg-onderschri
 onderwerp: human
 auteur: Monique Siemsen
 tags:
-  - oorwurmen geheugen muziek herinnering dementie onthouden liedjes onderzoek
-    wetenschap
+  - oorwurmen, geheugen, muziek, herinnering, dementie, onthouden, liedje in je
+    hoofd, liedje, onderzoek, wetenschap
 photo's: []
 ---
 Nummers die maar in je kop blijven zitten: kapot irritant soms. Maar zij zijn ook buitengewoon nuttig, want ze helpen je belangrijke gebeurtenissen te herinneren.
