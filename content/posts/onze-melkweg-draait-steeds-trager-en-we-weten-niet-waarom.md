@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: "Onze melkweg draait steeds trager. "
-Subtitle: "En we weten niet waarom!                                                "
+title: Onze melkweg draait steeds trager. Maar waarom?
+Subtitle: "                                              "
 date: 2021-10-21T11:24:28.254Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
