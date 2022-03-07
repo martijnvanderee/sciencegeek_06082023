@@ -1,4 +1,4 @@
 ---
-naam: oorwurmen geheugen muziek herinnering dementie onthouden liedjes onderzoek
-  wetenschap
+naam: oorwurmen, geheugen, muziek, herinnering, dementie, onthouden, liedje in
+  je hoofd, liedje, onderzoek, wetenschap
 ---
