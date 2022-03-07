@@ -6,8 +6,8 @@ headerPhoto: map-onderschrift-mayamaskers-beschildering-felle-kleuren-image-img-
 onderwerp: history
 auteur: Monique Siemsen
 tags:
-  - maya's el palmar copán calakmul geschiedenis wetenschap onderzoek
-    gebitsimplantaten armoede jade
+  - maya's, el palmar, copán, calakmul, geschiedenis, wetenschap, onderzoek,
+    gebitsimplantaten, armoede, jade
 photo's:
   - map-onderschrift-muurreliëf-el-palmar-ruïne-image-img-muurrelief-el-palmar-ruïne-jpeg
 ---
