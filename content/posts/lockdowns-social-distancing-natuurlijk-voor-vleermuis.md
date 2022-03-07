@@ -5,6 +5,9 @@ date: 2022-02-15T17:35:35.288Z
 headerPhoto: map-image-img-vleermuis-hangend-schattig-webp-bron-pixabay-com-onderschrift-voor-een-vleermuis-zijn-lockdowns-en-social-distancing-heel-natuurlijk
 onderwerp: nature
 auteur: Monique Siemsen
+tags:
+  - vleermuizen corona-crisis covid-19 lockdowns socialdistancing
+    infectieziekten infectie wetenschap onderzoek gedragswetenschappen
 ---
 Ook vleermuizen doen aan social distancing en lockdowns. Daarmee voorkomen zij dat zij een infectieziekte verspreiden zowel binnen als buiten hun kolonie.
 
