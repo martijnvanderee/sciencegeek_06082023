@@ -1,3 +1,4 @@
 ---
-naam: oorwurmen muziek herinnering dementie liedjes onderzoek wetenschap
+naam: oorwurmen geheugen muziek herinnering dementie onthouden liedjes onderzoek
+  wetenschap
 ---
