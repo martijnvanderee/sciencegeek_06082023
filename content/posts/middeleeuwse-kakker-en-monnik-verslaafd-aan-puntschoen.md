@@ -6,8 +6,8 @@ headerPhoto: map-image-img-puntschoen-ridder-sporen-jpg-bron-pixabay-com-ondersc
 onderwerp: history
 auteur: Monique Siemsen
 tags:
-  - hallux valgus bunion botvergroeiing puntschoen middeleeuwen adel
-    geschiedenis wetenschap onderzoek
+  - hallux valgus, bunion, botvergroeiing, puntschoen, middeleeuwen, adel,
+    geschiedenis, wetenschap, onderzoek
 ---
 De middeleeuwers, zeker die financieel wat ruimer zaten, hadden het graag over voor hun kekke puntschoentjes: bunions en zelfs gebroken botten.
 
