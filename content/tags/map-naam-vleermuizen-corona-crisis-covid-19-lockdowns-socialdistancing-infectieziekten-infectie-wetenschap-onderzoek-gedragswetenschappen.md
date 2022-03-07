@@ -1,4 +1,4 @@
 ---
-naam: vleermuizen corona-crisis covid-19 lockdowns socialdistancing
-  infectieziekten infectie wetenschap onderzoek gedragswetenschappen
+naam: vleermuizen, corona-crisis, covid-19, lockdowns, social distancing,
+  infectieziekten, infectie, wetenschap, onderzoek, gedragswetenschappen
 ---
