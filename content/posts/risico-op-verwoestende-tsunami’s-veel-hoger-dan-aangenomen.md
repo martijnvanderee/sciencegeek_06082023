@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Risico op verwoestende tsunami’s veel hoger dan aangenomen
+title: Risico op monster tsunami veel hoger dan gedacht
 date: 2021-06-11T15:03:45.146Z
 headerPhoto: map-onderschrift-tsunami-verwoesting-huizen-image-img-tsunami-verwoesting-huizen-jpg
 onderwerp: nature
