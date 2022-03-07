@@ -5,6 +5,10 @@ date: 2022-03-07T11:54:57.532Z
 headerPhoto: map-image-img-wapens-oorlog-helicopter-jpg-bron-pixabay-onderschrift-helicopter-in-de-strijd-maar-voor-hoelang-nog
 onderwerp: tech
 auteur: Monique Siemsen
+tags:
+  - Wapens, autonome wapens, AI, Rusland, Oekraïne, oorlog, wetenschap,
+    onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
+    wedloop, sonar, radar
 ---
 Poetin wappert met kernwapens en dat is op zijn minst ongemakkelijk. Maar dat is zeker niet de enige aap die we uit de Russische mouw mogen verwachten.
 
