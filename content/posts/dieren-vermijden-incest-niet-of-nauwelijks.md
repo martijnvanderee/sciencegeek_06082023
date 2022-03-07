@@ -6,9 +6,8 @@ headerPhoto: map-bron-pixabay-com-sasint-onderschrift-van-bonobos-weten-we-al-la
 onderwerp: quirky
 auteur: Monique Siemsen
 tags:
-  - incestmijding
-  - partnerkeuze
-  - inteelt
+  - "incest dieren incestmijding partnerkeuze partnervorming onderzoek
+    wetenschap familie "
 photo's: []
 ---
 Dieren maken lang niet zo’n probleem van inteelt als biologen tientallen jaren beweerd hebben. Sterker nog: als rechtgeaard zoogdier heeft de mens zelf waarschijnlijk ook niet al te veel bezwaren tegen één van de grootste taboes die we nog steeds koesteren.
