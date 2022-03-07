@@ -6,7 +6,9 @@ date: 2021-10-21T11:24:28.254Z
 headerPhoto: map-image-img-melkweg-draaien-sterrenstelsel-jpg
 onderwerp: space
 auteur: Monique Siemsen
-tags: []
+tags:
+  - melkweg, melkweg draait, aarde, gaia telescoop, donkere materie,
+    hercules-stroom, sterren, wetenschap, onderzoek, ruimte, universum, heelal
 photo's: []
 ---
 De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.
