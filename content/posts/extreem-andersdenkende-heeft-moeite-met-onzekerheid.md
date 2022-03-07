@@ -6,8 +6,8 @@ headerPhoto: map-image-img-demonstratie-politie-geweld-1-jpg-bron-pixabay-com-on
 onderwerp: human
 auteur: Monique Siemsen
 tags:
-  - wappies links rechts verkiezingen extreemrechts complotdenken complotdenkers
-    politiek neurologisch onderzoek wetenschap maatschappij
+  - wappies, links, rechts, verkiezingen, extreemrechts, complotdenken,
+    complotdenkers, politiek, neurologisch onderzoek, wetenschap, maatschappij
 ---
 Mensen met een gepolariseerde visie hebben écht een anders werkend brein dan die van gematigd denkenden. 
 
