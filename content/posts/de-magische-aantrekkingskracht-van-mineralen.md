@@ -5,6 +5,8 @@ date: 2022-02-22T09:11:22.934Z
 headerPhoto: map-image-img-amethist-header-mineralen-jpg-bron-pixabay-com-onderschrift-de-magische-kracht-van-mineralen
 onderwerp: quirky
 auteur: Monique Siemsen
+tags:
+  - maatschappij corona-crisis covid mineralen agaat rhodoniet veldplaat
 ---
 Overal zie je ze oppoppen: de mineralenshops. Geen gehucht zo klein of er is wel een schattig winkeltje waar allerhande stenen voor allerhande doeleinden verkrijgbaar zijn. 
 
