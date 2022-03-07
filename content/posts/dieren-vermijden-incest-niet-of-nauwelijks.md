@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Dieren vermijden incest niet of nauwelijks
+title: Dieren vermijden incest niet of geven het zelfs de voorkeur
 date: 2021-06-11T16:00:43.063Z
 headerPhoto: map-bron-pixabay-com-sasint-onderschrift-van-bonobos-weten-we-al-langer-dat-zij-niet-aan-incestmijding-doen-wetenschappers-vermoeden-dat-de-bonobo-daarmee-niet-bepaald-de-enige-diersoort-is-image-img-bonobo-sociaal-partner-jpg
 onderwerp: quirky
