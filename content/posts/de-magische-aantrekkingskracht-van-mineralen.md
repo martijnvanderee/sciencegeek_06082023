@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: De magische aantrekkingskracht van mineralen
+title: Waarom hebben mineralen zo'n magische aantrekkingskracht?
 date: 2022-02-22T09:11:22.934Z
 headerPhoto: map-image-img-amethist-header-mineralen-jpg-bron-pixabay-com-onderschrift-de-magische-kracht-van-mineralen
 onderwerp: quirky
