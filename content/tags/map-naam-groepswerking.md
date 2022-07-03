@@ -1,3 +1,3 @@
 ---
-naam: groepswerking
+naam: groepsdynamiek
 ---
