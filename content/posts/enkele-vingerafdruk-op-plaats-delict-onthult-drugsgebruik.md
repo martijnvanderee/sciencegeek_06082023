@@ -7,6 +7,17 @@ onderwerp: tech
 auteur: Monique Siemsen
 tags:
   - onderzoek drugsgebruik, misdaad, vingerafdruk, cocaïne, politie 3 bijlagen
+  - forensisch onderzoek
+  - forensische wetenschap
+  - drugs
+  - drugs dealen
+  - drugsgebruik
+  - politie onderzoek
+  - justitieel onderzoek
+  - crime scene
+  - misdaad
+  - misdrijf
+  - plaats delict
 photo's:
   - map-bron-pixabay-com-rebcenter_moscow-onderschrift-vingerafdrukken-laten-voortaan-zien-of-een-drugsgebruiker-nog-zijn-handen-heeft-gewassen-voordat-hij-een-misdaad-pleegde-image-img-drugsverslaafde-injectienaald-hoody-jpg
 ---
