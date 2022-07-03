@@ -7,6 +7,14 @@ onderwerp: space
 auteur: Monique Siemsen
 tags:
   - "meteoriet, komeet, inslag, krater, "
+  - aarde
+  - inslag op aarde
+  - meteorietenregen
+  - meteorietinslag
+  - dampkring
+  - ruimte observaties
+  - heelal
+  - universum
 photo's:
   - map-bron-pixabay-com-mattcaz-onderschrift-de-wetenschap-vreest-meteorieten-omdat-zij-behoorlijk-schade-aan-de-aarde-kunnen-toebrengen-deze-krater-in-arizone-vs-is-door-zon-meteoriet-veroorzaakt-image-img-krater-arizona-meteorietins
 ---
