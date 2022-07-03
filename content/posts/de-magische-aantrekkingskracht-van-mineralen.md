@@ -6,7 +6,15 @@ headerPhoto: map-image-img-amethist-header-mineralen-jpg-bron-pixabay-com-onders
 onderwerp: quirky
 auteur: Monique Siemsen
 tags:
-  - maatschappij corona-crisis covid mineralen agaat rhodoniet veldplaat
+  - maatschappij
+  - corona-crisis
+  - covid-19
+  - covid
+  - mineralen
+  - agaat
+  - amazoniet
+  - lapis lazuli
+  - wetenschappelijk onderzoek
 ---
 Overal zie je ze oppoppen: de mineralenshops. Geen gehucht zo klein of er is wel een schattig winkeltje waar allerhande stenen voor allerhande doeleinden verkrijgbaar zijn. 
 
