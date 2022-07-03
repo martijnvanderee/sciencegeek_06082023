@@ -7,6 +7,11 @@ onderwerp: tech
 auteur: Monique Siemsen
 tags:
   - Robot, nieuwe uitvinding, verandering kleuren
+  - kameleonstof
+  - textiel
+  - textiel printen
+  - luminogenen
+  - versheid vis
 photo's:
   - map-bron-pixabay-com-dariuszsankowksi-onderschrift-mogelijk-vervangt-een-robot-met-kameleonhuid-in-de-toekomst-deze-soldaat-image-img-soldaat-vuurwapen-gevecht-jpg
 ---
