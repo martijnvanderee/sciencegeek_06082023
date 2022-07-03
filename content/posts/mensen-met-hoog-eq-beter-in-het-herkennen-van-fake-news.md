@@ -7,6 +7,12 @@ onderwerp: human
 auteur: Monique Siemsen
 tags:
   - onderzoek, fake news, EQ
+  - desinformatie
+  - wat is desinformatie
+  - hoe herken je desinformatie
+  - hoe herken je fake news
+  - wetenschappelijk onderzoek
+  - wetenschap
 photo's:
   - map-onderschrift-mensen-met-een-hoog-eq-zijn-beter-in-het-herkennen-van-fake-news-berichten-bron-pixabay-com-image-img-students-1807505_1280-webp
 ---
