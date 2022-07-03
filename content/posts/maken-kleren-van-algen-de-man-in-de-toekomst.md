@@ -6,7 +6,13 @@ headerPhoto: map-bron-pixabay-com-hugo-ob-onderschrift-algen-heuvels-groen-image
 onderwerp: quirky
 auteur: Monique Siemsen
 tags:
-  - algenstof, kleding van algen, materiaal printen, cellulose
+  - algen
+  - algenstof
+  - kleding
+  - kleding van algen
+  - textiel printen
+  - cellulose
+  - mode
 photo's:
   - map-bron-pixabay-com-so-fuego-onderschrift-de-algenstof-zal-ook-worden-ingezet-om-huidwonden-te-genezen-image-img-hand-bloed-wond-jpg
 ---
