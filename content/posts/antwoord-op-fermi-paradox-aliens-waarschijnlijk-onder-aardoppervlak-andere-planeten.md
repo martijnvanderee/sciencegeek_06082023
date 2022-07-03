@@ -8,6 +8,12 @@ onderwerp: space
 auteur: Monique Siemsen
 tags:
   - aliens, IWOW, planeten, onderzoek
+  - aarde
+  - buitenaards leven
+  - heelal
+  - universum
+  - leven op andere planeten
+  - is er buitenaards leven
 photo's:
   - map-bron-pixabay-com-onderschrift-grot-water-blauw-image-img-grot-water-blauw-jpeg
 ---
