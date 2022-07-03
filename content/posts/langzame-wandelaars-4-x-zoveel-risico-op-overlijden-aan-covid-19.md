@@ -6,7 +6,15 @@ headerPhoto: map-onderschrift-bloedvaten-hart-bloedcellen-bron-pixabay-com-image
 onderwerp: human
 auteur: Monique Siemsen
 tags:
-  - Covd-19, Corona, hart- en bloedvaten, looptempo, weerstand 3 bijlagen
+  - covid-19
+  - covid
+  - immuunsysteem
+  - virus
+  - weerstand
+  - natuurlijke weerstand
+  - looptempo
+  - hart-en bloedvaten
+  - wandelen
 photo's:
   - map-onderschrift-mensen-met-een-langzame-tred-hebben-ongezondere-hart-en-bloedvaten-ze-lopen-meer-risico-op-ernstige-symptomen-van-covid-19-bron-pixabay-com-image-img-wandeling-park-herfst-jpg
 ---
