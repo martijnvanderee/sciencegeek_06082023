@@ -1,0 +1,3 @@
+---
+naam: goed mens zijn
+---
