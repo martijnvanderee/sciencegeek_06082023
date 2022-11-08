@@ -14,7 +14,7 @@ import * as gtag from "../lib/gtag";
 const isProduction = process.env.NODE_ENV === "production";
 
 
-const MyApp: React.FC<AppProps> = ({ Component, pageProps }) => {
+const MyApp: React.FC<AppProps> = ({ Component, pageProps }:any) => {
   const router = useRouter();
 
 

@@ -1,15 +1,8 @@
 const fs = require('fs');
 const blogPostsFolder = './content';
-const withPWA = require('next-pwa')
 
 
-module.exports = withPWA({
-  future: {
-    webpack5: true,
-  },
-
-
-  pwa: { dest: 'public' },
+module.exports = {
   webpack: configuration => {
     configuration.module.rules.push({
       test: /\.md$/,
@@ -22,7 +15,7 @@ module.exports = withPWA({
       // ...getPathsForPosts(),
     };
   },
-})
+}
 
 
 
