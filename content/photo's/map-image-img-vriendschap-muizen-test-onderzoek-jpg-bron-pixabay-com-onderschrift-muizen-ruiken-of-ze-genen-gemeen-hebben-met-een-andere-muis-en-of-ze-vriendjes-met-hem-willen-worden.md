@@ -1,6 +1,6 @@
 ---
-onderschrift: Muizen ruiken of ze genen gemeen hebben met een andere muis. En of
-  ze vriendjes met hem willen worden.
+onderschrift: Een muis ruikt of hij genen gemeen heeft met een andere muis. En
+  of hij daarom vriendjes wilt zijn.
 bron: Pixabay.com
 image: /img/vriendschap-muizen-test-onderzoek.jpg
 ---
