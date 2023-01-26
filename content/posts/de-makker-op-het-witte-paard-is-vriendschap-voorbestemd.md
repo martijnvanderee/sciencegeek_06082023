@@ -8,6 +8,15 @@ auteur: Monique Siemsen
 tags:
   - DNA
   - familie
+  - vrienden
+  - Hoe kies je je vrienden?
+  - echte vriendschap
+  - genen
+  - geur
+  - muizen
+  - maatschappij
+  - neuronen
+  - breinsynchroniciteit
 ---
 Je vrienden kies je. Een beetje dan. De basis voor de meeste vriendschappen blijkt niet zozeer een gedeeld gevoel voor humor of normen, maar fysieke factoren die in de praktijk de keuze nogal beperken.
 
