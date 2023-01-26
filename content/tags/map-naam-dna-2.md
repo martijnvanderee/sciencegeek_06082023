@@ -1,3 +1,3 @@
 ---
-naam: vrienden
+naam: echte vriendschap
 ---
