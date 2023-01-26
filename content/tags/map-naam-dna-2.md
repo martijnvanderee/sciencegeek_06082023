@@ -1,3 +1,3 @@
 ---
-naam: echte vriendschap
+naam: Hoe kies je je vrienden uit?
 ---
