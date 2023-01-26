@@ -1,3 +1,3 @@
 ---
-naam: geur
+naam: verwantschap
 ---
