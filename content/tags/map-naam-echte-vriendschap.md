@@ -1,0 +1,3 @@
+---
+naam: echte vriendschap
+---
