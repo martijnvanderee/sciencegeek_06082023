@@ -1,3 +1,3 @@
 ---
-naam: Hoe kies je je vrienden uit?
+naam: genetica
 ---
