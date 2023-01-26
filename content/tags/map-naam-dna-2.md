@@ -1,3 +1,3 @@
 ---
-naam: familie
+naam: dna
 ---
