@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: "De makker op het witte paard: is vriendschap voorbestemd?"
+title: Vriendschap op het eerste gezicht?
 date: 2023-01-26T13:18:07.061Z
 headerPhoto: map-image-img-vriendschap-kinderen-knuffelen-jpg-bron-pixabay-com-onderschrift-uit-onderzoek-bleek-dat-de-enige-voorwaarde-van-een-kindervriendschap-is-nabijheid
 onderwerp: quirky
