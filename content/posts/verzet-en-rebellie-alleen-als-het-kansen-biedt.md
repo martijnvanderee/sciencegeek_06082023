@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Verzet en rebellie? Alleen als het kansen biedt!
+title: Hoe ontstaat verzet en rebellie?
 date: 2023-01-27T00:01:08.317Z
 headerPhoto: map-bron-pixabay-com-image-img-rebellie-blm-vuisten-jpg-onderschrift-we-komen-in-opstand-als-we-denken-dat-het-nut-heeft
 onderwerp: human
@@ -16,9 +16,9 @@ tags:
   - onbeantwoorde liefde
   - liefdesverdriet
 ---
-Veel mensen weten het zeker: in Nederland leven we in een dictatuur en we doen er verstandig aan ons te verzetten. Maar wanneer verzetten we ons eigenlijk? En wat is verzet?
+W﻿e rebelleren en komen in verzet. Tegen de overheid, klimaatopwarming, tegen links en tegen rechts. Maar wanneer verzetten we ons eigenlijk? En wat is verzet? 
 
-De media en de sociale media zijn er vol van: de rebellie tegen de overheid. De berichten op Twitter, Instagram en Telegram liegen er niet om en roepen ons op te rebelleren. Toch blijkt uit onderzoek dat rebellie niet ontstaat uit onrecht, maar uit de mogelijkheid om te rebelleren.
+De media en de sociale media zijn er vol van: rebellen en strijders. De berichten op Twitter, Instagram en Telegram liegen er niet om en roepen ons op te rebelleren. Toch blijkt uit onderzoek dat rebellie niet ontstaat uit onrecht, maar uit de mogelijkheid om te rebelleren.
 
 Psychologen aan de Universiteit van Waterloo gingen ermee aan de slag en keken wanneer mensen zich gingen verzetten tegen overheidsmaatregelen. Deden ze dat omdat ze het ermee oneens waren? Of omdat ze dachten dat verzet zin had en zij onder maatregelen uit konden komen? Het laatste bleek het geval te zijn.
 
