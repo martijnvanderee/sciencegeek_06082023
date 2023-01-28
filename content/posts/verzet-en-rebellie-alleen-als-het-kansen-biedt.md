@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Hoe ontstaat verzet en rebellie?
+title: Hoe ontstaat een rebel?
 date: 2023-01-27T00:01:08.317Z
 headerPhoto: map-bron-pixabay-com-image-img-rebellie-blm-vuisten-jpg-onderschrift-we-komen-in-opstand-als-we-denken-dat-het-nut-heeft
 onderwerp: human
