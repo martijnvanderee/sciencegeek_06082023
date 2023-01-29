@@ -13,13 +13,13 @@ photo's:
 ---
 Hoe lang denk je dat klimaatverandering al een probleem is? 20 jaar misschien? Of zet je in op 100 jaar? Helaas: al duizenden jaren worden onze zomers alsmaar warmer en vooral droger. 
 
-Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken verwijtend naar onze auto’s en de industriële sector. Bij ieder nieuw hitterecord schudden we ons hoofd en zelfs politici beginnen, voorlopig nog langzamerhand, de ecologische druk te voelen. (Behalve dan de Braziliaanse overheid, die voelt hooguit druk om de Amazone nog een tikkie sneller om zeep te helpen, zoals je ***[hier](/nieuwe-milieuramp-dreigt-amazone-stoot-meer-koolstof-uit-dan-het-opneemt)*** kunt lezen.)
+Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken verwijtend naar onze auto’s en de industriële sector. Bij ieder nieuw hitterecord schudden we ons hoofd en zelfs politici beginnen, voorlopig nog langzamerhand, de ecologische druk te voelen. (Behalve dan de Braziliaanse overheid, die voelt hooguit druk om de Amazone nog een tikkie sneller om zeep te helpen, zoals je ***hier*** kunt lezen.)
 
 **Europa niet alleen aan het opwarmen, maar vooral ook uitdrogen**
 
 Maar de opwarming en uitdroging is al langer aan de gang, dan we ooit vermoedden. Maar liefst 2100 jaar is Europa al warmer en droger aan het worden. Vooral de zomers zijn hier flink debet aan. Dit is gebleken uit een onlangs afgerond onderzoek aan de universiteit van Cambridge in Engeland. Ook wetenschappers uit Tsjechië en Duitsland werkten mee aan het onderzoek dat allemaal draaide om dendrochronologie.
 
-Dendrochronologie kun je ook wel jaarringenonderzoek noemen en is de wetenschappelijke discipline die zich bezig houdt met het dateren en onderzoeken van houten voorwerpen of archeologische vondsten aan de hand van herkenbare groeiringen. (Dendrochronologie is hard op weg het 1001-dingen-doekje van de wetenschap te worden. ***[Hier](sciencegeek.nl/dendrochronologie-de-wijsheid-van-de-boom)*** kun je meer lezen over deze betrekkelijk nieuwe wetenschap.)
+Dendrochronologie kun je ook wel jaarringenonderzoek noemen en is de wetenschappelijke discipline die zich bezig houdt met het dateren en onderzoeken van houten voorwerpen of archeologische vondsten aan de hand van herkenbare groeiringen. (Dendrochronologie is hard op weg het 1001-dingen-doekje van de wetenschap te worden. ***[Hier](/dendrochronologie-de-wijsheid-van-de-boom)*** kun je meer lezen over deze betrekkelijk nieuwe wetenschap.)
 
 **Belangrijke rol voor dendrochronologie in klimaatonderzoek**
 
