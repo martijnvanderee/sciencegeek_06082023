@@ -19,7 +19,7 @@ Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken ve
 
 Maar de opwarming en uitdroging is al langer aan de gang, dan we ooit vermoedden. Maar liefst 2100 jaar is Europa al warmer en droger aan het worden. Vooral de zomers zijn hier flink debet aan. Dit is gebleken uit een onlangs afgerond onderzoek aan de universiteit van Cambridge in Engeland. Ook wetenschappers uit Tsjechië en Duitsland werkten mee aan het onderzoek dat allemaal draaide om dendrochronologie.
 
-Dendrochronologie kun je ook wel jaarringenonderzoek noemen en is de wetenschappelijke discipline die zich bezig houdt met het dateren en onderzoeken van houten voorwerpen of archeologische vondsten aan de hand van herkenbare groeiringen.
+Dendrochronologie kun je ook wel jaarringenonderzoek noemen en is de wetenschappelijke discipline die zich bezig houdt met het dateren en onderzoeken van houten voorwerpen of archeologische vondsten aan de hand van herkenbare groeiringen. (Dendrochronologie is hard op weg het 1001-dingen-doekje van de wetenschap te worden. ***[Hier](sciencegeek.nl/dendrochronologie-de-wijsheid-van-de-boom)*** kun je meer lezen over deze betrekkelijk nieuwe wetenschap.)
 
 **Belangrijke rol voor dendrochronologie in klimaatonderzoek**
 
