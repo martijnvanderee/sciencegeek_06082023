@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: De politicus wetenschappelijk verklaard
+title: De politicus wetenschappelijk bezien
 Subtitle: Niets menselijks is een politicus vreemd
 date: 2023-01-31T16:36:51.405Z
 headerPhoto: map-bron-pixabay-com-image-img-politiek-mark-rutte-jpg-onderschrift-mark-rutte-wordt-vaak-gezien-als-onbetrouwbaar-hij-is-tevens-de-langstzittende-minister-president-in-de-geschiedenis-van-nederland
