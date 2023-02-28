@@ -28,17 +28,13 @@ De kerncentrale. We willen ‘m terug en het liefst zo snel mogelijk. Het zou sc
 
 Nou, niét veilig, zo blijkt uit wetenschappelijk onderzoek. Kernenergie is levensgevaarlijk en levert ongekende risico’s voor massale groepen mensen. Dat is de ontnuchterende uitkomst van de grootste risico-analyse ooit, die Zwitserse en Engelse wetenschappers deden naar de veiligheid van kerncentrales. Hun conclusie: de risico’s zijn zó groot, dat we waarschijnlijk binnen 10 jaar, maar uiterlijk 20 jaar wederom een kernramp kunnen verwachten. En wel van de omvang als de ramp in 1986 met de centrale bij Tsjernobyl. Onderzoeksleider dr. Spencer Wheatley noemt dit risico zelfs ‘extreem hoog’. En dat schone en goedkope? Dat valt ook vies tegen.
 
-
-
 **Grote kernrampen behoren niét tot het verleden**
 
 26 april is het 37 jaar geleden dat bij Tsjernobyl reactor 4 explodeerde. Het zou de geschiedenis ingaan als de grootste ramp met een kerncentrale ter wereld. De explosie vond in het midden van de nacht plaats en de 600.000 omwonenden lagen nietsvermoedend te slapen. Van tijdige evacuatie was geen sprake.
 
-![De steden Pripyat en Tsjernobyl zijn al 37 jaar verlaten. De kernramp heeft besmette maar liefst 40% van heel Europa.](/img/kern-pripyat-verlaten-gebouw.jpg "Pixabay.com")
+![De steden Pripyat en Tsjernobyl zijn al 37 jaar verlaten. De kernramp besmette maar liefst 40% van heel Europa.](/img/kern-pripyat-verlaten-gebouw.jpg "Pixabay.com")
 
 Omdat Tsjernobyl in de toenmalige politiek afgesloten USSR lag, was het lastig aan informatie te komen. De Sovjet-autoriteiten spraken later van tientallen doden, met nauwelijks besmettingsgevaar. Maar tientallen studies en onderzoeken sindsdien geven een ander beeld. Sommigen onderzoeken spreken van honderden doden tijdens de explosie en 200.000 doden aan kanker veroorzaakt door de ramp. De WHO houdt het op 9.000 doden als gevolg van nucleaire besmetting, maar de wetenschap is het erover eens dat dit wel een héél voorzichtige schatting is.
-
-
 
 Wel is vast komen te staan, dat maar liefst 40% van Europees grondgebied in 1986 besmet is geraakt met 4000 becquerel per vierkante meter. (De becquerel is de eenheid voor radioactiviteit en beschrijft het aantal atoomkern﻿en dat per seconde radioactief vervalt.) Voor de goede orde: 5000 becquerel kan een volwassene binnen een maand doden. Groot-Brittannië, Duitsland en Noorwegen zijn voorbeelden van landen die vandaag de dag nog steeds beperkingen kennen als het gaat om voedselconsumptie afkomstig van grondgebied in hun land dat decennia geleden werd besmet. 
 
@@ -50,11 +46,7 @@ De kerncentrale ging voor velen in de ban. En niet alleen door de wolk van gifti
 
 Maar de laatste paar jaar is het tij gekeerd. Jongeren die in de jaren ‘80 nog demonstreerden tégen kernenergie, vertellen de jongeren van nu, dat kernenergie opeens het ei van Columbus is. De stikstof-uitstoot móet omlaag. En dat kunnen we alleen bereiken met kernenergie, zo is de nieuwe boodschap. Bovendien zitten we door de oorlog tussen Rusland en Oekraïne, óf in de kou óf in de schulden door de Russische gasrekeningen. En Tsjernobyl lijkt lang geleden. Ondertussen is de wetenschap toch wel zo ver gevorderd, dat we het weer eens kunnen proberen? Vooral industriële ondernemers en politici schudden enthousiast van ‘ja’, terwijl de rest van ons maar weer eens een vest aantrekt. 
 
-
-
 Is kernenergie inderdaad veiliger geworden? Of willen we dit alleen maar geloven om onszelf en de industrie weer lekker op te stoken zonder ons schuldig te voelen over het milieu? Het is vooral het laatste. De veilige verwerking en opslag van radioactief afval alleen al, blijft bijvoorbeeld een groot probleem. Daar wordt aan gewerkt door de wetenschap. Maar een afdoende oplossing die we vandaag zouden kunnen toepassen, is er nog niet. We stoppen het goedje maar in verouderde, aangetaste bunkers en hopen er het beste van.
-
-
 
 **Meeste kerncentrales ernstig verouderd**
 
@@ -64,8 +56,6 @@ Dat is echter niet het grootste en ernstigste probleem. Ten eerste is het materi
 
 De veroudering en erosie van belangrijke kernreactor-onderdelen baart de onderzoekers zorgen. Zij wijzen erop dat er bij de 450 kerncentrales in de wereld, ruim 200 geregistreerde ongelukken hebben plaatsgevonden. En dat zijn alleen nog maar de officieel geregistreerde ongevallen. De wetenschappers halen uit naar het globale instituut dat de branche moet reguleren, te weten de International Atomic Energy Agency, oftwel de IAEA. Hoewel de IAEA een controlerende functie zou hebben op kerncentrales, is het ook haar taak om de productie van kernenergie te promoten en om politieke steun te lobbyen. 
 
-
-
 **International Atomic Energy Agency**
 
 En daar gaat het volgens de onderzoekers fout. De IAEA zou daarom terughoudend zijn in het verschaffen van belangrijke informatie rondom de veiligheid in kerncentrales, te weinig aansturen op vernieuwing en dikwijls vergunningen verlengen zonder dat er aan veiligheidseisen of keuringen is voldaan. Ook schuift de IAEA met documentatie en schaalt het incidenten opzettelijk laag in, zodat ongevallen en voorvallen minder ernstig lijken, althans volgens de universiteiten in Zurich en Sussex.
@@ -73,8 +63,6 @@ En daar gaat het volgens de onderzoekers fout. De IAEA zou daarom terughoudend z
 ![Een verlaten flatgebouw in Pripyat bij Tsjernobyl herinnert na decennia nog aan de risico's van kerncentrales.](/img/kern-verlaten-gebouw-tsjernobyl.jpg "Pixabay.com")
 
 De wetenschappers vinden dat de IAEA onzuiver omgaat met haar verantwoordelijkheden. Zo hebben zij 15 ongelukken gevonden die ieder minstens 1 miljard dollar aan persoonlijke en materiële schade opleverde. Daarbij zijn, triest en bizar genoeg, ook de waarde van mensenlevens gerekend. (Volgens de autoriteiten van de Verenigde Staten is een mensenleven namelijk 6 miljoen dollar waard.) Daarmee is kernenergie lang niet zo goedkoop als zij zich voordoet. De gezamenlijke schade van de top 15 kernongevallen bedraagt al ruim 470 miljard dollar. Veel van die schade wordt door overheden en daarmee burgers betaald. 
-
-
 
 ***Top 15 grootste ongevallen in kernreactoren***
 
@@ -99,10 +87,6 @@ Om de risico’s zoveel mogelijk te beperken dringen de onderzoekers erop aan da
 ![Kernenergie is niet schoon en niet goedkoop. En het is nog levensgevaarlijk ook. Volgens wetenschappers in ieder geval.](/img/kern-koeltoren-water-zonsondergang.jpg "Pixabay.com")
 
 Of de IAEA iets gaat doen met de bevindingen van de wetenschappers is nog niet bekend. Maar dat kernenergie niet zo veilig is als de branche ons wil doen geloven, dat is dankzij Zürich en Sussex in ieder geval nu wel bekend.
-
-
-
-
 
 *G﻿epubliceerd op 25.02.2023*
 
