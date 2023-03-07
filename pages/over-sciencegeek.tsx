@@ -38,7 +38,6 @@ export default function About() {
         <p className="text-xl mb-4">Hoofdredacteur ScienceGeek</p>
         <br />
 
-        <p className="text-lg">ScienceGeek is een uitgave van ICS Media</p>
       </div>
     </main>
   </Layout>
