@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Heeft klimaatontkenning zin?
+title: Heeft klimaatscepsis nog zin?
 Subtitle: Copernicus registreert record na record
 date: 2023-03-09T15:16:19.922Z
 headerPhoto: map-image-img-copernicus-klimaat-header-jpg-bron-pixabay-com-onderschrift-klimaatontkenning
