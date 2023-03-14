@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Is neurale castratie de oplossing tegen seksueel misbruik?
+title: Stroomstoot daderbrein moet misbruik voorkomen
 date: 2023-03-14T17:29:51.768Z
 headerPhoto: map-image-img-misbruik-header-jpg-bron-pixabay-com-onderschrift-header
 onderwerp: human
