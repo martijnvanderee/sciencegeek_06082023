@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Koffiedrinkers leven langer en zijn gezonder!
+title: Koffiedrinkers leven langer!
 Subtitle: Grootste koffie-onderzoek ooit
 date: 2023-03-18T09:57:30.237Z
 headerPhoto: map-bron-pixabay-com-onderschrift-koffie-header-image-img-koffie-header-jpg
