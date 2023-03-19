@@ -22,21 +22,13 @@ tags:
 ---
 De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren. 
 
-
-
 Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. 
 
-
-
 Dat klinkt mysterieus, maar ze ogen nog veel fantastischer dan ze klinken. Kijk je mee naar de mooiste?
-
-
 
 **De Orionnevel, ‘langs de vallei’**
 
 In de header boven het artikel, zie je de rand van de Orionnevel, genaamd ‘Langs de vallei’. De foto is een compositie gemaakt door Hubble én Spitzer. De linkerkant van de foto is gemaakt met het zichtbare licht door Hubble en de rechterkant met infrarood door Spitzer.
-
-
 
 Deze nevel ligt uiteraard in het sterrenbeeld Orion en kun je op donkere nachten ook met het blote oog zien als een wazige vlek net onder de 3 sterren van de gordel in het zwaard van Orion! De Orionnevel wordt ook wel Messier 42 of NCG 1976 genoemd en is 1.350 lichtjaar verwijderd van ons.
 
@@ -51,8 +43,6 @@ Je hebt er een klein beetje verbeelding voor nodig, maar dan zie je het ook: een
 **De krabnevel**
 
 Hierboven zie je de Krabnevel, gelegen in Stier, zo’n 6.500 lichtjaar verwijderd. Ook deze foto is een compositie en er was heel wat voor nodig, namelijk de gehele wijdte van het elektromagnetische spectrum. 
-
-
 
 Het infrarood was voor rekening van Spitzer, het zichtbare licht van Hubble en röntgenstraling door Chandra. Ook VLA werd ingezet met radiogolven.
 
@@ -91,3 +81,9 @@ Dit sieraadje van een nevel, oftwel Little Gem NGC 6818, ligt in het sterrenbeel
 Hier zien we absoluut kliffen in. De nieuwe James Webb telescoop fotografeerde met infrarood deze randen van NGC 3324. Dat is een gedeelte van de Carinanevel, waar vooral jonge sterren geboren worden op 7.600 lichtjaar van de aarde. 
 
 D﻿it waren er maar een paar. Maar we blijven voor je zoeken en verzamelen!
+
+
+
+*G﻿epubliceerd op 19 maart 2023*
+
+*B﻿ron: NASA*
