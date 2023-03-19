@@ -15,6 +15,10 @@ tags:
   - heelal
   - universum
   - wetenschap
+  - foto's heelal
+  - foto's nevels universum
+  - foto's sterren
+  - Melkweg
 ---
 De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren. 
 
