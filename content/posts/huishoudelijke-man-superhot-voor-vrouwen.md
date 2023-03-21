@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Huishoudelijke man superhot voor vrouwen!
+title: Huishouden maakt mannen hot, in de ogen van vrouwen
 Subtitle: Lapzwansen krijgen weinig sex
 date: 2023-03-21T14:49:04.327Z
 headerPhoto: map-image-img-lapzwans-libido-header-jpg-bron-nathan-cowley-onderschrift-libido-lapzwans-header
