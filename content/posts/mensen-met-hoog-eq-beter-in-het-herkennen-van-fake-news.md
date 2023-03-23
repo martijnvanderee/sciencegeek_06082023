@@ -34,7 +34,7 @@ Het komt er op neer dat als je goed bent in het verwerken en herkennen van je ei
 
 **EQ trainen is herkenning fake news trainen**
 
-De wetenschappers zijn blij met de studie, want EQ is te trainen en te verhogen voor mensen, gedurende hun leven lang. Ze zien de oplossing om de gevaren van nep nieuws te beperken dan ook in de maatschappelijke ontwikkeling van het EQ, om mensen en samenlevingen zo weerbaarder te maken tegen de impact die gefabriceerd nieuws kan hebben.
+De wetenschappers zijn blij met de studie, want EQ is te trainen en te verhogen voor mensen, gedurende hun leven lang. Ze zien de oplossing om de gevaren van nep nieuws te beperken dan ook in de maatschappelijke ontwikkeling van het EQ, om mensen en samenlevingen zo weerbaarder te maken tegen de impact die gefabriceerd nieuws kan hebben. (***[Hier](/welke-rol-speelt-desinformatie-in-ons-oer-brein)*** kun je meer lezen over hoe fake news en desinformatie het brein bewerken.)
 
 *Gepubliceerd op 18.03.2021*
 
