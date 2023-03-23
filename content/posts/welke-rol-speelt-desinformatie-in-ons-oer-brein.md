@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Welke rol speelt desinformatie in ons oer-brein?
+title: Desinformatie activeert oer-brein
 Subtitle: Gevaar voor kinderen, democratie en gezondheid
 date: 2023-03-23T13:37:30.342Z
 headerPhoto: map-image-img-desinformatie-header-oervrouw-jpg-bron-pixabay-com-onderschrift-desinformatie-header
