@@ -24,7 +24,7 @@ tags:
   - stikstof-uitstoot
   - energietransitie
 ---
-De kerncentrale. We willen ‘m terug en het liefst zo snel mogelijk. Het zou schoon en goedkoop zijn. Bovendien willen we echt de stikstofuitstoot omlaag hebben. Maar hoe veilig is kernenergie eigenlijk?
+**De kerncentrale. We willen ‘m terug en het liefst zo snel mogelijk. Het zou schoon en goedkoop zijn. Bovendien willen we echt de stikstofuitstoot omlaag hebben. Maar hoe veilig is kernenergie eigenlijk?**
 
 Nou, niét veilig, zo blijkt uit wetenschappelijk onderzoek. Kernenergie is levensgevaarlijk en levert ongekende risico’s voor massale groepen mensen. Dat is de ontnuchterende uitkomst van de grootste risico-analyse ooit, die Zwitserse en Engelse wetenschappers deden naar de veiligheid van kerncentrales. Hun conclusie: de risico’s zijn zó groot, dat we waarschijnlijk binnen 10 jaar, maar uiterlijk 20 jaar wederom een kernramp kunnen verwachten. En wel van de omvang als de ramp in 1986 met de centrale bij Tsjernobyl. Onderzoeksleider dr. Spencer Wheatley noemt dit risico zelfs ‘extreem hoog’. En dat schone en goedkope? Dat valt ook vies tegen.
 
