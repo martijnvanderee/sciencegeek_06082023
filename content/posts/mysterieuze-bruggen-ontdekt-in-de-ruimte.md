@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-geralt-onderschrift-om-meer-te-leren-van-het-skelet-van-ons-heelal-maakten-wetenschappers-een-plattegrond-van-de-donkere-materie-image-img-sterrenstelsel-nevel-ruimte-jpg
 ---
-Geheimzinnige bruggen die sterrenstelsels met elkaar verbinden. Het klinkt als iets uit een sci-fi film, maar ze blijken echt te bestaan. En de wetenschap staat paf.
+**Geheimzinnige bruggen die sterrenstelsels met elkaar verbinden. Het klinkt als iets uit een sci-fi film, maar ze blijken echt te bestaan. En de wetenschap staat paf.**
 
 De bruggen zijn draadvormig en bevinden zich vooral tussen verschillende sterrenstelsels die zij met elkaar lijken te verbinden. Dat is vrijwel het enige dat de onderzoekers op dit moment nog weten. Hoe de bruggen zijn opgebouwd of tot stand zijn gekomen, is op dit moment nog een mysterie. Ook het nut van de bruggen is nog niet bekend.
 
