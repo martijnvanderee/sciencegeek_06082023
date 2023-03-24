@@ -11,7 +11,7 @@ tags:
     hercules-stroom, sterren, wetenschap, onderzoek, ruimte, universum, heelal
 photo's: []
 ---
-De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.
+**De Melkweg draait een stuk langzamer om haar centrum dan ze deed, toen zij ontstond, namelijk wel 24%. En dat komt door donkere materie. Denken ze.**
 
 Dat de Melkweg haar snelheid zou verliezen, is iets dat al 30 jaar voorspeld wordt door astrofysici. Maar nu is dit dan ook echt voor het eerst bewezen. De snelheid waarmee de Melkweg om haar centrale as draait, is wel een kwart terug gelopen en nee, we hebben nog geen idee wat dit zal betekenen. Behalve dan, dat de meeste zwaartekrachttheoriën in hun hemd staan, want die kunnen de vertraging niet verklaren.
 
