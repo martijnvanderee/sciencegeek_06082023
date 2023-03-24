@@ -9,7 +9,7 @@ tags:
   - hallux valgus, bunion, botvergroeiing, puntschoen, middeleeuwen, adel,
     geschiedenis, wetenschap, onderzoek
 ---
-De middeleeuwers, zeker die financieel wat ruimer zaten, hadden het graag over voor hun kekke puntschoentjes: bunions en zelfs gebroken botten.
+**De middeleeuwers, zeker die financieel wat ruimer zaten, hadden het graag over voor hun kekke puntschoentjes: bunions en zelfs gebroken botten.**
 
 Hallux valgus is de officiële benaming voor de uitstekende knobbel aan de binnenkant van de voet, ook wel bunion genaamd. Dit komt door een afwijkende stand van de grote teen, die naar binnen wijst. Hierdoor ontstaat er een vergroeiing aan de binnenkant van de voet, ter hoogte van de aanzet van de grote teen. Die knobbel heet dus de bunion. Het ding ziet er niet uit en is nog vaak pijnlijk bovendien.
 
