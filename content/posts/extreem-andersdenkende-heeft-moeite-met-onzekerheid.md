@@ -9,9 +9,7 @@ tags:
   - wappies, links, rechts, verkiezingen, extreemrechts, complotdenken,
     complotdenkers, politiek, neurologisch onderzoek, wetenschap, maatschappij
 ---
-Mensen met een gepolariseerde visie hebben écht een anders werkend brein dan die van gematigd denkenden. 
-
-Dat heeft niets te maken met politiek links of rechts zijn, of ongevaccineerd versus gevaccineerd. Het anders functioneren van het brein heeft te maken met de mate waarin de visie wordt aangehangen.
+**Mensen met een gepolariseerde visie hebben écht een anders werkend brein dan die van gematigd denkenden. Dat heeft niets te maken met politiek links of rechts zijn, of ongevaccineerd versus gevaccineerd. Het anders functioneren van het brein heeft te maken met de mate waarin de visie wordt aangehangen.**
 
 Soms worden zij laatdunkend wappies genoemd. Of anti-vaxxers, extremisten, fanatiekelingen en geloofsgekkies. Ook de termen kritisch denkenden of andersdenkenden komen voorbij en worden op één hoop gegooid. Ze kunnen zeer links of juist zeer rechts, overtuigd patriarchaal of militant feministisch: hun breinen werken verrassend genoeg allemaal hetzelfde. Namelijk anders dan het brein van mensen die gematigd of flexibeler zijn in opvatting, welke opvatting dat dan ook mag zijn. 
 
