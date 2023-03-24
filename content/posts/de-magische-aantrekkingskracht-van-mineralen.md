@@ -16,7 +16,7 @@ tags:
   - lapis lazuli
   - wetenschappelijk onderzoek
 ---
-Overal zie je ze oppoppen: de mineralenshops. Geen gehucht zo klein of er is wel een schattig winkeltje waar allerhande stenen voor allerhande doeleinden verkrijgbaar zijn. 
+**Overal zie je ze oppoppen: de mineralenshops. Geen gehucht zo klein of er is wel een schattig winkeltje waar allerhande stenen voor allerhande doeleinden verkrijgbaar zijn.** 
 
 Die explosieve groei in populariteit is niet zomaar een waarneming. Gegevens van de KvK bevestigen dat de handel in mineralen hand over hand toeneemt. Het aantal webshops is sinds 2013 bijna vervijfvoudigd tot 231 webshops vandaag de dag. De sterkste stijging in de verkoop vond plaats in de laatste 2 jaar. Welke aantrekkingskracht oefenen mineralen op mensen uit? En waarom is die kracht zoveel sterker nu?
 
