@@ -16,7 +16,7 @@ tags:
 photo's:
   - map-onderschrift-mensen-met-een-hoog-eq-zijn-beter-in-het-herkennen-van-fake-news-berichten-bron-pixabay-com-image-img-students-1807505_1280-webp
 ---
-Fake news is een nieuwe zorg voor de mensheid. Op grote schaal kunnen mensen vals worden geïnformeerd en opgeruid. Of toch niet?
+**Fake news is een nieuwe zorg voor de mensheid. Op grote schaal kunnen mensen vals worden geïnformeerd en opgeruid. Of toch niet?**
 
 Psychologen aan de Universiteit van Strathclyde in Glasgow besloten te onderzoeken of zij verbanden konden vinden tussen het doorgronden van fake news en de persoonlijke omstandigheden van de lezer. Ze vonden niet alleen een verband tussen opleiding en de vaardigheid om nepnieuws te herkennen, maar vooral een aanzienlijk verband tussen de emotionele vaardigheden van de lezer en diens begrip van fake news.
 
