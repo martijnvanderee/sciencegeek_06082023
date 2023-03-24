@@ -14,7 +14,7 @@ tags:
   - doneren
   - onderzoek
 ---
-We leren op jonge leeftijd dat 1 = 1 2 is. Maar nu blijkt dat die uitkomst ook makkelijk 3 of 4 kan zijn. Tenminste: in de neuro-psychologie. Dát is namelijk de werking van het collectieve brein.
+**We leren op jonge leeftijd: 1+1 = 2. Maar nu blijkt dat die uitkomst ook makkelijk 3 of 4 kan zijn. Tenminste, in de neuro-psychologie. Dát is namelijk de werking van het collectieve brein.**
 
 Onder het collectieve brein verstaan we verschillende zaken. Bedoeld kan worden, de collectieve kennis die we allemaal hebben omdat ons dat collectief geleerd is. Denk daarbij inderdaad aan basiskennis zoals de genoemde rekensom en grammaticale regels. Afgezien van collectieve kennis, hebben groepen mensen ook collectieve normen en waarden, waarmee zij zich identificeren. Je denkt dan aan begrippen die een cultuur vormen, bijvoorbeeld de Nederlandse identiteit. Dat valt ook onder het collectieve brein. Bovendien hebben onze breinen een anatomische gemeenschappelijkheid, die we delen. Zo hebben we allemaal een amygdala die alarm slaat in noodsituaties. Dat is een collectief gegeven.
 
