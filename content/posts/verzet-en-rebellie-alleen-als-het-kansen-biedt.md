@@ -16,7 +16,7 @@ tags:
   - onbeantwoorde liefde
   - liefdesverdriet
 ---
-W﻿e rebelleren en komen in verzet. Tegen de overheid, klimaatopwarming, tegen links en tegen rechts. Maar wanneer verzetten we ons eigenlijk? En wat is verzet? 
+**W﻿e rebelleren en komen in verzet. Tegen de overheid, klimaatopwarming, tegen links en tegen rechts. Maar wanneer verzetten we ons eigenlijk? En wat is verzet?** 
 
 De media en de sociale media zijn er vol van: rebellen en strijders. De berichten op Twitter, Instagram en Telegram liegen er niet om en roepen ons op te rebelleren. Toch blijkt uit onderzoek dat rebellie niet direct ontstaat uit onrecht, maar uit de mogelijkheid om te rebelleren.
 
