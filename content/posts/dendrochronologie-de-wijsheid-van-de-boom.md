@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: "Dendrochronologie: de wijsheid van de boom"
+title: "Dendrochronologie: de wetenschap van boomgroeiringen"
 Subtitle: ""
 date: 2023-01-29T12:53:05.006Z
 headerPhoto: map-image-img-dendro-boom-zee-nacht-jpg-bron-pixabay-com-onderschrift-bomen-geven-wetenschappers-een-schat-aan-info-over-geschiedenis-klimaat-demografie-en-nog-veel-meer
@@ -20,7 +20,7 @@ tags:
   - bouwhistorie
   - landschapsreconstructie
 ---
-Kinderen zijn er door gefascineerd, maar als volwassenen lijken we het te vergeten: hoe belangrijk de groeiringen van een boom zijn. Gelukkig is daar de dendrochronologie, het 1001 dingen-doekje van de wetenschap.
+**Kinderen zijn er door gefascineerd, maar als volwassenen lijken we het te vergeten: hoe belangrijk de groeiringen van een boom zijn. Gelukkig is daar de dendrochronologie, het 1001 dingen-doekje van de wetenschap.**
 
 De dendrochronoloog is een betrekkelijk nieuwe wetenschapper, die vooral de laatste 10 jaar steeds meer van zich laat horen. En dat komt omdat de wetenschap onmisbaar blijkt in het bedrijven van andere wetenschappelijke takken van sport. Archeologen kunnen vandaag de dag niet meer zonder. En ook milieudeskundigen, bouwhistorici en kunsthandelaren zoeken deze wetenschapper steeds vaker op. De dendrochronoloog is niet meer weg te denken uit het wetenschappelijk spectrum. Maar wat is dendrochronologie eigenlijk?
 
