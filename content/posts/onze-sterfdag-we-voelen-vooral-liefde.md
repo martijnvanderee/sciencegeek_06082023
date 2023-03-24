@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: "Onze sterfdag: we voelen vooral liefde"
-Subtitle: Je laatste 24 uur op aarde zijn positiever dan je denkt
+title: Sterven is niet zo erg als we dachten
+Subtitle: "Laatste 24 uur: positief en gelukkig"
 date: 2023-03-19T12:52:39.735Z
 headerPhoto: map-image-img-laatste-24-uur-man-licht-lucht-jpg-bron-pixabay-com-onderschrift-24-uur-man-in-licht
 onderwerp: human
@@ -19,7 +19,7 @@ tags:
   - de dood
   - bang zijn voor de dood
 ---
-Onze laatste 24 uur op deze aarde. Die gedachte boezemt ons angst en verdriet in. Maar dat is niet nodig volgens wetenschappers, die onze laatste dag onderzochten: we gaan onze dood positief tegemoet. We ervaren vooral liefde en dankbaarheid. En naarmate je sterfmoment nadert, worden die emoties alleen maar sterker.
+**Onze laatste 24 uur op deze aarde. Die gedachte boezemt ons angst en verdriet in. Maar dat is niet nodig volgens wetenschappers, die onze laatste dag onderzochten: we gaan onze dood positief tegemoet. We ervaren vooral liefde en dankbaarheid. En naarmate je sterfmoment nadert, worden die emoties alleen maar sterker.**
 
 De Duitse psychologen Sarah Hirschmüller en Boris Egloff gingen door brieven en gedichten van ter dood veroordeelden. Uit deze studie bleek dat deze gevangenen niet zo somber gestemd waren als verwacht. Ze hanteerden optimistisch taalgebruik en schreven over hun familie en de vrede die zij voelden. Een team Amerikaanse onderzoekers aan de Universiteit North Carolina keek verder en betrok ook terminaal zieke mensen bij hun onderzoek. Hiervoor werden de blogs van ALS- en kankerpatiënten geanalyseerd. 
 
