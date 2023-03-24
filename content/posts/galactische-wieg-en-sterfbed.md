@@ -20,7 +20,7 @@ tags:
   - foto's sterren
   - Melkweg
 ---
-De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren. 
+**De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren.** 
 
 Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. 
 
@@ -81,8 +81,6 @@ Dit sieraadje van een nevel, oftwel Little Gem NGC 6818, ligt in het sterrenbeel
 Hier zien we absoluut kliffen in. De nieuwe James Webb telescoop fotografeerde met infrarood deze randen van NGC 3324. Dat is een gedeelte van de Carinanevel, waar vooral jonge sterren geboren worden op 7.600 lichtjaar van de aarde. 
 
 D﻿it waren er maar een paar. Maar we blijven voor je zoeken en verzamelen!
-
-
 
 *G﻿epubliceerd op 19 maart 2023*
 
