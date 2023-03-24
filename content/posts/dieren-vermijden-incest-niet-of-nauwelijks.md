@@ -14,7 +14,7 @@ tags:
   - familie
 photo's: []
 ---
-Dieren maken lang niet zo’n probleem van inteelt als biologen tientallen jaren beweerd hebben. Sterker nog: als rechtgeaard zoogdier heeft de mens zelf waarschijnlijk ook niet al te veel bezwaren tegen één van de grootste taboes die we nog steeds koesteren.
+**Dieren maken lang niet zo’n probleem van inteelt als biologen tientallen jaren beweerd hebben. Sterker nog: als rechtgeaard zoogdier heeft de mens zelf waarschijnlijk ook niet al te veel bezwaren tegen één van de grootste taboes die we nog steeds koesteren.**
 
 Jarenlang was de doctrine van incestmijding een aangenomen theorie onder wetenschappers. De theorie hield in dat zeker zoogdieren incest vermeden en bijvoorbeeld jong volwassen mannetjes tijdig de groep uit gooiden om zeker te zijn dat er geen al te hechte familiebanden tussen de groepsleden zouden ontstaan. Dit om inteelt en daarmee genetische schade aan individuele leden van de groep en de groep als totaal, te voorkomen. Honderden studies zouden sindsdien van het idee van incestmijding zijn uitgegaan.
 
