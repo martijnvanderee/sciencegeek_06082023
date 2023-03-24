@@ -16,7 +16,7 @@ tags:
   - fosfor
 photo's: []
 ---
-Wie vroeger een kinderbijbel had, wist het al langer. En ook space-nerds vermoedden het reeds: de afbeeldingen van een door bliksem geteisterde aarde in den beginne zijn niet toevallig gekozen. Lightning matters.
+**Wie vroeger een kinderbijbel had, wist het al langer. En ook space-nerds vermoedden het reeds: de afbeeldingen van een door bliksem geteisterde aarde in den beginne zijn niet toevallig gekozen. Lightning matters.**
 
 Wetenschappers dachten lange tijd dat het vooral meteorieten waren die essentieel waren voor de ontwikkeling van leven op aarde. Zij voornamelijk zouden het zijn geweest die 4 miljard jaar geleden de zo belangrijke mineralen en bouwstenen in de atmosfeer brachten. Uit nieuw onderzoek blijkt dat echter helemaal niet waar te zijn. Bliksemschichten waren minstens zo belangrijk en ons bestaan hebben we dus ook te danken aan de juiste weersomstandigheden, zo onfortuinlijk onweer genaamd.
 
