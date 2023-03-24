@@ -11,7 +11,7 @@ tags:
 photo's:
   - map-onderschrift-zowel-vrouwelijke-als-mannelijke-consumenten-hebben-een-duidelijke-voorkeur-voor-brands-met-een-vrouwelijke-naam-bron-pixabay-com-islandworks-image-img-vrouw-afrekenen-verkoopbon-jpg
 ---
-Wie er over denkt een eigen onderneming te starten, doet er verstandig aan het volgende aandachtig te lezen. Hoe jij je bedrijf noemt, bepaalt voor een groot gedeelte jouw succes.
+**Wie er over denkt een eigen onderneming te starten, doet er verstandig aan het volgende aandachtig te lezen. Hoe jij je bedrijf noemt, bepaalt voor een groot gedeelte jouw succes.**
 
 What’s in a name? Nou, nogal wat. Potentiële afnemers die voor het eerst van jouw bedrijf horen, gaan af op de naam en welke associatie deze bij hen oproept. De juiste bedrijfsnaam kiezen, blijkt dus belangrijker dan je zou denken. Instinctieve ondernemers wisten dit al langer. 
 
