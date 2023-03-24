@@ -10,9 +10,9 @@ tags:
     levensstijl.
 photo's: []
 ---
-Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest.
-Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je
-joggingbroek!
+**Slecht nieuws voor luie kerels die papa willen worden en een vrouw hebben, die dit leest. Na dit artikel, slaat ze de chips uit je fikken en jaagt zij je van de bank af en in je joggingbroek!**
+
+
 Dat ziekten en aandoeningen genetisch van aard kunnen zijn en doorgegeven op de
 volgende generatie is bekend. Maar ook zonder DNA komt het sperma van vader een heel
 eind in de overdracht van levensstijl op zijn kind.
