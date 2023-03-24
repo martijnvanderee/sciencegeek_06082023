@@ -16,13 +16,9 @@ tags:
   - antartica
   - Copernicus
 ---
-Verandert het klimaat nu wel of niet? Als het sneeuwt in maart, slaan de politieke tegenstanders elkaar meteen weer om de oren. Terecht? Meten is weten!
-
-
+**Verandert het klimaat nu wel of niet? Als het sneeuwt in maart, slaan de politieke tegenstanders elkaar meteen weer om de oren. Terecht? Meten is weten!**
 
 En laat dat nu in overvloede gebeuren, dat meten. Van zeespiegels tot luchtkwaliteit en van temperaturen tot vaststellen van hotspots op het aardoppervlak: het  aardobservatieprogramma Copernicus is er maar druk mee. Vanuit de ruimte met satellieten en met meetapparatuur aan land worden dagelijkse een immense berg data verstuurd én verwerkt. 
-
-
 
 Wat zeggen deze immense hoeveelheden data? Even de feiten van het laatste half jaar op een rijtje:
 
@@ -44,8 +40,6 @@ De laatste 8 jaar zijn de warmste 8 jaren ooit gemeten wereldwijd. 2022 staat da
 
 Wereldwijd nam de stikstofuitstoot toe met 2,1 ppm, oftewel parts per million. Die toename is al een paar jaar hetzelfde. Ook het aantal deeltjes methaan nam weer toe. Die toename was wel meer dan gemiddeld, namelijk 12 ppb, oftewel parts per billion. En de warme oceaanstroom La Nina liet in 2022 gedurende het hele jaar effecten zien in temperatuurmetingen in zeewater. Voor het derde achtereenvolgende jaar overigens.
 
-
-
 **Record aantal bosbranden**
 
 Ook registreerde Copernicus een recordaantal zomer bosbranden in heel Europa over de laatste 15 jaar. In Frankrijk, Spanje, Duitsland en Slovenië blééf de brandweer helemaal bezig: die landen kampten zelfs met een record over de laatste 20 jaar. 
@@ -60,10 +54,6 @@ Klimaatverandering is dus niet nieuw. Maar wel extremer. Dat ondervinden we zome
 
 (Voor wie zelf graag onderzoek doet en alle metingen bekijkt, kan de website van Copernicus ***[hier](https://www.copernicus.eu/nl)*** vinden)
 
-
-
 *Gepubliceerd op 9 maart 2023*
-
-
 
 *Bron: Copernicus aardobservatie programma*
