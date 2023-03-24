@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: Sterven is niet zo erg als we dachten
-Subtitle: "Laatste 24 uur: positief en gelukkig"
+title: "Sterven: minder erg dan je denkt"
+Subtitle: Laatste 24 uur ben je positief en gelukkig
 date: 2023-03-19T12:52:39.735Z
 headerPhoto: map-image-img-laatste-24-uur-man-licht-lucht-jpg-bron-pixabay-com-onderschrift-24-uur-man-in-licht
 onderwerp: human
