@@ -11,7 +11,7 @@ tags:
 photo's:
   - map-onderschrift-tsunami-kustlijn-overspoeld-image-img-tsunami-kustlijn-overspoeld-jpg-4
 ---
-De kans dat een gevaarlijke tsunami de bewoonde wereld snel zal treffen, is veel groter dan gedacht. Die onthulling blijkt uit nieuw onderzoek.
+**De kans dat een gevaarlijke tsunami de bewoonde wereld snel zal treffen, is veel groter dan gedacht. Die onthulling blijkt uit nieuw onderzoek.**
 
 Grote vloedgolven die op zee ontstaan, kunnen een verwoestende uitwerking hebben op steden en mensenlevens. Het risico’s op grote tsunami’s is veel hoger dan wetenschappers meenden. De boodschap komt van verschillende hoeken en betreft verschillende onafhankelijke onderzoeken. Beide onderzoeken tonen aan, dat voorheen enkele factoren niet zijn meegenomen in berekeningen en dat we daarom minder goed zijn voorbereid op monster-vloedgolven. 
 
