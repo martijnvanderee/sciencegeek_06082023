@@ -9,7 +9,7 @@ tags:
   - computer, hacken, processor, inbouwfout, Spectre
 photo's: []
 ---
-De mensheid is vandaag de dag zeer afhankelijk van de computer. Gevaarlijk, want onderzoekers vonden een nieuwe kwetsbaarheid, die computers over de hele wereld makkelijk lam legt.
+**De mensheid is vandaag de dag zeer afhankelijk van de computer. Gevaarlijk, want onderzoekers vonden een nieuwe kwetsbaarheid, die computers over de hele wereld makkelijk lam legt.**
 
 Thuis kunnen we onze laptop of pc al amper missen, laat staan hoe wereldwijde instituten het moeten redden als computersystemen zouden weg vallen of gehackt worden. Toch is dat precies de situatie die er dreigt en Amerikaanse techneuten trekken dan ook luid aan de bel. Ze hebben een foutje gevonden in de processors, waardoor computers kwetsbaarder zijn, dan we vermoeden.
 
