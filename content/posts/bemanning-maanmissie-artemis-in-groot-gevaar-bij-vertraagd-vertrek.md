@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-onderschrift-over-een-paar-jaar-zijn-er-zo-veel-zonnevlammen-dat-de-bemanning-van-de-artemis-missie-ernstig-in-gevaar-zal-zijn-bron-pixabay-com-nasa_imagery-image-img-zon-zonnevlam-zonnestorm-jpg
 ---
-Extreme weerverschijnselen in de ruimte brengen de bemanning van maanmissies ernstig in gevaar, zeggen wetenschappers. Een vertraging kan dodelijk zijn.
+**Extreme weerverschijnselen in de ruimte brengen de bemanning van maanmissies ernstig in gevaar, zeggen wetenschappers. Een vergissing in de planning, kan dodelijk zijn.**
 
 Dat een maanmissie altijd strak gepland wordt en móet worden, is duidelijk. Toch kunnen zich altijd omstandigheden voordoen, waarbij de lancering wordt uitgesteld. Maar astronomen hebben iets ontdekt, waardoor zij menen dat een bemand tochtje naar de maan nú moet plaats vinden, omdat de ruimtereizigers anders onderweg wel eens in levensgevaar zouden kunnen komen.
 
