@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-onderschrift-ongens-van-11-jaar-die-meer-gamen-dan-leeftijdsgenoten-worden-later-gelukkiger-dan-andere-mannen-onderzoekers-vermoeden-dat-voor-meisjes-hetzelfde-geldt-bron-pixabay-com-sergiodr74-image-img-jongens-zonnebrillen-game
 ---
-Het is nog niet zo lang geleden dat de goegemeente vreesde voor allerlei psychologische aandoeningen bij gamende jeugd. Maar niets blijkt minder waar! Gooi het opstandige kroost dus gerust achter de game-computer.
+**Het is nog niet zo lang geleden dat de goegemeente vreesde voor allerlei psychologische aandoeningen bij gamende jeugd. Maar niets blijkt minder waar! Gooi het opstandige kroost dus gerust achter de game-computer.**
 
 Jongens op de leeftijd van 11 jaar die meer gameden dan leeftijdsgenootjes, ontwikkelden later minder klachten van depressieve aard. Zo blijkt uit een internationaal onderzoek van universiteiten uit Zweden, Australië en Groot-Brittannië. Uit hetzelfde onderzoek bleek ook dat meisjes van dezelfde leeftijd, die zich meer met social media bezig hielden dan leeftijdsgenootjes, juist meer last kregen van depressiviteit later in het leven.
 
