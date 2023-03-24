@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: "Dendrochronologie: de wetenschap van boomgroeiringen"
+title: "Dendrochronologie: wetenschap van boomgroeiringen"
 Subtitle: ""
 date: 2023-01-29T12:53:05.006Z
 headerPhoto: map-image-img-dendro-boom-zee-nacht-jpg-bron-pixabay-com-onderschrift-bomen-geven-wetenschappers-een-schat-aan-info-over-geschiedenis-klimaat-demografie-en-nog-veel-meer
