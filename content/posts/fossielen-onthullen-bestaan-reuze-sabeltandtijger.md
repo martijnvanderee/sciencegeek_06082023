@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-onderschrift-mannetjesleeuw-landschap-leeuwenmanen-image-img-mannetjesleeuw-landschap-leeuwenmanen-jpg
 ---
-Er was eens, in een land niet zo heel ver hier vandaan, een bijzondere sabeltandtijger. Het dier was gigantisch vergeleken met Smilodon en verschalkte prooien van duizenden kilo’s. Maak kennis met de Machairodus.
+**Er was eens, in een land niet zo heel ver hier vandaan, een bijzondere sabeltandtijger. Het dier was gigantisch vergeleken met Smilodon en verschalkte prooien van duizenden kilo’s. Maak kennis met de Machairodus.**
 
 Machairodus lahayishupup was de big bad boy onder de sabeltandtijgers. Hij leefde 5 tot 9 miljoen jaar geleden en was daarmee een voorouder van de Smilodon, een veel kleiner nazaatje dat 10.000 jaar geleden uitstierf. Smilodon is de sabeltandtijger waarop Diego in de animatiefilm-reeks Ice Age is gebaseerd. Machairodus echter was letterlijk en figuurlijk nog een behoorlijk tandje groter dan onze huidige leeuw.
 
