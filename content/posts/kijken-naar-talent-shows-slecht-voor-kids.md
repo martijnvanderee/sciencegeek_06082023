@@ -10,9 +10,9 @@ tags:
 photo's:
   - map-onderschrift-talentenjachten-geven-jongeren-een-egoïstische-boodschap-mee-zo-blijkt-uit-onderzoek-bron-pixabay-com-image-img-kind-schermtijd-computer-jpg
 ---
-Wie zijn kids thuis al te vaak laat zappen tussen programma’s als *We Want More* en *The Voice,* mag best alert zijn. Jongelui worden er namelijk negatief van.
+**De laatste talentshow heet Avastars, maar hoeveel toekomst hebben talentshows op televisie nog? Uit onderzoek blijkt dat vooral jongelui behoorlijk negatief ervan worden.**
 
-Uit onderzoek blijkt dat jongeren van deze shows negatieve boodschappen op steken. En dat ze het concept ook al weer beu zijn: beroemd worden? Boeien! Het onderzoek naar de beleving van jongeren dat 50 jaar in beslag nam, laat duidelijk zien dat voor het eerst sinds 2007, jongeren normen en waarden weer in de armen sluiten.
+Jongeren doen van deze shows negatieve boodschappen op. En dat ze het concept ook al weer beu zijn: beroemd worden? Boeien! Het onderzoek naar de beleving van jongeren dat 50 jaar in beslag nam, laat duidelijk zien dat voor het eerst sinds 2007, jongeren normen en waarden weer in de armen sluiten.
 
 **We Want More? Niet volgens wetenschappers!**
 
