@@ -11,7 +11,7 @@ tags:
 photo's:
   - map-onderschrift-boom-bladeren-groen-image-img-boom-bladeren-groen-jpg
 ---
-Hoe lang denk je dat klimaatverandering al een probleem is? 20 jaar misschien? Of zet je in op 100 jaar? Helaas: al duizenden jaren worden onze zomers alsmaar warmer en vooral droger. 
+**Hoe lang denk je dat klimaatverandering al een probleem is? 20 jaar misschien? Of zet je in op 100 jaar? Helaas: al duizenden jaren worden onze zomers alsmaar warmer en vooral droger.** 
 
 Dat het klimaat aan het veranderen is, lijdt weinig twijfel meer en we kijken verwijtend naar onze auto’s en de industriële sector. Bij ieder nieuw hitterecord schudden we ons hoofd en zelfs politici beginnen, voorlopig nog langzamerhand, de ecologische druk te voelen. (Behalve dan de Braziliaanse overheid, die voelt hooguit druk om de Amazone nog een tikkie sneller om zeep te helpen, zoals je ***hier*** kunt lezen.)
 
