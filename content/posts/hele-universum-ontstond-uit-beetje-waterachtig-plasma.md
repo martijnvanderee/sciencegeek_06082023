@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-wilkilmages-onderschrift-een-schematische-weergave-van-wat-er-in-het-universum-gebeurde-na-de-oerknal-een-theorie-waarvoor-steeds-meer-bewijs-gevonden-wordt-image-img-big-bang-verloop-sterren-jpg
 ---
-We danken ons bestaan en het heelal aan zogenaamd Quark-Gluon Plasma. Een goedje dat zo vloeibaar was als water. En dat slechts een milliseconde bestaan heeft.
+**We danken ons bestaan en het heelal aan zogenaamd Quark-Gluon Plasma. Een goedje dat zo vloeibaar was als water. En dat slechts een milliseconde bestaan heeft.**
 
 The Big Bang Theorie, is steeds minder alleen maar een theorie aan het worden. Wetenschappers zijn steeds meer onderbouwend bewijs aan het verzamelen voor het ontstaan van ons hele universum in slechts een seconde. Dat moet dan wel een hele heftige seconde zijn geweest.
 
