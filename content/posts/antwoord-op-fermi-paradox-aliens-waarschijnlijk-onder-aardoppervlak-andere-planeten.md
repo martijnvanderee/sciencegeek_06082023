@@ -17,7 +17,9 @@ tags:
 photo's:
   - map-bron-pixabay-com-onderschrift-grot-water-blauw-image-img-grot-water-blauw-jpeg
 ---
-We moeten niet naar tekenen van leven zoeken aan de oppervlakten van planeten, maar onder de oppervlakten en wel tot tientallen kilometers diep. De kans dat intelligent leven zich ondergronds bevindt, is namelijk vele malen groter dan dat het zichtbaar aan de oppervlakte rondscharrelt.
+**We moeten niet naar tekenen van leven zoeken aan de oppervlakten van planeten, maar onder de oppervlakten en wel tot tientallen kilometers diep.** 
+
+De kans dat intelligent leven zich ondergronds bevindt, is namelijk vele malen groter dan dat het zichtbaar aan de oppervlakte rondscharrelt.
 
 **Redelijk veel planeten met ondergronds water**
 
