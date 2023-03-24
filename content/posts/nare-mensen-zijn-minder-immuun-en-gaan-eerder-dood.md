@@ -19,7 +19,7 @@ tags:
 photo's:
   - map-onderschrift-gelukkige-verantwoordelijke-mensen-beschikken-over-minder-cellen-die-hun-immuunsysteem-aanvallen-bron-pixabay-com-image-img-man-springend-gelukkig-jpg
 ---
-We kregen het met de paplepel ingegoten door middel van religie en sprookjes: een goed mens proberen te zijn. Wat we toen nog slechts konden vermoeden, hebben wetenschappers nu bewezen: “goede” mensen leven langer. En niet zo zuinig ook!
+**We kregen het met de paplepel ingegoten door middel van religie en sprookjes: een goed mens proberen te zijn. Wat we toen nog slechts konden vermoeden, hebben wetenschappers nu bewezen: “goede” mensen leven langer. En niet zo zuinig ook!**
 
 De wetenschap onderzoekt wat af. Nu heeft een internationaal team van onderzoekers uit Ierland, Duitsland en de Verenigde Staten, een verband gevonden tussen persoonlijkheid en levensduur. Het gaat daarbij vooral om de eigenschap van bewust en verstandig handelen. Aan de universiteit van Limerick heeft men geconstateerd dat dié mensen langer, gezonder en gelukkiger leven. En dat is eigenlijk natuurlijk ook niet zo gek.
 
