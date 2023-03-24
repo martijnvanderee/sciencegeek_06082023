@@ -1,6 +1,7 @@
 ---
 templateKey: post.template
 title: Oorwurmen helpen je geheugen!
+Subtitle: Liedjes die de hele dag in je hoofd zitten
 date: 2021-11-09T13:48:24.628Z
 headerPhoto: map-bron-pixabay-com-image-img-meisje-gitaar-vrolijk-jpg-onderschrift-muziek-helpt-herinneringen-te-verankeren-1
 onderwerp: human
@@ -10,7 +11,7 @@ tags:
     hoofd, liedje, onderzoek, wetenschap
 photo's: []
 ---
-Nummers die maar in je kop blijven zitten: kapot irritant soms. Maar zij zijn ook buitengewoon nuttig, want ze helpen je belangrijke gebeurtenissen te herinneren.
+**Nummers die maar in je kop blijven zitten: irritant soms. Maar zij zijn ook buitengewoon nuttig, want ze helpen je belangrijke gebeurtenissen te herinneren.**
 
 Voordat je het weet, neurie je dat deuntje weer en manen geïrriteerde collega’s of geliefden je tot kappen en wel subiet. “Het blijft maar in mijn hoofd!”, roep je verontschuldigend. Zeg nooit meer sorry. Muziek die zich in het brein blijft repeteren, helpt de geheugenfunctie in het brein.
 
@@ -19,8 +20,6 @@ Voordat je het weet, neurie je dat deuntje weer en manen geïrriteerde collega�
 De muziek dient als een soort kapstok. Al langer weten we dat muziek, net als geur, sterk verbonden is met emoties en emotionele herinneringen. Nu hebben Amerikaanse wetenschappers aan de California-Davis Universiteit dan ook bewezen dat praktische zaken en alledaagse gebeurtenissen door de hersenen beter worden opgeslagen met behulp van een muziekje. 
 
 ![Wetenschappers willen met muziek het geheugen van ouderen een boost geven.](/img/ouder-paar-dansen-tango.jpg "Pixabay.com")
-
-
 
 Zij nemen als voorbeeld de intro, die hoort bij de populaire sitcom Friends uit de jaren negentig van de vorige eeuw en die nu op Netflix weer nieuwe, jeugdige fans maakt. De serie gaat over een hechte groep vrienden in New York en maakte van het nummer “I’ll be there for you” destijds een grote hit. Wie het liedje bijna 30 jaar na dato hoort, is niet alleen weer terug in de tijd, maar kan zich ook weer events en gesprekken binnen de eigen, persoonlijke vriendengroep helder voor de geest krijgen.
 
