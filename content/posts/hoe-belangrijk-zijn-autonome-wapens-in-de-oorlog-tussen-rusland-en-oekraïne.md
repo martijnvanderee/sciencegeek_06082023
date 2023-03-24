@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Autonome wapens in moderne oorlogsvoering
+title: Autonome wapens in de oorlog
 Subtitle: 'Christ Klep: "Wapenwedloop is speedrace geworden!"'
 date: 2022-03-07T11:54:57.532Z
 headerPhoto: map-image-img-wapens-oorlog-helicopter-jpg-bron-pixabay-onderschrift-helicopter-in-de-strijd-maar-voor-hoelang-nog
