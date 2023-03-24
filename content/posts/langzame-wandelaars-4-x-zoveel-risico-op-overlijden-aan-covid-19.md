@@ -18,7 +18,7 @@ tags:
 photo's:
   - map-onderschrift-mensen-met-een-langzame-tred-hebben-ongezondere-hart-en-bloedvaten-ze-lopen-meer-risico-op-ernstige-symptomen-van-covid-19-bron-pixabay-com-image-img-wandeling-park-herfst-jpg
 ---
-De Nederlandse taal staat bol van de uitdrukkingen die onze ontspannen levenshouding vieren. Maar als je gezond de pandemie wilt doorkomen, is het goed te begrijpen dat haastige spoed wel degelijk bijzonder goed is.
+**De Nederlandse taal staat bol van de uitdrukkingen die onze ontspannen levenshouding vieren. Maar als je gezond de pandemie wilt doorkomen, is het goed te begrijpen dat haastige spoed wel degelijk bijzonder goed is.**
 
 **Biobanken schat aan data over Covid-19 vatbaarheid**
 
