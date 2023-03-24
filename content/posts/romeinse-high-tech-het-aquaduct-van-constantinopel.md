@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: Aquaduct van Constantinopel?
-Subtitle: Romeinse high-tech!
+title: Het aquaduct van Constantinopel
+Subtitle: Romeinse high-tech in de oudheid!
 date: 2021-06-11T11:18:42.468Z
 headerPhoto: map-onderschrift-turkije-aquaduct-byzanthium-image-img-turkije-aquaduct-byzanthium-jpg
 onderwerp: history
@@ -14,7 +14,7 @@ tags:
 photo's:
   - map-onderschrift-spanje-aquaduct-romeinen-image-img-spanje-aquaduct-romeinen-jpg
 ---
-Het aquaduct van Constantinopel was het langste aquaduct in het toenmalige Rome en was maar liefst 428 kilometer lang. Nog steeds doet het wetenschappers paf staan.
+**Het aquaduct van Constantinopel was het langste aquaduct in het toenmalige Rome en was maar liefst 428 kilometer lang. Nog steeds doet het wetenschappers paf staan.**
 
 Het waren misschien geen intellectuelen zoals de Grieken. Of liefhebbers van de schone kunst zoals de Chinezen. Maar bouwen, dát konden de oude Romeinen als de beste. Geen oude beschaving heeft ons zoveel architectuur en technologische hoogstandjes nagelaten als de Romeinen. Velen daarvan dwingen duizenden jaren later nog steeds respect af van toeschouwers en wetenschappers.
 
