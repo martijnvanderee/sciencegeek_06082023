@@ -9,7 +9,7 @@ tags:
   - vleermuizen, corona-crisis, covid-19, lockdowns, social distancing,
     infectieziekten, infectie, wetenschap, onderzoek, gedragswetenschappen
 ---
-Ook vleermuizen doen aan social distancing en lockdowns. Daarmee voorkomen zij dat zij een infectieziekte verspreiden zowel binnen als buiten hun kolonie.
+**Ook vleermuizen doen aan social distancing en lockdowns. Daarmee voorkomen zij dat zij een infectieziekte verspreiden zowel binnen als buiten hun kolonie.**
 
 Toen Covid-19 begin 2020 aan een opmars door Europa begon, sloeg de paniek toe. Massaal gingen we in onze ogen verdachte personen uit de weg. Zeker mensen met een Aziatische afkomst, werden angstvallig en halsstarrig vermeden. Den Haag moest Nederlanders op het matje roepen en hen eraan herinneren om groepen mensen niet onnodig te kwetsen met vermijdend gedrag en buiten sluiten. Een maand later hoorden we Den Haag niet meer over discriminatie. “Mijd elkaar als de pest!” werd het devies van het voorjaar 2020 en wie zich er niet aan hield, kon sociale hoon, agressie en juridische vervolging tegemoet zien.
 
@@ -32,8 +32,6 @@ Vleermuizen die de nep-infectie hadden gekregen, zonderden zich vervolgens af. Z
 Volgens de onderzoekers is dit gedrag van de zieke vleermuizen veelzeggend. Zij wijzen erop dat vleermuizen van nature zeer sociaal zijn en graag dicht op elkaar en in grote groepen leven. Alleen als het absoluut moet, zal een vleermuis zich afkeren van dit sociale gedrag en van zijn soortgenoten. Er is dan ook een vergelijking te trekken met onszelf. Ook als wij mensen niet lekker zijn, blijven we graag thuis en ziekenbezoek is onder mensen bepaald geen populair tijdverdrijf. Zo ook de vleermuis dus.
 
 De wetenschappers menen dan ook dat zolang mensen niet de habitat van vleermuizen binnendringen, we niet bang hoeven te zijn voor een overdraagbaar virus via de vleermuis. Of deze kennis ook op de wet-markets en bij de civetkat leeft, vertelt het onderzoek er niet bij.
-
-
 
 *Gepubliceerd op 15 juni 2021*
 
