@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Het aquaduct van Constantinopel
+title: Aquaduct van Constantinopel
 Subtitle: Romeinse high-tech in de oudheid!
 date: 2021-06-11T11:18:42.468Z
 headerPhoto: map-onderschrift-turkije-aquaduct-byzanthium-image-img-turkije-aquaduct-byzanthium-jpg
