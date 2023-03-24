@@ -16,7 +16,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-so-fuego-onderschrift-de-algenstof-zal-ook-worden-ingezet-om-huidwonden-te-genezen-image-img-hand-bloed-wond-jpg
 ---
-Het is niet bekend of grote winkelketens hun eerste bestellingen al geplaatst hebben, maar wie weet hoe snel ze in de rekken hangen: jurken en pakken gemaakt van algen. Levende algen, wel te verstaan.
+**Het is niet bekend of grote winkelketens hun eerste bestellingen al geplaatst hebben, maar wie weet hoe snel ze in de rekken hangen: jurken en pakken gemaakt van algen. Levende algen, wel te verstaan.**
 
 We komen veel onderzoek tegen hier op de redactie en zijn best wel iets gewend. Maar zelfs bij ons gingen de wenkbrauwen omhoog bij het volgende nieuwtje. Wetenschappers hebben een stof ontwikkeld van levende algen, waarvan zij toepassingen zien in de medische sector én in de kledingindustrie.
 
