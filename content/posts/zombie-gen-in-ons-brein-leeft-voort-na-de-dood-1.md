@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Zombie-gen in ons brein leeft voort na de dood!
+title: '"Zombie-gen" in ons brein leeft voort na de dood'
 date: 2021-06-17T15:32:14.637Z
 headerPhoto: map-bron-pixabay-com-darksouls1-image-img-zombi-vrouw-eng-jpg-onderschrift-zombi-vrouw-eng
 onderwerp: quirky
@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-colin00b-onderschrift-sommige-hersencellen-gaan-extra-aan-de-slag-na-de-dood-de-genen-van-die-cellen-werken-zelfs-overuren-image-img-neuronen-verbinding-hersencellen-jpg
 ---
-Wie denkt dat je lijf na je overlijden, zich bezig gaat houden met doodnormale zaken als ontbinding, heeft het mis. Wetenschappers hebben een zombie-gen ontdekt, dat in de hoogste versnelling gaat, lang na je dood.
+**Wie denkt dat je lijf na je overlijden, zich bezig gaat houden met doodnormale zaken als ontbinding, heeft het mis. Wetenschappers hebben een zombie-gen ontdekt, dat in de hoogste versnelling gaat, lang na je dood.**
 
 Het menselijk lichaam blijft ons verbazen en het was al eerder bekend dat sommige cellen in ons brein nog even doorwerken, als we onze laatste adem hebben uitgeblazen. “Nog even doorwerken” is echter wel van een andere orde dan keihard aan de bank gaan en grote tentakels groeien! Én laat dat nu precies zijn wat het nieuw ontdekte zombie-gen doet.
 
