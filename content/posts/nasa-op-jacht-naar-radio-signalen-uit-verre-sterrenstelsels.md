@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-onderschrift-de-snelle-radio-golven-met-gigantische-energie-waren-afkomstig-uit-een-spiraal-vormig-sterrenstelsel-op-miljarden-lichtjaren-afstand-bron-pixabay-com-spirit-111-image-img-spiraal-sterrenstelsel-ruimte-jpg
 ---
-Voor het eerst hebben wetenschappers 5 signalen uit de ruimte kunnen traceren. De signalen komen uit sterrenstelsels die maar liefst 7 miljard jaar geleden bestonden.
+**Voor het eerst hebben wetenschappers 5 signalen uit de ruimte kunnen traceren. De signalen komen uit sterrenstelsels die maar liefst 7 miljard jaar geleden bestonden.**
 
 We noemen het FRB’s. Dit staat voor Fast Radio Bursts, of vrij vertaald snelle radio uitbarstingen. En daar is geen woord in overdreven, want we hebben het over gebeurtenissen die net zoveel energie genereren in een duizendste van één seconde als de zon in een heel jaar!
 
