@@ -15,7 +15,7 @@ tags:
 photo's:
   - map-image-img-skelet-schedel-dood-jpg-onderschrift-skelet-schedel-dood
 ---
-Eindelijk iets goed te melden over de gevolgen van de zwarte dood. Onze immuunsystemen zouden er een flinke boost van hebben gekregen.
+**Eindelijk iets goed te melden over de gevolgen van de zwarte dood. Onze immuunsystemen zouden er een flinke boost van hebben gekregen.**
 
 De pest teisterde Europa en Azië duizenden jaren lang en decimeerde de bevolking volledig. De angst was groot en de artsen die zich met de behandeling van pest-patiënten bezig hielden, werden beschouwd als ware helden. Of gekken. Toch schijnt die pest de mensheid ook iets te hebben opgeleverd en niet zo zuinig ook.
 
