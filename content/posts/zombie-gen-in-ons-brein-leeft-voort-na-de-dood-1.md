@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Zombie-gen in ons brein leeft voort na de dood!
+title: '"Zombie-gen" in ons brein leeft voort na de dood'
 date: 2021-06-17T15:32:14.637Z
 headerPhoto: map-bron-pixabay-com-darksouls1-image-img-zombi-vrouw-eng-jpg-onderschrift-zombi-vrouw-eng
 onderwerp: quirky
