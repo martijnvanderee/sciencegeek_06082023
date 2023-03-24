@@ -10,7 +10,7 @@ tags:
 photo's:
   - map-onderschrift-polyester-kleding-vergiftigt-al-70-jaar-onze-zoetwatervissen-en-dat-alles-via-de-wasmachine-en-de-droger-bron-pixabay-com-free-photos-image-img-kind-park-herfst-jpg
 ---
-Nieuw onderzoek bewijst dat plastic afval al veel langer dan aangenomen ons milieu vervuilt. Zo krijgen zoetwatervissen al 70 jaar lang plastic binnen.
+**Nieuw onderzoek bewijst dat plastic afval al veel langer dan aangenomen ons milieu vervuilt. Zo krijgen zoetwatervissen al 70 jaar lang plastic binnen.**
 
 Plastic afval lijkt wel het onkruid onder de afvalstoffen, het weigert maar eens fatsoenlijk te vergaan. Honderden jaren houden sommige kunststoffen het vol en zeker de laatste 20 jaar zijn we ons pijnlijk bewust van de schade die plastic afval toebrengt aan onze aarde. Wist je bijvoorbeeld dat ieder stuk plastic dat ooit gemaakt is, nog steeds in één of andere vorm bestaat?
 
