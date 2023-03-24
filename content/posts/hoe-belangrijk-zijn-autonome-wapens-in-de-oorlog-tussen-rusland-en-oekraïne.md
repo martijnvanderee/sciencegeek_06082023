@@ -10,7 +10,7 @@ tags:
     onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
     wedloop, sonar, radar
 ---
-Poetin wappert met kernwapens en dat is op zijn minst ongemakkelijk. Maar dat is zeker niet de enige aap die we uit de Russische mouw mogen verwachten.
+**Poetin wappert met kernwapens en dat is op zijn minst ongemakkelijk. Maar dat is zeker niet de enige aap die we uit de Russische mouw mogen verwachten.**
 
 De wetenschap ontwikkelt in zeer hoog tempo autonome systemen. Maandelijks wordt er wel ergens in de wereld een drone of communicatietoestel uitgevonden dat volledig zelfstandig opereert. De toepassing is steeds vaker militair en de Adviesraad Internationale Vraagstukken heeft de VN inmiddels dan ook aangeraden een verbod op volledig autonome wapens in te stellen. Ze willen dat staten investeren in automatische wapens, waarbij menselijke besluitvorming essentieel blijft. Dat roept de vraag op hoeveel zeggenschap wij mensen überhaupt nog hebben over aanval en verdediging.
 
