@@ -11,7 +11,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-coxinhafotos-onderschrift-een-hologram-die-voor-iedereen-op-straat-te-zien-is-en-waarmee-interactie-mogelijk-is-vanaf-nu-bestaat-het-image-img-vrouw-hologram-stad-jpg
 ---
-Star Wars-fans opgelet! Ook altijd al een potje willen mee knokken met Yoda tegen Darth Vader? Dat kan nu! Wetenschappers zijn erin geslaagd hologrammen te creëren die spelers een hele nieuwe beleving bieden.
+**Star Wars-fans opgelet! Ook altijd al een potje willen mee knokken met Yoda tegen Darth Vader? Dat kan nu! Wetenschappers zijn erin geslaagd hologrammen te creëren die spelers een hele nieuwe beleving bieden.**
 
 Vanaf de jaren ‘70 van de vorige eeuw volgen hele volksstammen de belevenissen van de Starship Enterprise op de voet. En gewone games en virtual reality geven toch niet die levensechte speel-ervaring. Daar is iets op bedacht. Wetenschappers maakten hologrammen mogelijk, waarvan de beelden écht bestaan. Dus niet de lichtsabels of Enterprise zelf, maar wel de beelden. 
 
