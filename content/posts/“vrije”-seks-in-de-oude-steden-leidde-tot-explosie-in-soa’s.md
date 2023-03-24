@@ -15,7 +15,7 @@ tags:
 photo's:
   - map-onderschrift-schilderij-samuel-johnson-image-img-schilderij-samuel-johnson-jpg
 ---
-Onze overgrootouders in de grote steden van 250 jaar geleden, lustten er wel pap van en waren seksueel niet bepaald terughoudend. De SOA’s tierden er dan ook welig. Met alle gevolgen van dien.
+**Onze overgrootouders in de grote steden van 250 jaar geleden, waren seksueel niet bepaald terughoudend. En arme vrouwen waren er de dupe van. Van het misbruik én de SOA's.**
 
 Je zou zeggen dat de kerk in de 18e eeuw de zeden nog wel een beetje in de hand had, maar niets is minder waar. Onderzoek wijst uit dat in Londen bijvoorbeeld, grote delen van de bevolking zich overgaf aan een vrije seksuele moraal. Met een explosie in geslachtsziekten als resultaat.
 
