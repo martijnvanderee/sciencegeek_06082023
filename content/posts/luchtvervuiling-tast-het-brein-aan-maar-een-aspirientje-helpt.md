@@ -10,7 +10,7 @@ tags:
     hersenbeschadiging
 photo's: []
 ---
-Blootstelling aan luchtvervuiling, al is het maar voor een paar weken, tast het cognitieve vermogen aan van onze hersenen. Gelukkig helpt het nemen van aspirine.
+**Blootstelling aan luchtvervuiling, al is het maar voor een paar weken, tast het cognitieve vermogen aan van onze hersenen. Gelukkig helpt het nemen van aspirine.**
 
 Net als je denkt dat we alle negatieve gevolgen van milieuvervuiling wel zo’n beetje in beeld zijn, komt er weer een nieuw onderzoek. Amerikaanse wetenschappers aan de universiteit van Columbia hebben onderzocht of luchtverontreiniging een schadelijke invloed heeft op onze hersenfuncties. En dat blijkt dus helaas het geval.
 
