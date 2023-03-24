@@ -11,7 +11,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-babette-1966-onderschrift-de-externsteine-werden-net-als-stonehenge-gebruikt-voor-heidense-riten-maar-anders-dan-stonehenge-kent-de-rotspartij-mysterieuze-bruggetjes-en-altaars-image-img-externsteine-loopbrug-hoog
 ---
-Een paar uur rijden van de Nederlands-Duitse grens liggen de Externsteine: 5 grillige rotsformaties, die al duizenden jaren werken als een magneet op heidenen, christenen en kunstenaars.
+**Een paar uur rijden van de Nederlands-Duitse grens liggen de Externsteine: 5 grillige rotsformaties, die al duizenden jaren werken als een magneet op heidenen, christenen en kunstenaars.**
 
 Dertig meter hoge bonkige rotsen bij het Teutoburger Woud, rijzen ineens op uit het landschap. Ze lijken, zelfs op een zonnige dag, duister af te steken tegen het idyllische meer. Op het eerste gezicht en van veraf ziet de verbaasde bezoeker duidelijk dat er ramen en deuren in de rotsen zijn uitgehouwen. Tot welk doel?
 
