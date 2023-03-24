@@ -11,9 +11,7 @@ tags:
 photo's:
   - map-bron-pixabay-com-wal_172619-onderschrift-de-wesp-is-een-superbestuiver-hij-helpt-maar-liefst-meer-dan-1000-plantensoorten-zich-voort-te-planten-image-img-wesp-bloem-paars-jpg
 ---
-Wetenschappers trekken aan de bel en nemen het op voor de wesp. We moeten het beestje heel snel gaan koesteren, want ons eigen welzijn en voortbestaan is van hem afhankelijk.
-
-**Wesp net zo belangrijk als de bij**
+**Wetenschappers trekken aan de bel en nemen het op voor de wesp. We moeten het beestje heel snel gaan koesteren, want ons eigen welzijn en voortbestaan is van hem afhankelijk.**
 
 Mensen zijn niet erg gehecht aan de wesp. Hij heeft een imago-probleem. We vinden het insectje agressief, hollen muilend van hem weg en het liefst zien we hem dood. Als we daartoe tenminste wild zwaaiend met onze armen, de moed voor kunnen op brengen. Beter gaan we onze houding tegenover de wesp echter wat positiever bijstellen, want de wesp blijkt belangrijk voor natuur én mens.
 
