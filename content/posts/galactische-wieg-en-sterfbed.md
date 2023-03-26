@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Galactische wieg en sterfbed
-Subtitle: De mooiste foto's van mysterieuze sterrennevels
+Subtitle: De mooiste foto's van mysterieuze sterrennevels, deel 1
 date: 2023-03-19T11:11:38.205Z
 headerPhoto: map-image-img-nasa-orion-vallei-jpg-bron-nasa-onderschrift-nasa-orion-vallei
 onderwerp: space
