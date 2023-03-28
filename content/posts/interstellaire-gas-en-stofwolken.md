@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Interstellaire gas- en stofwolken
+title: Stofwolken van het heelal
 Subtitle: De mooiste foto's van sterrennevels, deel 2
 date: 2023-03-26T09:43:22.378Z
 headerPhoto: map-image-img-nasa-2-header-sluier-supernova-jpg-bron-nasa-onderschrift-nasa-2-header-sluier
