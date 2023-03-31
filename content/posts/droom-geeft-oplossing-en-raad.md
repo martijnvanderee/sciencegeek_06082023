@@ -19,11 +19,7 @@ tags:
 ---
 **Dromen zijn geen bedrog. Over onze dromen is wetenschappelijk nogal wat te zeggen. Zo is bewezen dat onze dromen ons kunnen helpen problemen op te lossen, dat mannen destructiever en vrouwen constructiever dromen en dat dromen zelfs een spiegel zijn van onze maatschappijen.** 
 
-
-
 Naar dromen wordt zoveel onderzoek gedaan, dat we besloten hebben hier een 4-delige serie van te maken voor de komende weken. In dit eerste artikel van de serie kijken we naar wat een droom eigenlijk is en hoe onderzoek heeft laten zien dat dromen oplossingen bieden in tijden van nood. 
-
-
 
 **Brein denkt dat droom echt is**
 
@@ -32,8 +28,6 @@ Laten we beginnen bij het begin en meteen een heilig huisje onderuit halen. Name
 ![Dromen dat je kan vliegen. Een koud kunstje voor je brein dat geen rekening hoeft te houden de beperkingen van je lichaam,](/img/droom-1-vrouw-vliegen.jpg "Pixabay.com")
 
 Een raar besef, maar wel één die verklaart waarom sommige dromen zo realistisch aanvoelen. Je hersenen weten niet beter of je rent écht naakt over straat naar je werk toe. Misschien niet naar fysieke, wakkere maatstaven. Maar dat weet je brein en daarmee jijzelf niet. Je ervaringen zijn neurologisch gezien, écht. En daarmee je beleving en gevoelens. Kort gezegd: dromen zijn belevenissen van het brein -niet van het lichaam- die het meemaakt als het een bepaalde soort slaap mee maakt: De REM-fase. (Die fase kenmerkt zich door een grote hersenactiviteit én snelle bewegingen van het oog achter het gesloten ooglid, oftewel Rapid Eye Movements.)
-
-
 
 **De droom: brein op vakantie zonder lichaam**
 
@@ -47,8 +41,6 @@ We nemen je even mee naar dromenland. Stel je voor: je neemt je probleem mee naa
 
 Uit een samenwerkingsverband tussen de Canadese universiteiten Montreal en Alberta blijkt dat dromen binnen een week al kunnen helpen ingrijpende gebeurtenissen te verwerken én een oplossing te bedenken. Voorwaarde daarbij was wél dat er goed geslapen wordt, zodat de REM op een natuurlijke manier in werking kan treden. ‘Er een nachtje over slapen’ als je ergens mee zit, is dus een prima manier om met gebeurtenissen om te gaan. Er een weekje over slapen, zelfs nog beter. 
 
-
-
 **Brein biedt oplossingen tijdens droom**
 
 Het onderzoek nam 470 deelnemers en vroeg hen een droomdagboek bij te houden na een ingrijpende gebeurtenis. Het bleek dat de dromen die plaatsvonden in de eerste en tweede nacht na de gebeurtenis, vooral verwerkend van aard waren. Het brein filterde de context weg en focuste zich op het probleem dat zich had voorgedaan, soms met een herhaling. 
@@ -57,15 +49,11 @@ Het onderzoek nam 470 deelnemers en vroeg hen een droomdagboek bij te houden na 
 
 Maar soms ook in symbolen. De ruzie met de buurvrouw bijvoorbeeld werd een nare tover-wedstrijd met een heks. De nachten daarna was het tamelijk rustig, maar in de vijfde tot en met zevende nacht, ging het brein hard aan het werk! In bovenstaand voorbeeld kon dat betekenen dat de dromer de heks in een lieve fee had veranderd, haar op de vlucht had gejaagd of had besloten elders in het bos een nieuw huisje voor zichzelf te zoeken. De deelnemers aan het onderzoek gaven aan zich na deze dromen beter te voelen en op een idee te waren gekomen, hoe hun probleem op te lossen.
 
-
-
 Échter, niet iedereen bleek in staat deze constructieve dromen te krijgen. Zo bleken mensen met zelfvertrouwen, zelfs in hun slaap, betere oplossingen te kunnen bedenken. Ook vrouwen in het algemeen bleken helende dromen te hebben. Mannen droomden vaker over destructieve oplossingen, dus bijvoorbeeld het huisje van de heks in de fik zetten of haar met de bezem ervan langs geven. Mannen gaven vaker aan, niet veel aan deze “oplossingen” te hebben.
-
-
 
 Zit je vandaag ergens mee? Lekker vroeg naar bed, geef je brein in alle zelfvertrouwen een creatieve, positieve opdracht mee en kijk eens wat er gebeurt. Met dat vrouw-zijn bemoeien we ons verder niet. Uiteraard.
 
-
+(﻿Verder lezen over dromen? ***[Hier](/nachtmerrie-training-in-angstbeheersing)*** vind je deel 2: over nachtmerries.)
 
 *Gepubliceerd op 28 maart 2023*
 
