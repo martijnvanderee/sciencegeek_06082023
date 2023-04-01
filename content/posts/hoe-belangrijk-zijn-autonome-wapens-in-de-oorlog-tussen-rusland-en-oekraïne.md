@@ -10,6 +10,7 @@ tags:
   - Wapens, autonome wapens, AI, Rusland, Oekraïne, oorlog, wetenschap,
     onderzoek, drone, luchtmacht, reaper, marine, landmacht, defensie, wapen
     wedloop, sonar, radar
+  - Christ Klep
 ---
 **Poetin wappert met kernwapens en dat is op zijn minst ongemakkelijk. Maar dat is zeker niet de enige aap die we uit de Russische mouw mogen verwachten.**
 
