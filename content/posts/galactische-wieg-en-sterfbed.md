@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Galactische wieg en sterfbed
-Subtitle: De mooiste foto's van mysterieuze sterrennevels, deel 1
+Subtitle: De mooiste foto's van sterrennevels. Deel 1
 date: 2023-03-19T11:11:38.205Z
 headerPhoto: map-image-img-nasa-orion-vallei-jpg-bron-nasa-onderschrift-nasa-orion-vallei
 onderwerp: space
@@ -22,7 +22,7 @@ tags:
 ---
 **De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren.** 
 
-Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. 
+Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. (***[Hier ](/interstellaire-gas-en-stofwolken)***kun je deel 2 en hier kun je deel 3 van deze prachtige foto-serie bekijken.)
 
 Dat klinkt mysterieus, maar ze ogen nog veel fantastischer dan ze klinken. Kijk je mee naar de mooiste?
 
