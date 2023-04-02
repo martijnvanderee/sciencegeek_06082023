@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Kosmische wolken van sterren
+title: Kosmische sterrenwolken
 Subtitle: De mooiste foto's van sterrennevels. Deel 3.
 date: 2023-04-02T11:29:07.736Z
 headerPhoto: map-image-img-nasa-3-1-header-mystic-mountain-jpg-bron-nasa-onderschrift-nasa-3-1-header-mystic-mountain
