@@ -22,7 +22,7 @@ tags:
 ---
 **De beelden die moderne telescopen zoals James Webb maken, zijn verbazingwekkend. Vooral van nevels krijgen we geen genoeg. En met zo’n 3500 gecatalogiseerde nevels in de Melkweg alleen al, hebben we genoeg te koekeloeren.** 
 
-Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. (***[Hier ](/interstellaire-gas-en-stofwolken)***kun je deel 2 en hier kun je deel 3 van deze prachtige foto-serie bekijken.)
+Nevels zijn immense gas- en stofwolken in het universum. De zwaartekracht kan die stof samensmelten en sterren vormen. Maar het kan ook dat de wolken juist ontstaan zijn in de uitstoot van stervende sterren. Nevels vormen dus zowel de geboortekamer als de sterfkamer van sterren. (***[Hier ](/interstellaire-gas-en-stofwolken)***kun je deel 2 en ***[hier](/kosmische-wolken-van-sterren)*** kun je deel 3 van deze prachtige foto-serie bekijken.)
 
 Dat klinkt mysterieus, maar ze ogen nog veel fantastischer dan ze klinken. Kijk je mee naar de mooiste?
 
