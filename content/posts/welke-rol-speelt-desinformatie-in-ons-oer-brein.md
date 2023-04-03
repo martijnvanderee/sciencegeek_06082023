@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: Fake news wekt oerbrein
-Subtitle: Info over kinderen en gevaar zet alarm aan
+title: Fakenews bewerkt je oer-emoties
+Subtitle: Desinfo gebruikt neurologisch trucje
 date: 2023-03-23T13:37:30.342Z
 headerPhoto: map-image-img-desinformatie-header-oervrouw-jpg-bron-pixabay-com-onderschrift-desinformatie-header
 onderwerp: human
