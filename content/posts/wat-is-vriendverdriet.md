@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Wat is vriendverdriet?
+title: Onzichtbaar vriendverdriet
 Subtitle: Einde vriendschap kan meer pijn doen dan einde relatie
 date: 2023-04-04T11:13:51.471Z
 headerPhoto: map-image-img-vriendverdriet-header-jpg-bron-pixabay-com-onderschrift-vriendverdriet-header
@@ -12,6 +12,13 @@ tags:
   - echte vriendschap
   - vriendschap
   - maatschappij
+  - einde vriendschap
+  - verlies vriend
+  - verdriet om vriendin
+  - liefdesverdriet
+  - verraad vriendschap
+  - verwaterde vriendschap
+  - gedumpt vriend
 ---
 Als je liefdesverdriet hebt, kun je dat overal kwijt. Bij je baas, je familie en je vrienden. Maar er bestaat ook zoiets als vriendverdriet, als de vriendschap eindigt. Vriendverdriet doet net zoveel pijn als liefdesverdriet en in sommige gevallen zelfs meer.
 
