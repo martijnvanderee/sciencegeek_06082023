@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Vrachtschepen op windenergie?
+title: Vrachtschepen in 2050 op windenergie?
 Subtitle: Fossiele brandstoffen op zee verleden tijd
 date: 2023-04-07T17:53:39.425Z
 headerPhoto: map-bron-pixabay-com-image-img-zeilschip-header-jpg-onderschrift-zeilschip-header
