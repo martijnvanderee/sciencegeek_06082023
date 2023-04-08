@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Fakenews bewerkt je oer-emoties
+title: Fakenews bewerkt oer-emoties
 Subtitle: Desinfo gebruikt neurologisch trucje
 date: 2023-03-23T13:37:30.342Z
 headerPhoto: map-image-img-desinformatie-header-oervrouw-jpg-bron-pixabay-com-onderschrift-desinformatie-header
