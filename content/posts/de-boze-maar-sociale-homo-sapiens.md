@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: De boze, maar sociale en zelfverzekerde homo sapiens
+title: "Boosheid: onaangenaam maar nuttig"
 date: 2023-01-25T22:20:00.000Z
 headerPhoto: map-image-img-boosheid-engel-der-wrake-jpg-bron-pixabay-com-onderschrift-boosheid-als-nuttig-engel-der-wrake
 onderwerp: human
