@@ -1,6 +1,7 @@
 ---
 templateKey: post.template
 title: Kringloop van plastic beauty
+Subtitle: Gigi & Bella Hadid, Meghan Markle en Ronaldo
 date: 2023-04-21T12:01:17.260Z
 headerPhoto: map-image-img-plastiek-header-filler-vrouw-jpg-bron-pixabay-com-onderschrift-plastiek-header
 onderwerp: human
