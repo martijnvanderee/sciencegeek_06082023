@@ -1,0 +1,3 @@
+---
+naam: kwaliteitsverschil dure muziekapparatuur
+---
