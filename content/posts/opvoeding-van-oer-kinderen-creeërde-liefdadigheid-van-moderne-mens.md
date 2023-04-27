@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Waarom zijn mensen liefdadig?
+title: Waarom zijn we liefdadig?
 Subtitle: Oermensen zorgden voor elkaars kinderen en creëerden zo altruïsme.
 date: 2023-04-27T21:49:03.616Z
 headerPhoto: map-image-img-liefdadigheid-header-jpg-bron-pixabay-com-onderschrift-liefdadigheid-header
