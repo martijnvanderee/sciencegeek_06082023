@@ -24,11 +24,7 @@ tags:
 ---
 **Liefdadigheid hoort bij ons. We ervaren minder stress en zijn gezonder als we een ander helpen. Maar de sleutel tot altruïsme blijkt bij kinderen te liggen. En de wijze waarop onze voorouders besloten hen op te voeden.**
 
-
-
 Wij mensen vergeten het nog wel eens. Klimaatverandering, oorlogen, geen respect voor de natuur: we vinden onszelf niet bepaald lief. Maar mensen doen ontzettend veel lieve daden. Wij zijn liefdadiger dan we zelf denken en we vinden het ook nog eens vanzelfsprekend. We doneren, collecteren, bieden een luisterend oor of brengen soep naar een zieke buurvrouw. Sommige mensen besteden zelfs hun leven aan mantelzorg voor een naaste of kiezen voor een beroep in dienst van de mensheid. 
-
-
 
 **Altruïsme is typisch menselijk**
 
@@ -44,7 +40,7 @@ Aangesloten op de fMRI, die hun hersenactiviteit scande, konden testpersonen in 
 
 Onze hersenen belonen ons dus als we goede daden verrichten. Hoe lapt ons brein ‘m dat? Ook dat is onderzocht en wel aan de universiteit van Birmingham, door neurowetenschapper Patricia Lockwood en haar team. Zij pakten de fMRI, de vragenlijsten en de experimenten er weer bij: waar precies zit onze hulpbereidheid en is die te stimuleren? 
 
-![Uit hersenscans bleek dat helpen en liefdadigheid iets is, wat we moeten leren. Er bleek ook uit dat lieve dingen doen, ons brein kalmeert.](/img/liefdadigheid-3-mri-scan-pexels-mart-production-7089336.jpg "Pexels: Mart Production")
+![Uit hersenscans bleek dat helpen en liefdadigheid iets is, dat we moeten leren. Er bleek ook uit dat lieve dingen doen, ons brein kalmeert.](/img/liefdadigheid-3-mri-scan-pexels-mart-production-7089336.jpg "Pexels: Mart Production")
 
 Dat is zeker het geval. Het is zelfs het hele eieren-eten van liefdadigheid. Het gedeelte dat namelijk actief is tijdens altruïstische daden is de ACCg, ofwel Anterior Cingulate Cortex gyrus. Die ACCg zit in het achterhoofd en is volgens Lockwood hét ultieme leersysteem in sociaal gedrag. “Dit gedeelte is waar we coöperatief en vriendelijk gedrag leren. Hier vindt ons sociale verkeer plaats. Het maakt dus niet alleen keuzes, hier léren we keuzes te maken. Net zoals rekenen en schrijven. Liefdadigheid gaat verder dan sociaal gedrag. Het is actief sociaal gedrag. Het vergt onze moeite voor een ander, terwijl we zelf niets aan die moeite hebben. Denk aan het openhouden van een deur voor degene die na je komt. Hoe kleiner de moeite, hoe minder je erbij nadenkt. Maar we zijn ook bereid tot zeer grote inspanningen.” 
 
@@ -91,8 +87,6 @@ De collectieve opvoeding kwam zeker van pas voor onze voorouders, die in kleine 
 ![Oermensen besloten dat het beter was voor de hele stam op elkaar te helpen met opvoeden. Andermans kind opvoeden was daarmee het begin van liefdadigheid.](/img/liefdadigheid-7-oermensen-clan.jpg "Pixabay.com")
 
 De berenvellen en grotten zijn misschien verleden tijd, maar onze verantwoording tegenover anderen, diep gezeteld in ons collectief ouderschap, is gebleven. En slechts de gedachte aan een kind is al voldoende om de knip te trekken of aan de slag te gaan. Als de goede oermoeders en -vaders, die we voor de samenleving nog steeds willen zijn.
-
-
 
 *Gepubliceerd op 28 april 2023*
 
