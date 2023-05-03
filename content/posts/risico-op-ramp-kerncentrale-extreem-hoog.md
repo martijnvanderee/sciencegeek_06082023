@@ -24,7 +24,7 @@ tags:
   - stikstof-uitstoot
   - energietransitie
 ---
-**De kerncentrale. We willen ‘m terug en het liefst zo snel mogelijk. Het zou schoon en goedkoop zijn. Bovendien willen we echt de stikstofuitstoot omlaag hebben. Maar hoe veilig is kernenergie eigenlijk?**
+**De kerncentrale. We willen ‘m terug en het liefst zo snel mogelijk. Het zou schoon en goedkoop zijn. Bovendien willen we echt de broeikasgassen verminderen. Maar hoe veilig is kernenergie eigenlijk?**
 
 Nou, niét veilig, zo blijkt uit wetenschappelijk onderzoek. Kernenergie is levensgevaarlijk en levert ongekende risico’s voor massale groepen mensen. Dat is de ontnuchterende uitkomst van de grootste risico-analyse ooit, die Zwitserse en Engelse wetenschappers deden naar de veiligheid van kerncentrales. Hun conclusie: de risico’s zijn zó groot, dat we waarschijnlijk binnen 10 jaar, maar uiterlijk 20 jaar wederom een kernramp kunnen verwachten. En wel van de omvang als de ramp in 1986 met de centrale bij Tsjernobyl. Onderzoeksleider dr. Spencer Wheatley noemt dit risico zelfs ‘extreem hoog’. En dat schone en goedkope? Dat valt ook vies tegen.
 
@@ -44,7 +44,7 @@ De kerncentrale ging voor velen in de ban. En niet alleen door de wolk van gifti
 
 ![Bij de 450 kerncentrales op aarde, zijn 200 ongevallen geregistreerd. Onderzoekers vrezen dat dit mogelijk veel meer is en dat de IAEA de ernst verbergt.](/img/kern-werklui-reactor.jpg "Pixabay.com")
 
-Maar de laatste paar jaar is het tij gekeerd. Jongeren die in de jaren ‘80 nog demonstreerden tégen kernenergie, vertellen de jongeren van nu, dat kernenergie opeens het ei van Columbus is. De stikstof-uitstoot móet omlaag. En dat kunnen we alleen bereiken met kernenergie, zo is de nieuwe boodschap. Bovendien zitten we door de oorlog tussen Rusland en Oekraïne, óf in de kou óf in de schulden door de Russische gasrekeningen. En Tsjernobyl lijkt lang geleden. Ondertussen is de wetenschap toch wel zo ver gevorderd, dat we het weer eens kunnen proberen? Vooral industriële ondernemers en politici schudden enthousiast van ‘ja’, terwijl de rest van ons maar weer eens een vest aantrekt. 
+Maar de laatste paar jaar is het tij gekeerd. Jongeren die in de jaren ‘80 nog demonstreerden tégen kernenergie, vertellen de jongeren van nu, dat kernenergie opeens het ei van Columbus is. De broeikasgas-uitstoot móet omlaag. En dat kunnen we alleen bereiken met kernenergie, zo is de nieuwe boodschap. Bovendien zitten we door de oorlog tussen Rusland en Oekraïne, óf in de kou óf in de schulden door de Russische gasrekeningen. En Tsjernobyl lijkt lang geleden. Ondertussen is de wetenschap toch wel zo ver gevorderd, dat we het weer eens kunnen proberen? Vooral industriële ondernemers en politici schudden enthousiast van ‘ja’, terwijl de rest van ons maar weer eens een vest aantrekt. 
 
 Is kernenergie inderdaad veiliger geworden? Of willen we dit alleen maar geloven om onszelf en de industrie weer lekker op te stoken zonder ons schuldig te voelen over het milieu? Het is vooral het laatste. De veilige verwerking en opslag van radioactief afval alleen al, blijft bijvoorbeeld een groot probleem. Daar wordt aan gewerkt door de wetenschap. Maar een afdoende oplossing die we vandaag zouden kunnen toepassen, is er nog niet. We stoppen het goedje maar in verouderde, aangetaste bunkers en hopen er het beste van.
 
