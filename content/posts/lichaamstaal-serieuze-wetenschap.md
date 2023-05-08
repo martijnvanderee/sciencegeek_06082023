@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Lichaamstaal en wetenschap
+title: Lichaamstaal & wetenschap
 Subtitle: Wetenschappers waarschuwen voor pseudo-experts
 date: 2023-05-08T13:56:33.971Z
 headerPhoto: map-image-img-lichaamstaal-headerpexels-rolando-brando-2709563-jpg-bron-pexels-rolando-brando-onderschrift-lichaamstaal-header
