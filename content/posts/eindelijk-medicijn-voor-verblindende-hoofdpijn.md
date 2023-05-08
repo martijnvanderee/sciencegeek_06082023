@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Eindelijk medicijn voor verblindende hoofdpijn?
+title: Eindelijk medicijn tegen verblindende hoofdpijn?
 Subtitle: Mysterieuze ziekte IIH steeds vaker gediagnosticeerd, vooral bij jonge vrouwen
 date: 2023-05-08T11:28:04.627Z
 headerPhoto: map-image-img-iih-header-jpg-bron-pixabay-com-onderschrift-iih-header-1
