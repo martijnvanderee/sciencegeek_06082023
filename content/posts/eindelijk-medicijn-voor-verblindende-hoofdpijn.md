@@ -19,9 +19,9 @@ tags:
 ---
 **Hoofdpijnen die zó hevig zijn dat ze permanent kunnen verblinden en je leven ernstig beperken. En geen hond die er iets aan kan doen. Dat is IIH, waarvoor nog steeds geen medicatie beschikbaar is. Maar wetenschappers denken dat ze het ei van Columbus hebben.**
 
+Idiopathische Intracraniële Hypertensie wordt ook wel afgekort tot IIH, een zeldzame ziekte waarbij de druk in de hersenen zó hoog is, dat het tot ondraaglijke en veelvuldige hoofdpijnen leidt. De druk in het hoofd ontstaat omdat de hersenen te weinig hersenvocht afvoeren.
 
-
-Idiopathische Intracraniële Hypertensie wordt ook wel afgekort tot IIH, een zeldzame ziekte waarbij de bloeddruk in de hersenen zó hoog is, dat het tot ondraaglijke en veelvuldige hoofdpijnen leidt. Medicatie was er niet, voldoende onderzoek ook niet. De ziekte trof in 2020 nog 1 op de 100.000 mensen en stond daarmee lange tijd niet hoog in het prioriteitenlijstje waar kanker, hart-en vaatziekten en - vooral de laatste jaren - infectieziekten de wetenschappelijke agenda bepalen. 
+Medicatie was er niet, voldoende onderzoek ook niet. De ziekte trof in 2020 nog 1 op de 100.000 mensen en stond daarmee lange tijd niet hoog in het prioriteitenlijstje waar kanker, hart-en vaatziekten en - vooral de laatste jaren - infectieziekten de wetenschappelijke agenda bepalen. 
 
 **Medicijn in zicht tegen IIH**
 
@@ -29,7 +29,7 @@ Maar dat is veranderd. Helaas is de ziekte aan een zorgwekkende opmars bezig. He
 
 ![Medicatie tegen diabetes blijkt ook effectief in de strijd tegen IIH pijnbestrijding.](/img/iih-medicatie.jpg "Pixabay.com")
 
-Vooral jonge vrouwen tussen de 26 en 34 jaar met overgewicht hebben een hoger risico. Onder deze groep worden tegenwoordig 2 op de 10.000 gediagnoseerd met IIH. Het aantal diagnoses varieert sterk per land. Ierland bijvoorbeeld, is koploper met 3 op de 10.000 vrouwen bij wie IIH geconstateerd wordt, waarbij ook hier het aantal diagnoses jaarlijks snel toeneemt.
+De ziekte kan iedereen treffen. Maar vooral jonge vrouwen tussen de 26 en 34 jaar met overgewicht hebben een hoger risico. Onder deze groep worden tegenwoordig 2 op de 10.000 mensen gediagnoseerd met IIH. Het aantal diagnoses varieert sterk per land. Ierland bijvoorbeeld, is koploper met 3 op de 10.000 vrouwen bij wie IIH geconstateerd wordt, waarbij ook hier het aantal diagnoses jaarlijks snel toeneemt.
 
 De ziekte leidt tot ernstige hoofdpijnverschijnselen en tijdelijke of permanente blindheid. Omdat er tot op heden geen pijnverlichting mogelijk is, is het leven met IIH psychisch zeer belastend. Een team neurologen van de universiteit Birmingham is daarom begonnen met onderzoek naar pijnverlichting en symptoombestrijding. 
 
