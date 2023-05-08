@@ -18,7 +18,7 @@ tags:
   - Wat zegt je slaaphouding?
   - mimiek
 ---
-**Mensen bekijken en beoordelen elkaars lichaamstaal iedere dag. Het is een omgangsvorm, maar is het ook een wetenschap? Neurowetenschappers en psychologen menen van wel, maar ze waarschuwen ook voor de pseudo-wetenschap die de populariteit van lichaamstaal met zich meebrengt.**
+**Mensen bekijken en beoordelen elkaars lichaamstaal iedere dag. Het is een omgangsvorm, maar is het ook een wetenschap? Neurowetenschappers en psychologen menen van wel, maar ze waarschuwen ook voor de pseudo-wetenschap, die de populariteit van lichaamstaal met zich meebrengt.**
 
 Even een misverstand uit de weg ruimen: lichaamstaal is niét hetzelfde is als non-verbale communicatie. In werkelijkheid is lichaamstaal namelijk maar een specifiek en klein onderdeel van deze grote noemer. Onze kleding, haardracht, geur, mimiek en zelfs timing zijn eveneens voorbeelden van non-verbale communicatie. Denk maar aan wat je communiceert als je te laat komt opdraven voor je afspraak. Meer dan je wilt, waarschijnlijk.
 
