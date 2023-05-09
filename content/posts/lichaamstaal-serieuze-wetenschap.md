@@ -63,7 +63,7 @@ Beatrice de Gelder is professor in de cognitieve neurowetenschappen aan de Unive
 
 Gesproken taal is niet altijd mogelijk of optimaal, zoals na een beroerte. Als we merken dat spreken voor onze gesprekspartner lastig is, kijken we automatisch meer naar de handen en de armen. En begrijpen we ook echt beter wat er bedoeld wordt, zo heeft de Universiteit van Zurich aangetoond. Wetenschappelijk onderzoek naar lichaamstaal is echter niet altijd eenvoudig. Een lichaam is mobiel, heeft complexe gedragingen en is een stuk groter dan bijvoorbeeld alleen het gezicht waar onze mimiek huist. Om lichaamstaal beter te kunnen onderzoeken heeft Cambridge samen met Dartmouth College een apparaatje ontwikkeld, genaamd de Protractor. Met infrarood licht meet die Protractor de hoeken die lichamen en lichaamsdelen maken evenals de afstand tot de gesprekspartners. Het apparaat moet meetbare data gaan verzamelen. Daarmee zullen wetenschappers bijvoorbeeld per centimeter kunnen meten wat onze favoriete spreekafstand is. 
 
-**Intens gelukkig, intens verdrietig? Je gezicht lijkt het hetzelfde**
+**Intens gelukkig, intens verdrietig? Dezelfde gezichtsuitdrukking**
 
 Opvallend is daarom het onderzoek in een samenwerkingsverband van Princeton en New York University met de Universiteit Jeruzalem. Dit toonde aan dat mensen niet zo veel aan het gezicht kunnen aflezen als het gaat om intense emoties. Daarvoor hebben we echt het lichaam nodig. Intens geluk en intense pijn, liggen in de mimiek te dicht bij elkaar.  Alleen met de houding van het lichaam erbij, kunnen we makkelijk aflezen om welke emotie het gaat. 
 
