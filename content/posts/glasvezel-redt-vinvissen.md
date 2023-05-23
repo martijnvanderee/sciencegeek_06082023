@@ -28,7 +28,7 @@ Dat levert echter grote problemen op voor de veiligheid van deze walvissoort. D�
 
 **A﻿anvaringen tussen schip en walvis**
 
-Noorse wetenschappers aan de Norwegian University for Science and Technology, bekeken hoe ze de walvissen konden behoeden en kwamen al snel uit op een detectieapparaat voor schepen dat meldt, waar walvissen te vermijden. Dan moet je echter wel weten, waar de vinvissen zich begeven. En dáár komt glasvezel om de hoek kijken.
+Wetenschappers aan de Norwegian University for Science and Technology, bekeken hoe ze de walvissen konden behoeden en kwamen al snel uit op een detectieapparaat voor schepen dat meldt, waar walvissen te vermijden. Dan moet je echter wel weten, waar de vinvissen zich begeven. En dáár komt glasvezel om de hoek kijken.
 
 ![Vinvissen en scheepvaart zitten steeds vaker in elkaar vaar- en zwemwateren. Met desastreuze gevolgen voor de vriendelijke reuzen.](/img/vinvis-2.jpg "Pixabay.com")
 
