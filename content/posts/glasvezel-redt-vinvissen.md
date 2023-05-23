@@ -22,19 +22,11 @@ tags:
 ---
 **Noorse wetenschappers hebben een manier bedacht om vinvissen te redden van aanvaringen met schepen. En daarvoor gebruiken zij glasvezelkabels.**
 
-
-
 Het noorden van Noorwegen wordt langzamerhand een vinvis hotspot. Door het veranderde klimaat en het afnemende zeeijs, verblijven vinvissen steeds vaker het hele jaar in de Noorse wateren en verkennen ze in deze regio steeds meer routes voor zichzelf.
 
-Dat levert echter grote problemen op voor de veiligheid van deze walvissoort.
+Dat levert echter grote problemen op voor de veiligheid van deze walvissoort. D﻿e scheepvaart neemt namelijk ook jaarlijks toe en de lokale autoriteiten van Spitsbergen verwachten het passeren van 35 schepen volgend jaar. Dat klinkt niet veel, maar voor de vinvissen zijn het er 35 te veel. Het risico op aanvaringen tussen oceaanreuzen en schepen neemt aanzienlijk toe. Deze aanvaringen leiden dikwijls tot de dood van de walvis.
 
-
-
-**Aanvaringen tussen schip en vinvis**
-
-Het mariene verkeer neemt namelijk ook jaarlijks toe en de lokale autoriteiten van Spitsbergen verwachten het passeren van 35 schepen volgend jaar. Dat klinkt niet veel, maar voor de vinvissen zijn het er 35 te veel. Het risico op aanvaringen tussen oceaanreuzen en schepen neemt aanzienlijk toe. Deze aanvaringen leiden dikwijls tot de dood van de walvis.
-
-
+**A﻿anvaringen tussen schip en walvis**
 
 Noorse wetenschappers aan de Norwegian University for Science and Technology, bekeken hoe ze de walvissen konden behoeden en kwamen al snel uit op een detectieapparaat voor schepen dat meldt, waar walvissen te vermijden. Dan moet je echter wel weten, waar de vinvissen zich begeven. En dáár komt glasvezel om de hoek kijken.
 
@@ -45,8 +37,6 @@ Het traceren van vinvissen is nog niet zo eenvoudig als het lijkt. De onderzoeke
 **Lasersignalen lokaliseren vinvis én geven dit door aan scheepvaart**
 
 Dat konden zij en wel met behulp van DAS. DAS staat voor Distributed Acoustic Sensing, waarbij met een laser uitgaande en terugkomende pulses geregistreerd worden. De laser kan zo meten of er zich bepaalde objecten in de straal bevinden, zoals vinvissen. Omdat de kabels honderden kilometers lang zijn, konden de onderzoekers de vinvissen in het hele gebied, het hele jaar door lokaliseren tot op 100 meter nauwkeurig.
-
-
 
 Met deze nauwkeurigheid kan het team een systeem voor schepen ontwerpen dat gekoppeld wordt aan de glasvezel-tracking van de vinvissen. Komt een vinvis op 100 meter in de buurt van een schip, dat slaat het systeem alarm en laat het precies zien hoe de vinvis vermeden kan worden.
 
