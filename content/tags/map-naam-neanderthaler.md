@@ -1,3 +1,3 @@
 ---
-naam: neanderthaler
+naam: Neanderthaler
 ---
