@@ -62,6 +62,8 @@ We kunnen ontspannen. En dat heeft weer tot gevolg dat we bijvoorbeeld dieper of
 
 Dus maak tijd en wees creatief met je budget: máák dat tripje. Vind de afleiding, de beweging, de nieuwe indrukken en de ontspanning. Je leeft langer, gezonder én gelukkiger!
 
+(﻿Als je trouwens nog inspiratie nodig hebt en je houdt van cultuur en geschiedenis, onderzoek dan ***[hier](/hierom-werden-huizen-in-felle-kleuren-geverfd)*** even of een stedentrip naar stad met gekleurde huisjes leuk is voor jou!)
+
 *Gepubliceerd op 14 april 2023*
 
 *Bronnen: Edith Cowan University, Perth Australië - European Society of Cardiology- Universiteit Helsinki, Finland - Department of Psychology at the State University of New York - Department of Psychiatry at the University of Pittsburgh*
