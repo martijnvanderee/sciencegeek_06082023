@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: Hierom werden huizen in felle kleuren geverfd
+title: Hierom verfde men huizen in felle kleuren!
 Subtitle: Politiek, cultuur en het weer creëerden de prachtigste steden
 date: 2023-05-25T07:50:50.589Z
 headerPhoto: map-image-img-kleurige-huisjes-header-jpg-bron-pixabay-com-onderschrift-gekleurde-huisjes-header
