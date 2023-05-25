@@ -61,9 +61,7 @@ Er is ook een ander verhaal, dat met name op gaat voor de huizen op Curaçao. De
 
 De reden waarom mensen in het verleden besloten hun huizen een kleurtje te geven, verschilt dus van land tot land. Vast staat wel dat de kleurige dorpen tegenwoordig nog in stand worden gehouden, omdat het simpelweg mooi wordt gevonden en het toerisme genereert. 
 
-(﻿En als je, net als ons, nu zin hebt om die leukheid zelf te bezoeken, hebben we nog meer wetenschappelijk goed nieuws. Want wist je dat zelfs een korte break al wonderen doet voor je gezondheid? Daarover kun je ***[hier](/vakantie-super-heilzaam)*** meer vinden!)
-
-
+(﻿En als je, net als ons, nu zin hebt om die leukheid zelf te bezoeken, hebben we nog meer wetenschappelijk goed nieuws. Want wist je dat zelfs een korte break al wonderen doet voor je gezondheid? Daarover kun je ***[hier](/vakantie-super-heilzaam)***meer vinden!)
 
 *Gepubliceerd op 25 mei 2023*
 
