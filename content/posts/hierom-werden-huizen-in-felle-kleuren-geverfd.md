@@ -59,7 +59,11 @@ Ook op de Caribische eilanden zijn veel steden en dorpen veelkleurig. Daar gaan 
 
 Er is ook een ander verhaal, dat met name op gaat voor de huizen op Curaçao. De huizen waren in de 18e eeuw nog gewoon wit, om het zonlicht te reflecteren en de woningen koel te houden. De arts Benjamin de Sola bedacht zich in het begin van de 19e eeuw, dat er wel heel veel mensen met oogklachten bij hem kwamen. Zouden die klachten iets te maken hebben met het felle witte licht waar hele steden en dorpen in baden? Hij pleitte ervoor om ieder gebouw een ander kleurtje te geven, om het licht te breken. Om de reflecterende werking te behouden, werd gekozen voor lichte pasteltinten. De gouverneur Albert Kikkert zou bovendien aan migraine lijden en de witte steden en dorpen de schuld geven. Kikkert had wel oren naar de ideeën van De Sola en besloot de witte verf in 1817 te verbieden. Pas in 1932 werd de wet weer afgeschaft.
 
-De reden waarom mensen in het verleden besloten hun huizen een kleurtje te geven, verschilt dus van land tot land. Vast staat wel dat de kleurige dorpen tegenwoordig nog in stand worden gehouden, omdat het simpelweg mooi wordt gevonden en het toerisme genereert.
+De reden waarom mensen in het verleden besloten hun huizen een kleurtje te geven, verschilt dus van land tot land. Vast staat wel dat de kleurige dorpen tegenwoordig nog in stand worden gehouden, omdat het simpelweg mooi wordt gevonden en het toerisme genereert. 
+
+(﻿En als je, net als ons, nu zin hebt om die leukheid zelf te bezoeken, hebben we nog meer wetenschappelijk goed nieuws. Want wist je dat zelfs een korte break al wonderen doet voor je gezondheid? Daarover kun je ***[hier](/vakantie-super-heilzaam)*** meer vinden!)
+
+
 
 *Gepubliceerd op 25 mei 2023*
 
