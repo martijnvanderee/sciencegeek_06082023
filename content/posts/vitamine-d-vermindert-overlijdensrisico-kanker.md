@@ -38,8 +38,6 @@ Met andere woorden: het lichaam maakt met vitamine D3 en alléén met vitamine D
 
 De Duitse onderzoekers pleiten dan ook voor voorlichting en stimuleren van het innemen van vitamine D, vooral onder ouderen. Zij wijzen er op dat de vitamines in een normale dosis, veilig en goedkoop zijn. En dat dit dus een eenvoudige manier is voor mensen om zichzelf tegen een dodelijk kankerverloop te beschermen.
 
-
-
-*Gepubliceerd op 25 mei 2023*
+*Gepubliceerd op 28 mei 2023*
 
 *Bron: German Cancer Research Center*
