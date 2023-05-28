@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
-title: Vitamine D vermindert overlijdensrisico kanker
-Subtitle: Massaal onderzoek met 100.000 testpersonen bewijst belang van dagelijkse inname
+title: Vitamine D bestrijdt kanker
+Subtitle: 100.000 testpersonen bewijzen belang dagelijkse inname
 date: 2023-05-23T16:37:17.629Z
 headerPhoto: map-image-img-vitamine-d-header-pexels-kampus-production-805405-jpg-bron-pexels-kampus-productions-onderschrift-vitamine-d-header
 onderwerp: human
