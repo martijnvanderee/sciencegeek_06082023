@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Het collectieve brein bewezen
-Subtitle: Een overkoepelend onzichtbaar brein dat we allemaal delen
+Subtitle: Een overkoepelend onzichtbaar denkvermogen dat we allemaal delen
 date: 2022-07-03T16:55:22.635Z
 headerPhoto: map-image-img-collectief-brein-jpg-bron-pixabay-com-onderschrift-collectief-brein-header
 onderwerp: human
