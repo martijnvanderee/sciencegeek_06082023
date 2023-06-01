@@ -1,6 +1,7 @@
 ---
 templateKey: post.template
-title: "Collectief brein: geheim van hoge donaties en meer agressie"
+title: Het collectieve brein bewezen
+Subtitle: Een overkoepelend onzichtbaar brein dat we allemaal delen
 date: 2022-07-03T16:55:22.635Z
 headerPhoto: map-image-img-soldaten-cb-jpg-bron-pixabay-com-onderschrift-hetzelfde-kostuum-en-hetzelfde-doel-in-het-leger-wordt-het-collectief-brein-geoptimaliseerd
 onderwerp: human
