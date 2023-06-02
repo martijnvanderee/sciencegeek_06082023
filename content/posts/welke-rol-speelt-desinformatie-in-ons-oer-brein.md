@@ -20,7 +20,7 @@ tags:
   - oermens
   - amandelkern
 ---
-**Sex, gevaar en de bedreiging van kinderen vormen de perfecte cocktail om het alarmsysteem in onze hersenen te activeren. En het zijn ook précies deze onderwerpen in desinformatie, die als geen ander onze amygdalae een flinke oplawaai geven en het moeilijk maken voor de rest voor ons brein, onze angsten te reguleren.**
+**Seks, gevaar en de bedreiging van kinderen vormen de perfecte cocktail om het alarmsysteem in onze hersenen te activeren. En het zijn ook précies deze onderwerpen in desinformatie, die als geen ander onze amygdalae een flinke oplawaai geven en het moeilijk maken voor de rest voor ons brein, onze angsten te reguleren.**
 
 Weerzin en paniek hebben een nieuw thema anno 2023 in Nederland. Het betreft de veiligheid van onze kinderen, de ultieme angst van de meeste mensen. En angst drukt als geen ander op het alarmsysteem in ons brein. ‘Op de knop drukken’ zegt men in het Engelse taalgebied als iets of iemand je overstuur maakt. (Someone pushes your buttons). Maar welke knoppen hebben we het dan over? En hoe kunnen anderen daar nu handig op drukken? De knoppen waarom het voornamelijk gaat, zijn de amygdalae en het drukken kan effectief gebeuren met de juiste alarmen, zoals bedreigende informatie. We nemen je even mee op een reis door onze hersenen!
 
@@ -46,7 +46,7 @@ Met andere woorden: we hebben nogal wat brainpower nodig van de andere neuronen 
 
 **Neurale alarmcentrale reageert automatisch op dreiging**
 
-De amygdalae zijn dus behoorlijk machtige kerntjes en niet alleen als het gaat om angst en agressie. Ze doen wel meer dan alleen maar angst detecteren: ze spelen ook een rol in het neurale beloningssysteem en winden ons seksueel op. Sexuele driften, agressie, veiligheid, gevaar: de amygdalae zijn er maar druk mee. Ze verwerken zintuiglijke ervaringen razendsnel en gaan dan met de rest van je brein aan de bak. Nou ja, enigszins dus. Je brein is misschien geen dictatuur met je amygdalae op de troon. Maar om nou te spreken van een prima functionerende democratie: dat gaat ook wel wat ver. De amygdalae opereren namelijk wel degelijk af en toe voornamelijk op eigen houtje, zoals ook het onderzoek naar boosheid en agressie aan de universiteit van Genève aantoonde. Bovendien weten we dat de reactie van de amygdalae op angst- en gevaar prikkels reflexmatig en volautomatisch is. 
+De amygdalae zijn dus behoorlijk machtige kerntjes en niet alleen als het gaat om angst en agressie. Ze doen wel meer dan alleen maar angst detecteren: ze spelen ook een rol in het neurale beloningssysteem en winden ons seksueel op. Seksuele driften, agressie, veiligheid, gevaar: de amygdalae zijn er maar druk mee. Ze verwerken zintuiglijke ervaringen razendsnel en gaan dan met de rest van je brein aan de bak. Nou ja, enigszins dus. Je brein is misschien geen dictatuur met je amygdalae op de troon. Maar om nou te spreken van een prima functionerende democratie: dat gaat ook wel wat ver. De amygdalae opereren namelijk wel degelijk af en toe voornamelijk op eigen houtje, zoals ook het onderzoek naar boosheid en agressie aan de universiteit van Genève aantoonde. Bovendien weten we dat de reactie van de amygdalae op angst- en gevaar prikkels reflexmatig en volautomatisch is. 
 
 ![Hoe zet je het brein aan? Simpel: door de alarmcentrale in te schakelen met een melding op gevaar!](/img/desinformatie-brein-lampje.jpg "Pixabay.com")
 
@@ -60,7 +60,7 @@ Bijvoorbeeld in onderstaande foto. Waar kijk je het eerst naar? En welke foto pr
 
 ![](/img/desinformatie-collage.jpg "Pixabay.com")
 
-Hoe bedreigender en emotioneler de informatie (in bovenstaand geval: het plaatje), des te steviger worden de amygdalae geprikkeld. En een combinatie van sex, gevaar en kinderen is een perfecte alarm-combinatie voor je amandelkernen. Hun reactie op bedreiging op gevaar zal volautomatisch gaan, want dat is nu eenmaal de aard van het beestje. En de eigenaren van de amygdalae zullen dus willen vechten of vluchten.
+Hoe bedreigender en emotioneler de informatie (in bovenstaand geval: het plaatje), des te steviger worden de amygdalae geprikkeld. En een combinatie van seks, gevaar en kinderen is een perfecte alarm-combinatie voor je amandelkernen. Hun reactie op bedreiging op gevaar zal volautomatisch gaan, want dat is nu eenmaal de aard van het beestje. En de eigenaren van de amygdalae zullen dus willen vechten of vluchten.
 
 Echter: als dat zo is, waarom hangen we dan niet massaal gillend in de gordijnen bij het zoveelste alarm-verhaal over de veiligheid van onze kinderen of onze gezondheid? Dáár komt dus het belang van de prefrontale cortex die kan afwegen en reguleren. Die prefrontale cortex kan wél goed omgaan met grafiekjes en statistieken. Bovendien is deze ook geïnteresseerd in waar de onheilstijding vandaan komt en of deze wel klopt. 
 
