@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Huishouden maakt mannen hot, in de ogen van vrouwen
-Subtitle: Lapzwansen krijgen weinig sex
+Subtitle: Lapzwansen krijgen weinig seks
 date: 2023-03-21T14:49:04.327Z
 headerPhoto: map-image-img-lapzwans-libido-header-jpg-bron-nathan-cowley-onderschrift-libido-lapzwans-header
 onderwerp: quirky
@@ -17,9 +17,9 @@ tags:
   - huishouden
   - huishoudelijke taken
 ---
-**Mannen die de stofzuigen en de ramen lappen, worden sexier gevonden door hun vrouw. Deze stellen hebben meer sex en zijn gelukkiger. Vrouwen die thuis met een lui “man-kind” zitten, vinden hun man afstotelijker en hebben minder zin in sex.**
+**Mannen die de stofzuigen en de ramen lappen, worden sexier gevonden door hun vrouw. Deze stellen hebben meer seks en zijn gelukkiger. Vrouwen die thuis met een lui “man-kind” zitten, vinden hun man afstotelijker en hebben minder zin in seks.**
 
-Canadese wetenschappers zijn er maar druk mee: de sex-drive van vrouwen. Ook in 2015 deden zij al onderzoek naar het verband tussen een gelukkig seksleven en de verdeling van huishoudelijke taken. Toen was het de universiteit in Alberta die maar liefst 1.338 Europese stellen onderzocht en al reeds tot dezelfde conclusie kwam: zowel mannen als vrouwen zijn het gelukkigst in een relatie waarbij ook de man zijn klauwtjes laat wapperen. Overigens was dat onderzoek toen ook niet zomaar een momentopname. De onderzoekers kwamen een jaar later terug om polshoogte te nemen, zullen we maar zeggen. Hun bevindingen waren duidelijk: de stellen die het een jaar terug al lekker geregeld hadden in het huishouden, waren nog steeds het gelukkigst. Ook in bed.
+Canadese wetenschappers zijn er maar druk mee: de sexdrive van vrouwen. Ook in 2015 deden zij al onderzoek naar het verband tussen een gelukkig seksleven en de verdeling van huishoudelijke taken. Toen was het de universiteit in Alberta die maar liefst 1.338 Europese stellen onderzocht en al reeds tot dezelfde conclusie kwam: zowel mannen als vrouwen zijn het gelukkigst in een relatie waarbij ook de man zijn klauwtjes laat wapperen. Overigens was dat onderzoek toen ook niet zomaar een momentopname. De onderzoekers kwamen een jaar later terug om polshoogte te nemen, zullen we maar zeggen. Hun bevindingen waren duidelijk: de stellen die het een jaar terug al lekker geregeld hadden in het huishouden, waren nog steeds het gelukkigst. Ook in bed.
 
 **Tweede onderzoek bewijst sexloosheid luie man**
 
