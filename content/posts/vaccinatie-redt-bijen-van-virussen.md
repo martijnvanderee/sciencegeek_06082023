@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: '"Vaccinatie" redt bijen van virussen'
+title: '"Vaccinatie" redt bij van virus'
 Subtitle: Een preventief medicijn door het suikerwater van de kolonie
 date: 2023-07-03T15:55:27.398Z
 headerPhoto: map-image-img-bij-medicijn-header-jpg-bron-pixabay-com-onderschrift-bij-medicijn-header
