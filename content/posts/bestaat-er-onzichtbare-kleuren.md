@@ -90,6 +90,8 @@ De theorie van kleur-opponentie verklaart het als volgt: De zenuwcellen die de k
 
 Kunnen we de zenuwbanen en de hersenen voor de gek houden en kijken of wé toch 2 auto’s tegelijk op die rijbaan kunnen proppen? Dat hebben Tsou en Billock dus geprobeerd. Ze zijn altijd terughoudend geweest over de details van het experiment. Hun onderzoeksrapporten vallen onder de geheimhouding van USA defensie, en ze zijn niet bereikbaar voor een toelichting. 
 
+![Normaliter kan er maar één kleur tegelijk over een zenuwbaan reizen. Alleen rood of groen dus. Met een neurologisch trucje past er misschien nog wel een groen "autootje" bij!](/img/verboden-kleuren-11-rode-auto-fiat-bos.jpg "Pixabay.com")
+
 We klopten daarom aan bij neurowetenschapper Jeroen Goossens van het Donders Instituut aan de Radboud Universiteit. Hij vindt het concept van onmogelijke kleuren kunnen zien, nog niet zo gek. Hij heeft zelf veel hersenonderzoek gedaan naar het zien van licht. “Het klasssieke idee is dat blauw en geel met elkaar in competitie gaan en dat één van die kleuren het wint in signaaloverdracht. Als je ervoor zorgt dat zowel het geel als het blauw even helder is, zorg je voor gelijkspel voor de zenuwen.” Hiermee worden zowel het blauwe als het gele autootje tóch tegelijkertijd de rijbaan op gepropt.
 
 **Vaste blik en gelijke kleurgevoeligheid belangrijk om verboden kleuren te kunnen zien**
@@ -110,7 +112,7 @@ Nu is het wel de vraag wat er gebeurt met blauwgeel, infrarood of ultraviolet al
 
 **Experiment en handleiding voor het zien van verborgen kleuren**
 
-Maar zoals beloofd, willen we onze lezers de kans geven óók de kleuren blauwgeel en roodgroen te zien. Professor Goossens is zo goed geweest 2 vlakken te componeren met 4 kleuren. Precies als de zenuwbanen naar onze hersenen. Het blauw is net zo helder als het geel en het rood net zo helder als het groen. Wil je blauwgeel of roodgroen zien? 
+Maar zoals beloofd, willen we onze lezers de kans geven óók de kleuren blauwgeel en roodgroen te zien. Dr. Goossens is zo goed geweest 2 vlakken te componeren met 4 kleuren. Precies als de zenuwbanen naar onze hersenen. Het blauw is net zo helder als het geel en het rood net zo helder als het groen. Wil je blauwgeel of roodgroen zien? 
 
 ![De verboden kleur blauwgeel.](/img/verboden-kleuren-10-blauwgeel.jpg "Jeroen Goossens, Radboud Universiteit")
 
