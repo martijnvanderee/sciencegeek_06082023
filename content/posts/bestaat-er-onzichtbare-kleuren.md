@@ -17,6 +17,11 @@ tags:
   - vlinders
   - bijen
   - chromaticiteit
+  - hersenonderzoek
+  - Kunnen mensen alle kleuren zien?
+  - Zijn er kleuren die mensen niet kunnen zien?
+  - roodgroen
+  - geelblauw
 ---
 **Er bestaan kleuren, die wij mensen niet zien en die we ons ook niet kunnen voorstellen. Ze zijn onzichtbaar voor ons. Die kleuren worden ook wel onmogelijke of verboden kleuren genoemd. Slechts 6 mensen op de hele aardbol hebben deze kleuren ooit gezien, namelijk in een wetenschappelijk experiment.**
 
@@ -34,6 +39,8 @@ Het zichtbare spectrum bevindt zich voor mensen tussen een golflengte van ongeve
 
 Het licht dat wij mensen waarnemen is elektromagnetische straling. Röntgenstraling en gamma-stralen bijvoorbeeld, behoren óók tot het elektromagnetische spectrum, maar zijn voor mensen niet zichtbaar en hoogstwaarschijnlijk ook niet voor dieren. Wel zijn er wetenschappelijke aanwijzingen dat palingen, sommige vlinders en gnoes beschikken over zintuiglijke receptoren waardoor zij magnetische straling in het aardoppervlak kunnen waarnemen gedurende migraties over lange afstanden.
 
+![Mensen kunnen infrarode straling niet zien, maar wel voelen in de vorm van warmte. Slangen hebben echter receptoren waardoor zij infrarood wél kunnen waarnemen.](/img/verboden-kleuren-3-slang-infrarood.jpg "Pixabay.com")
+
 Alle dieren en mensen hebben in ieder geval specifieke straling op specifieke golflengten nodig om kleuren te kunnen zien. Maar dan zijn we er nog niet. We hebben ook de juiste apparatuur nodig, namelijk onze ogen én ons brein. Het menselijk oog is daarom voorzien van kleurreceptoren, die we ook wel kegeltjes noemen. De kegeltjes bevinden zich op het netvlies en zijn gevoelig voor golflengten straling, die we met blauw, rood en groen associëren.  
 
 **\
@@ -43,7 +50,7 @@ Echter: er bestaat straling, die voor dieren wél waar te nemen is, maar voor me
 
 ![Deze vlinder kan ultraviolet zien. En nee, dat is niet dezelfde kleur als het paars dat jij ziet. Of denkt te zien.](/img/verboden-kleuren-2-vlinder.jpg "Pixabay.com")
 
-Ook vlinders kunnen UV-licht zien met een speciale receptor. Waar mensen 3 soorten kegeltjes hebben, hebben de meeste vlinders er namelijk 4. We hebben het over de meeste vlinders, want Japanse wetenschappers hebben een vlinder onderzocht met maar liefst 15 verschillende kleurreceptoren. De vlinder heet Graphium sarpedon en het beestje kan dus kleuren zien, waarbij wij met onze miezerige 3 kegeltjes niets kunnen voorstellen. “Waarschijnlijk zijn dat niet alleen UV-receptoren, maar ook verschillende kleuren blauw en groen. Waar wij amper verschil zouden zien tussen 2 bijna identieke kleuren blauw, ziet de Graphium waarschijnlijk 2 totaal verschillende kleuren”, aldus Van der Kooi.
+Ook vlinders kunnen UV-licht zien met een speciale receptor. Waar mensen 3 soorten kegeltjes hebben, hebben de meeste vlinders er namelijk 4. We hebben het over de meeste vlinders, want Japanse wetenschappers hebben een vlinder onderzocht met maar liefst 15 verschillende kleurreceptoren. De vlinder heet *Graphium sarpedon* en het beestje kan dus kleuren zien, waarbij wij met onze miezerige 3 kegeltjes niets kunnen voorstellen. “Waarschijnlijk zijn dat niet alleen UV-receptoren, maar ook verschillende kleuren blauw en groen. Waar wij amper verschil zouden zien tussen 2 bijna identieke kleuren blauw, ziet de *Graphium* waarschijnlijk 2 totaal verschillende kleuren”, aldus Van der Kooi.
 
 **Je ziet geen paars, je máákt paars. Met je hersenen.**
 
@@ -83,13 +90,13 @@ De theorie van kleur-opponentie verklaart het als volgt: De zenuwcellen die de k
 
 Kunnen we de zenuwbanen en de hersenen voor de gek houden en kijken of wé toch 2 auto’s tegelijk op die rijbaan kunnen proppen? Dat hebben Tsou en Billock dus geprobeerd. Ze zijn altijd terughoudend geweest over de details van het experiment. Hun onderzoeksrapporten vallen onder de geheimhouding van USA defensie, en ze zijn niet bereikbaar voor een toelichting. 
 
-![De oogbal beweegt. Waardoor het lastig is de blik te fixeren. En dát is wel een voorwaarde om verboden kleuren te kunnen zien.](/img/verboden-kleuren-8-oogbal.jpg "Pixabay.com")
-
 We klopten daarom aan bij neurowetenschapper Jeroen Goossens van het Donders Instituut aan de Radboud Universiteit. Hij vindt het concept van onmogelijke kleuren kunnen zien, nog niet zo gek. Hij heeft zelf veel hersenonderzoek gedaan naar het zien van licht. “Het klasssieke idee is dat blauw en geel met elkaar in competitie gaan en dat één van die kleuren het wint in signaaloverdracht. Als je ervoor zorgt dat zowel het geel als het blauw even helder is, zorg je voor gelijkspel voor de zenuwen.” Hiermee worden zowel het blauwe als het gele autootje tóch tegelijkertijd de rijbaan op gepropt.
 
 **Vaste blik en gelijke kleurgevoeligheid belangrijk om verboden kleuren te kunnen zien**
 
 Om mensen in een experiment de verboden kleuren te laten zien,  benadrukt Goossens dat het belangrijk is om de focus stabiel te houden. “De oogbal maakt altijd kleine bewegingen en het netvlies dus ook. Een consistente focus op kleurvlakken is daarom lastig. Spiegels die meebewegen met die kleine bewegingen, fixeren de blik op het kleurvlak, zodat deze als het ware vastgeplakt wordt op het netvlies.”
+
+![De oogbal beweegt voortdurend. En een gefixeerde blik is nou juist een voorwaarde om een verboden kleur te kunnen zien.](/img/verboden-kleuren-8-oogbal.jpg "Pixabay.com")
 
 Maar ook dan nog, zal het lastig zijn om het experiment te laten slagen. Er moet nog een derde voorwaarde zijn. “Ze hebben niet gekozen voor toevallige deelnemers. Maar voor deelnemers die beschikken over receptoren met een grote gelijke gevoeligheid. Als jouw blauwreceptor namelijk veel gevoeliger is dan je groenreceptor, werkt het experiment natuurlijk niet. Dan wordt het geel alsnog verdrongen. Maar als je mensen hebt, die net zo gevoelig zijn voor geel als voor blauw, dan heb je een grotere slagingskans. Onder die voorwaarden kan het inderdaad dat men nieuwe kleuren heeft waargenomen”, aldus Goossens.
 
@@ -113,6 +120,6 @@ Ga dan met je neus óp het blauwgele vlak op je scherm zitten. Je neus op de sch
 
 Of het aan onze kegeltjes ligt of aan onze hersenen, sommige kleuren zullen voor de meeste stervelingen nooit te zien zijn. Maar onder de juiste omstandigheden lijkt het een enkeling dus wel gegeven. 
 
-Gepubliceerd op 8 juli 2023
+*Gepubliceerd op 8 juli 2023*
 
-Bronnen: Seeing Forbidden Colours door  Brian Tsou & Vincent Billock - dr. J. Goossens, Radboud Universiteit - dr. C. van der Kooi, Rijksuniversiteit Groningen
+*Bronnen: Seeing Forbidden Colours door  Brian Tsou & Vincent Billock - dr. J. Goossens, Radboud Universiteit - dr. C. van der Kooi, Rijksuniversiteit Groningen*
