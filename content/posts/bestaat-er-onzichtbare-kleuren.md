@@ -82,7 +82,7 @@ Maar waarom kunnen we geen geelblauw zien? Of roodgroen? Wat maakt deze kleuren 
 
 De kegels geven informatie over hun blauwe, groene en rode receptoren door aan de zenuwcellen. De zenuwcellen zenden op hun beurt weer de kleursignalen door naar de hersenen. In dié informatieoverdracht, gebeurt er iets bijzonders. De zenuwcellen maken er opeens 4 kleuren van: namelijk niet alleen blauw, groen en rood, maar ook geel. En dán ontstaat er een probleem.
 
-![Zoals auto's op deze rijksweg zoeven, zo transporten de zenuwbanen de kleursignalen naar de hersenen. En er is slechts ruimte voor rood óf groen.](/img/verboden-kleuren-7-autobaan.jpg "Pixabay.com")
+![Zoals auto's op deze rijksweg zoeven, zo transporten de zenuwbanen de kleursignalen naar de hersenen. Één baan biedt ruimte voor rood óf groen. De andere voor blauw óf geel.](/img/verboden-kleuren-7-autobaan.jpg "Pixabay.com")
 
 De theorie van kleur-opponentie verklaart het als volgt: De zenuwcellen die de kleurinformatie naar het brein transporteren maken gebruik van slechts 2 zenuwbanen. 1 baan is gereserveerd voor de kleuren blauw én geel. De ander voor rood én groen. Dus stel je voor: je hebt een rijksweg met slechts 2 autobanen. Op de ene baan mogen blauwe en gele auto’s rijden, op de ander alleen rode of groene auto’s. De rijbanen zijn zo smal dat er slechts 1 auto in de breedte overheen kan rijden. Zo “rijden” de zenuwbanen ook de kleurinformatie naar onze hersenen. We kunnen geen blauw en geel tegelijk zien, omdat er maar 1 kleur tegelijkertijd overheen kan. Dus óf blauw óf geel. En groen en rood tegelijkertijd lukt ook niet, daarom wordt het bruin. 
 
@@ -122,6 +122,6 @@ Ga dan met je neus óp het blauwgele vlak op je scherm zitten. Je neus op de sch
 
 Of het aan onze kegeltjes ligt of aan onze hersenen, sommige kleuren zullen voor de meeste stervelingen nooit te zien zijn. Maar onder de juiste omstandigheden lijkt het een enkeling dus wel gegeven. 
 
-*Gepubliceerd op 8 juli 2023*
+*Gepubliceerd op 7 juli 2023*
 
 *Bronnen: Seeing Forbidden Colours door  Brian Tsou & Vincent Billock - dr. J. Goossens, Radboud Universiteit - dr. C. van der Kooi, Rijksuniversiteit Groningen*
