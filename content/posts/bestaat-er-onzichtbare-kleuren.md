@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Bestaan er onzichtbare kleuren?
-Subtitle: Hoe ziet ultraviolet, blauwgeel of roodgroen eruit?
+Subtitle: Hoe zien ultraviolet, blauwgeel of roodgroen eruit?
 date: 2023-07-03T16:05:34.314Z
 headerPhoto: map-image-img-verboden-kleuren-header-jpg-bron-pixabay-com-onderschrift-verboden-kleuren-header
 onderwerp: nature
