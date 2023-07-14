@@ -23,11 +23,9 @@ tags:
   - neurodivergent
   - neurotypisch
 ---
-**Piekeren, rusteloosheid en dwangmatige gedachten: we hebben er allemaal weleens last van. Maar vooral voor mensen met autisme kan de eigen geest soms aanvoelen als een hamsterrad en zijzelf als de hamster, die er maar in blijft rond trappen. Kunnen we het rad ook stilzetten? **
+**P﻿iekeren, rusteloosheid en dwangmatige gedachten. Veel mensen hebben er wel eens last van. Maar voor mensen met autisme, voelt het eigen hoofd wel eens als een hamsterwiel en zijzelf als de hamster. Hoe zetten we dat ding eigenlijk stil?**
 
 Volgens een onderzoek naar rust en gedachten van de Vrije Universiteit Amsterdam, ervaren mensen met autisme rust beduidend anders dan mensen zonder autisme. De onderzoekers lieten in totaal een groep van 178 mensen rust nemen van 5 minuten, met de ogen gesloten. De deelnemers vulden daarna vragenlijsten in en de wetenschappers vergeleken de antwoorden van de deelnemers met autisme met die van zonder autisme.
-
-
 
 **Mens met autisme beleeft rust anders**
 
@@ -47,21 +45,13 @@ Interessant daarbij is dat mensen met ASS aangeven, veel minder gevoelens van ru
 
 (Interessant in dit verband is misschien ook het onderzoek naar lichaamstaal en de duiding daarvan door mensen met autisme. Mensen met autisme vinden het lastig meerdere prikkels tegelijkertijd te verwerken en te duiden. Als een persoon rustig spreekt, maar hevige gebaren maakt, levert dit voor mensen met autisme meer verwarring op dan voor anderen. Meer over dit onderzoek, kun je ***[hier](/lichaamstaal-serieuze-wetenschap)*** lezen)
 
-
-
 Last but not least: als mensen met autisme nadenken over een gebeurtenis of gesprek, richten zij zich vooral op de oorzaak en de herkomst. “Hoe had dit kunnen gebeuren?” waarbij zij steeds verder een stapje terug gaan. Een gebeurtenis komt door factor X. Waardoor zij factor X gaan herleiden naar factor Y enzovoort. Mensen zonder autisme richten zich meer op de oplossing. “Hoe kan ik dit voorkomen?”
-
-
 
 **Uit het hamsterrad: tips voor meer rust**
 
 Maar nu we weten hóe het piekeren en de volle geest tot stand komt, weten we dan ook hoe we dit kunnen verminderen? Daar hebben deskundigen inderdaad ideeën bij. Zij baseren zich daarbij op de bevindingen van onderzoeken, zoals het lastig verwerken van verschillende prikkels tegelijk en de neiging veel te blijven indelen en herleiden om zo vat te  krijgen.
 
-
-
 ### Tips voor een rustiger geest:
-
-
 
 1. ***Zorg voor een positieve sensorische prikkel bij het piekeren.***
 
@@ -72,8 +62,6 @@ Hierbij kun je denken aan een zacht, warm dekentje of een warme kruik als het ko
 Iets eten of drinken kan ook een sterke sensorische prikkel zijn. Een kopje warme kalmerende kruidenthee of een lekker ijsje als het warm is. Crackers, wortels of iets ongezonder: lollies. Je bent er fysiek mee bezig en het biedt een positieve afleiding. 
 
 Bovendien stimuleert een sensorische prikkel het vermogen om bij een emotie te komen.
-
-
 
 2. ***Geef het piekeren een plek zonder schuldgevoel, maar bijvoorbeeld met een tijdlimiet.***
 
@@ -87,25 +75,17 @@ Schrijven is daarbij een prima middel. Wat zit je het meest dwars? En wat daarna
 
 Staat er iets op, wat je je kunt opzoeken of kunt vragen aan iemand? Dan kun je het doorstrepen. Je kunt de grammen of schrijfsels bewaren voor latere piekermomenten. ‘Wacht eens even: hier heb ik al eens over gepiekerd! En toen is het ook goed afgelopen!’ 
 
-
-
 4. ***Probeer iedere zin/ gedachte te beginnen met: ‘Ik voel…” .***
 
 Dat helpt vooral in combinatie met het opschrijven en de sensorische prikkel. 
-
-
 
 5. ***Bedenk dat het niet erg is, als ‘voelen’ niet meteen lukt.***
 
 Onderzoek wijst uit dat gedachten en gevoelens géén tegengestelden van elkaar zijn! Maar eerder samenwerkende partners. (Hoe dat precies werkt, lees je ***[hier](/de-boze-maar-sociale-homo-sapiens)*** in dit artikel over boosheid.) Zie het ‘proberen te voelen’ dus niet als een onmogelijke tegenstander van je gedachten. Maar als een beste maatje van je gedachten.
 
-
-
 6. ***Wees je eigen toverfee.***
 
 Als je een toverstaf had, wat zou je dan veranderen? Schrijf het op en kijk er nog eens naar. Misschien is je toverstaf wel makkelijker in de praktijk te brengen dan je denkt. Misschien kun je de negatieve prikkel vermijden of veranderen.
-
-
 
 7. ***Zoek het gezelschap van dieren op.***
 
@@ -115,13 +95,9 @@ Dieren kunnen juist uitstekend bij hun emoties. Dieren gebruiken geen woorden, m
 
 Tegen dieren praten of aaien brengt je daarom al meer in contact met jouw eigen prikkels. Het contact met dieren is ontspannend en troostend, zeker voor mensen met ASS.
 
-
-
 8. ***Zoek de natuur op of gebruik natuurlijke prikkels.***
 
 De Japanners noemen het ‘boombadderen’. Mensen kunnen voor veel prikkels en verwarring zorgen, maar het aanzicht van een boom is al kalmerend. Wandel in het park, geniet van een natuurfilm, zet geluiden op van een kabbelend beekje of lach om kattenfilmpjes.
-
-
 
 9. ***Gebruik een creatieve uitlaatklep.***
 
@@ -131,13 +107,9 @@ Wist je dat veel kunstenaars autisme hebben? Als je hoofd vol zit en je komt er 
 
 Ook andere creatieve bezigheden geven je een gevoel van vrijheid. Wat dacht je van gedichten of verhalen schrijven? Knutselen of klei boetseren? Het kan prettig zijn je handen automatisch te laten overbrengen, wat je hersenen beleven. (En bovendien is vochtige klei of kleurige verf, weer zo’n positieve prikkel als in de eerste tip omschreven.)
 
-
-
 10. ***Kennis vergaren of een activiteit ontplooien bij je onderwerp van je gepieker.***
 
 Lees een boek of bezoek een museum over het onderwerp van je zorg. Als je meer weet van het onderwerp, heb je er meer controle op en dat werkt kalmerend.
-
-
 
 11. ***Muziek en/of dans***
 
@@ -145,9 +117,7 @@ Auditieve prikkels worden sterk beleefd door mensen met autisme. Dat kan ook pos
 
 ![Dansen brengt mensen in het algemeen, maar ook met autisme, dichter bij hun gevoel.](/img/autisme-8-dans.jpg "Pixabay.com")
 
-Moet je ervan wiebelen en dansen? Geef eraan toe en dans zoals je wilt. Niemand ziet je lekker, dus laat die muziek maar lekker door je heen stromen!
-
-
+Moet je ervan wiebelen en dansen? Geef eraan toe en dans zoals je wilt. Niemand ziet je, dus laat die muziek maar lekker door je heen stromen!
 
 12. ***Maak van denken juist je voordeel en je superpower.***
 
@@ -167,8 +137,6 @@ Ga dáár op door en probeer je voor te stellen hoeveel lol je zult hebben in de
 
 Gebruik je superbrein om het tegenovergestelde te denken, als je aan iets onprettigs denkt. Zodat je denkt aan iets dat wél prettig is. Soms lukt deze oefening meteen, maar soms moet je er ook een beetje mee oefenen. De oefening met een maatje doen en elkaar de tegenovergestelde gedachte geven, werkt ook vaak goed.
 
-
-
 13. ***Lichamelijke beweging***
 
 Net zoals dansen, leveren ook wandelen, gymmen of zelfs een rondje rennen, je heel wat voordelen als je vast zit in je hoofd.
@@ -182,8 +150,6 @@ Nog een voordeel: door het vrij bewegen van je lichaam, voelt je geest ook vrije
 Dit waren alle adviezen die we konden verzamelen op basis van onderzoek. Elk heeft een bewezen werking, maar ze werken niet allemaal even goed op iedereen. 
 
 Laten we echter eerlijk zijn: je hebt er maar 1 nodig. 1 stokje om dat hamsterrad even stil te houden. 
-
-
 
 *Gepubliceerd op 14 juli 2023*
 
