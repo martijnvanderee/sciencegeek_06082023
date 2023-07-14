@@ -83,6 +83,8 @@ Als wij allemaal duizenden jaren aan collectieve kennis achter de kiezen hebben,
 
 Bijvoorbeeld voor mensen met autisme en schizofrenie, kan de uitleg van lichaamstaal van een ander, tot problemen leiden, zo heeft De Gelder in neurologisch onderzoek gevonden. “Specifiek deze twee groepen mensen ervaren een hindernis in de hersenen om lichaamstaal te combineren met een andere prikkel. Uitsluitend lichaamstaal interpreteren, is geen probleem. Als hier een andere input, bijvoorbeeld een auditieve prikkel als schreeuwen bijkomt, raken mensen met schizofrenie en autisme in de war. Gezonde mensen combineren beide prikkels en komen tot een oordeel. Dat combineren is moeilijk voor autisten en schizofrenen. Hun brein geeft voorrang en waardeert een van de twee te hoog of te laag, met misverstanden tot gevolg.” 
 
+(﻿Over hoe mensen met autisme ook andere prikkels ervaren en verwerken, kun je ook ***[hier](/vastzitten-in-je-hoofd)*** verder lezen.)
+
 Of mensen in het algemeen allemaal goed zijn in lichaamstaal, daarover kan De Gelder kort zijn. “Net als alle andere vaardigheden waarover mensen van nature beschikken, zijn ook deze persoonsgebonden. Of iemand er beter in is, zou bijvoorbeeld aan empathisch vermogen kunnen liggen. Maar daar hebben we vooralsnog geen hard uitsluitsel over.”
 
 *Gepubliceerd op 9 mei 2023*
