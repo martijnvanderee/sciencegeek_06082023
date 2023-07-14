@@ -1,0 +1,3 @@
+---
+naam: dwangmatige gedachten
+---
