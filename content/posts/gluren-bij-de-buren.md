@@ -1,7 +1,7 @@
 ---
 templateKey: post.template
 title: Gluren bij de buren
-Subtitle: Hubble houdt onze naaste sterrenstelsel goed in de gaten!
+Subtitle: Hubble houdt onze naaste sterrenstelsels goed in de gaten!
 date: 2023-07-16T12:12:14.995Z
 headerPhoto: map-image-img-buurman-header-jpg-bron-nasa-onderschrift-buurman-header
 onderwerp: space
