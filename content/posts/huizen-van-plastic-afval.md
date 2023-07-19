@@ -18,7 +18,7 @@ tags:
   - duurzame woningen
   - duurzaamheid
 ---
-**We moeten niet minder plastic gebruiken, maar juist veel meer! En ons plastic afval gaan gebruiken voor huizen, wegen en het drukken van geld. Dat is een stuk duurzamer dan kunststof gebruiken om drinkflesjes of andere wegwerpartikelen te produceren.** 
+**We moeten niet minder plastic gebruiken, maar juist veel meer! Voor het bouwen van huizen en wegen en het drukken van geld. Dat is een stuk duurzamer dan kunststof inzetten om drinkflesjes of andere wegwerpartikelen te produceren.** 
 
 Zo denken wetenschappers aan de Stanford Universiteit er tenminste over. Maar als we denken aan de woorden plastic en kunststof, hebben we nu niet bepaald die associatie met duurzaamheid en milieuvriendelijkheid. En toch is dat wat de Amerikaanse ingenieurs willen veranderen. Je kunt er namelijk veel van zeggen, maar als iéts duurzaam is, is het wel plastic. Het spul weigert wel een eeuw te vergaan en denk eens aan de telefoons van 100 jaar geleden gemaakt van de kunststof bakeliet. Probeer die maar eens te mollen!
 
