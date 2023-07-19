@@ -12,6 +12,11 @@ tags:
   - woningbouw
   - woningtekort
   - huizencrisis
+  - plastic
+  - plastic trottoir
+  - woning van plastic afval
+  - duurzame woningen
+  - duurzaamheid
 ---
 **We moeten niet minder plastic gebruiken, maar juist veel meer! En ons plastic afval gaan gebruiken voor huizen, wegen en het drukken van geld. Dat is een stuk duurzamer dan kunststof gebruiken om drinkflesjes of andere wegwerpartikelen te produceren.** 
 
@@ -39,6 +44,6 @@ Dat een plastic woning niet zo gek is, als het lijkt, blijkt wel uit het praktij
 
 (Wat plastic kan doen met onze rivieren en vissen, als het wél in wegwerpproductie wordt gebruikt: dat kun je trouwens ***[hier](/kunststof-kleding-vergiftigt-vissen-al-70-jaar)*** lezen.)
 
-*Gepubliceerd op 21 juli 2023*
+*Gepubliceerd op 19 juli 2023*
 
 *Bronnen: dr. Michael Lepech and dr. Zhiye Li, Stanford University Verenigde Staten.*
