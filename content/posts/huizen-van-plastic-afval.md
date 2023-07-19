@@ -12,10 +12,13 @@ tags:
   - woningbouw
   - woningtekort
   - huizencrisis
+  - plastic
+  - plastic trottoir
+  - woning van plastic afval
+  - duurzame woningen
+  - duurzaamheid
 ---
-**We moeten niet minder plastic gebruiken, maar juist veel meer! En ons plastic afval gaan gebruiken voor huizen, wegen en het drukken van geld. Dat is een stuk duurzamer dan kunststof gebruiken om drinkflesjes of andere wegwerpartikelen te produceren.**
-
-
+**We moeten niet minder plastic gebruiken, maar juist veel meer! En ons plastic afval gaan gebruiken voor huizen, wegen en het drukken van geld. Dat is een stuk duurzamer dan kunststof gebruiken om drinkflesjes of andere wegwerpartikelen te produceren.** 
 
 Zo denken wetenschappers aan de Stanford Universiteit er tenminste over. Maar als we denken aan de woorden plastic en kunststof, hebben we nu niet bepaald die associatie met duurzaamheid en milieuvriendelijkheid. En toch is dat wat de Amerikaanse ingenieurs willen veranderen. Je kunt er namelijk veel van zeggen, maar als iéts duurzaam is, is het wel plastic. Het spul weigert wel een eeuw te vergaan en denk eens aan de telefoons van 100 jaar geleden gemaakt van de kunststof bakeliet. Probeer die maar eens te mollen!
 
@@ -27,8 +30,6 @@ Onzin dus, volgens de wetenschap, dat we juist deze stof gebruiken voor wegwerpa
 
 Plastic duurzaam inzetten is niet nieuw. Denk bijvoorbeeld aan bankbiljetten. De Britten en Australiërs maken hun biljetten al jaren van kunststof, maar in Europa maffen we lekker verder. De Europese centrale banken produceren miljarden en miljarden biljetten van ‘hoogwaardig katoenpapier’, zoals zij dat zelf noemen. Misschien hoogwaardig, maar nooit zo slijtvast als kunststof en al helemaal niet zo duurzaam.
 
-
-
 **De stoep is van plastic in Californië**
 
 De ingenieurs menen dat het hoog tijd wordt om eens te kijken welke producties nu écht lang mee moeten gaan. Voor die voorwerpen is kunststof ideaal, volgens de wetenschappers. Dat de wetenschap er niet eerder mee is gekomen is een raadsel: in veel Europese landen zijn de kunststof kozijnen al decennia lang ingeburgerd en de voorkant van het San Francisco Museum of Modern Art is ook van gerecycled plastic. In Californië maken ze nu trottoirs van kunststof en versterkte polymeren worden nu al wereldwijd gebruikt in de productie van boot-, auto- en vliegtuigonderdelen. Dus waarom niet bouwen met het spul en eindelijk van de afvalberg af zijn?
@@ -37,18 +38,12 @@ De ingenieurs menen dat het hoog tijd wordt om eens te kijken welke producties n
 
 Eigenlijk houdt maar één ding ons tegen, zeker als het gaat om grootschalige woningbouw. De aanlevering van gerecycled plastic is niet constant. Voor woningbouw zijn gigantische hoeveelheden nodig en dat vergt stroomlijning in de logistiek en in recycling trajecten.  Dat zijn echter management problemen, die te overkomen zijn. Volgens de wetenschappers althans. Als er meer samengewerkt wordt in de verwerking van plastic afval, kunnen de woningen tamelijk snel afgeleverd worden. 
 
-
-
 **Huizen van plastic afval**
 
 Dat een plastic woning niet zo gek is, als het lijkt, blijkt wel uit het praktijkvoorbeeld in Arnhem. Hier staat sinds 2020 al het eerste huis van gerecycled plastic afval. Nederland kan het lijden, want we hebben maar liefst 362 miljoen kilo plastic afval over. En dat exporteren we dan maar. Om vervolgens honderden miljoenen kilo’s hardhout te importeren voor woningbouw en - verbetering. Maar als het aan de wetenschap ligt, blijft dat hardhout dus voortaan in het bos, waar het hoort. En gaan we wonen in de plastic berg, die we zelf veroorzaakt hebben.
 
-
-
 (Wat plastic kan doen met onze rivieren en vissen, als het wél in wegwerpproductie wordt gebruikt: dat kun je trouwens ***[hier](/kunststof-kleding-vergiftigt-vissen-al-70-jaar)*** lezen.)
 
-
-
-*Gepubliceerd op 21 juli 2023*
+*Gepubliceerd op 19 juli 2023*
 
 *Bronnen: dr. Michael Lepech and dr. Zhiye Li, Stanford University Verenigde Staten.*
