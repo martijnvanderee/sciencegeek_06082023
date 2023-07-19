@@ -1,6 +1,6 @@
 ---
 templateKey: post.template
-title: 11 minuten beweging redt je leven!
+title: 11 minuten bewegen redt levens
 Subtitle: Grootste onderzoek ooit onder 30 miljoen mensen
 date: 2023-07-19T11:13:25.645Z
 headerPhoto: map-image-img-11-minuten-header-jpg-bron-pixabay-com-onderschrift-11-minuten-header
