@@ -16,7 +16,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
   const timeLeft = useTimeLeft(TIME_TILL_HIDDEN_BG)
   return (
     <Link href={`/${data.slug}`} as={`/${data.slug}`}>
-      <a className="focus:outline-none">
+      <div className="focus:outline-none">
         <article className="relative w-full h-72 md:max-w-4xl md:h-96  md:mx-auto cursor-pointer">
 
           <div className="relative w-full h-full ">
@@ -35,7 +35,7 @@ export const HeadPost: FunctionComponent<HeadPostProps> = ({ data }) => {
 
           </div>
         </article>
-      </a>
+      </div>
     </Link>
   )
 }

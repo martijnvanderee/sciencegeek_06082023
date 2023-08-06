@@ -12,8 +12,8 @@ import { useIsMenuOpen } from '../state/isMenuOpen'
 import { useIsSearchMenuOpen } from '../state/isSearchMenuOpen'
 
 type LayoutProps = {
-
-}
+  children: any
+} 
 
 export const Layout: FunctionComponent<LayoutProps> = ({ children }) => {
   const router = useRouter()

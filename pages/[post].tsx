@@ -102,7 +102,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
 
           <div className="mb-6 text-xl mx-auto">
             <Container className="prose-xl md:prose-2xl mx-auto" >
-              {ReactHtmlParser(firstPart, { transform: transformImage })}
+              {ReactHtmlParser(firstPart, { transform: transformImage }) as any}
             </Container>
           </div>
           {photos.photosData.length !== 0 && <div className="relative w-full md:max-w-4xl md:mt-10 md:mx-auto mb-4">
@@ -124,7 +124,7 @@ const Post: FunctionComponent<PostProps> = ({ post, randomPosts }) => {
           </div>}
 
           <Container className="prose-xl md:prose-2xl mx-auto" >
-            {ReactHtmlParser(secondPart, { transform: transformImage })}
+            {ReactHtmlParser(secondPart, { transform: transformImage }) as any}
           </Container>
         </div>
         <div className="mx-2">

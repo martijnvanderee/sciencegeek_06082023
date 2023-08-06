@@ -14,7 +14,7 @@ type PostProps = {
 export const Post: FunctionComponent<PostProps> = ({ url, post, photo }) => {
   return (
     <Link href={`/${url}`} as={`/${url}`}>
-      <a className="focus:outline-none focus:ring focus:border-blue-300">
+      <div className="focus:outline-none focus:ring focus:border-blue-300">
       <div className="p-4 cursor-pointer">
         <div className="relative h-64 ">
           <img
@@ -32,7 +32,7 @@ export const Post: FunctionComponent<PostProps> = ({ url, post, photo }) => {
           <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
         </div>
       </div>
-      </a>
+      </div>
     </Link>
   )
 }

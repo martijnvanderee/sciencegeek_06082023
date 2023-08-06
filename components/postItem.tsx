@@ -19,7 +19,7 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
   const image1 = `img/meisje-gitaar-vrolijk.jpg`
   return (
     <Link href={`/${post.slug}`} as={`/${post.slug}`}>
-      <a className="w-full focus:outline-none flex-shrink-0">
+      <div className="w-full focus:outline-none flex-shrink-0">
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
@@ -44,7 +44,7 @@ export const PostItem: FunctionComponent<PostProps> = ({ post }) => {
             </div>
           </div>
         </article>
-      </a>
+      </div>
     </Link>
   )
 }
@@ -64,7 +64,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
   const timeLeft = useTimeLeft(3)
   return (
     <Link href={`/${slug}`} as={`/${slug}`}>
-      <a className="w-full focus:outline-none focus:ring focus:border-blue-300">
+      <div className="w-full focus:outline-none focus:ring focus:border-blue-300">
         <article className="w-full mb-4 cursor-pointer">
           <div className="flex h-24 border-b border-almostWhite">
             <div className="relative flex-none h-full w-32">
@@ -89,7 +89,7 @@ export const PostItem1: FunctionComponent<postProps1> = ({ slug, image, title, o
             </div>
           </div>
         </article>
-      </a>
+      </div>
     </Link>
 
   )
@@ -104,7 +104,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
 
   return (
     <Link href={`/${post.slug}`} as={`/${post.slug}`}>
-      <a className="focus:outline-none focus:ring focus:border-blue-300">
+      <div className="focus:outline-none focus:ring focus:border-blue-300">
         <article className="m-4 cursor-pointer">
           <div className="relative h-64">
 
@@ -125,7 +125,7 @@ export const PostItem2: FunctionComponent<postProps2> = ({ post }) => {
             <div className="absolute w-0.5 bg-yellow h-12 bottom-0 right-0"></div>
           </div>
         </article>
-      </a>
+      </div>
     </Link>
   )
 }

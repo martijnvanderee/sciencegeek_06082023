@@ -1,5 +1,4 @@
 import { useState, useEffect } from "react"
-import Link from "next/link";
 
 import { FormInput } from "./index"
 import { useFetch } from "../../localFunctions/lunrjs"
@@ -15,9 +14,6 @@ import { FaBackspace } from 'react-icons/fa';
 import { IconContext } from "react-icons";
 
 import { useKeyPress } from "../../hooks/useKeyPress"
-
-
-
 
 export const SearchPage = () => {
   const { state, dispatchMenu } = useIsSearchMenuOpen()

@@ -45,9 +45,9 @@ export const MenuSlider = () => {
           })}
 
           <Link href="/over-sciencegeek">
-            <a onClick={() => dispatch({ type: 'close' })} className={` relative`} >
+            <div onClick={() => dispatch({ type: 'close' })} className={` relative`} >
               <div className={`ml-4 text-2xl py-4 border-b border-almostWhite  `}>Over ScienceGeek</div>
-            </a>
+            </div>
           </Link>
 
         </div>
@@ -67,11 +67,11 @@ const NavItem: FunctionComponent<NavProps> = ({ path, isRoute, name }) => {
   const { state, dispatch } = useIsMenuOpen()
   return (
     <Link href={path}>
-      <a onClick={() => dispatch({ type: 'close' })} className={` relative ${isRoute && `bg-almostWhite flex`}`}>
+      <div onClick={() => dispatch({ type: 'close' })} className={` relative ${isRoute && `bg-almostWhite flex`}`}>
         <div className={`ml-4 text-2xl py-4 border-b border-almostWhite  ${isRoute && `font-bold `}`}>{name}</div>
         {isRoute && <div className="absolute h-full w-2 left-0 bg-purple" />}
 
-      </a>
+      </div>
     </Link>
   )
 }

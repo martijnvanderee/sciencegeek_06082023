@@ -7,7 +7,7 @@ export const BlogPost = ({ blogPost }: any) => {
 
   return (
     <Link href={`/blog/${urlLink}`} as={`/blog/${urlLink}`}>
-      <a className="flex md:block bg-white cursor-pointer rounded h-32 md:h-auto shadow-offset hover:shadow-offsetHover rounded transition duration-500 ease-in-out">
+      <div className="flex md:block bg-white cursor-pointer rounded h-32 md:h-auto shadow-offset hover:shadow-offsetHover rounded transition duration-500 ease-in-out">
         <div className="object-cover h-full md:h-64 w-32 md:w-full flex-none">
           <img
             className="object-cover h-full w-full rounded-t"
@@ -28,7 +28,7 @@ export const BlogPost = ({ blogPost }: any) => {
             {formatDate(blogPost.attributes.date)[0]}
           </time>
         </section>
-      </a>
+      </div>
     </Link>
   )
 }
