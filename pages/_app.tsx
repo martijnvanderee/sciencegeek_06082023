@@ -17,8 +17,6 @@ const isProduction = process.env.NODE_ENV === "production";
 const MyApp: React.FC<AppProps> = ({ Component, pageProps }:any) => {
   const router = useRouter();
 
-
-
   React.useEffect(() => {
     // Remove the server-side injected CSS.
 
